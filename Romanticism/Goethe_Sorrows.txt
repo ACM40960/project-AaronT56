@@ -1,0 +1,678 @@
+The Sorrows of
+Young Werther
+Johann Wolfgang von Goethe
+Translated by
+Bayard Quincy Morgan
+
+AL MA CL AS S I CS
+
+alma classics ltd
+
+London House
+243-253 Lower Mortlake Road
+Richmond
+Surrey TW9 2LL
+United Kingdom
+www.almaclassics.com
+Die Leiden des jungen Werther first published in 1774
+This translation first published under the title The Sufferings of Young
+Werther by John Calder (Publishers) Ltd in 1957
+A revised edition first published by Alma Classics Limited (previously
+Oneworld Classics Ltd) in 2010. Reprinted 2011, 2012
+This new edition first published by Alma Classics in 2015
+English translation and Introduction © Alma Classics, 1957, 2010
+Printed in Great Britain by CPI Group (UK) Ltd, Croydon, CR0 4YY
+isbn:
+
+978-1-84749-404-7
+
+All rights reserved. No part of this publication may be reproduced,
+stored in or introduced into a retrieval system, or transmitted, in any
+form or by any means (electronic, mechanical, photocopying, recording
+or otherwise), without the prior written permission of the publisher.
+This book is sold subject to the condition that it shall not be resold, lent,
+hired out or otherwise circulated without the express prior consent of the
+publisher.
+
+Contents
+Introduction
+Chronology
+The Sorrows of Young Werther
+First Book
+Second Book
+The Editor to the Reader
+Notes
+
+vii
+xi
+
+1
+5
+61
+97
+133
+
+Introduction
+
+O
+
+n 30th october 1772, Legation Secretary Karl Wilhelm
+Jerusalem in Wetzlar shot and killed himself with
+a pistol borrowed from J.C. Kestner, a friend of Goethe.
+Jerusalem was Goethe’s friend too; he had first met Goethe,
+who was two years his junior, as a student in Leipzig, and
+their association had been renewed that summer in Wetzlar.
+The tragedy made a profound impression on Goethe, and I
+see in The Sorrows of Young Werther a certain vindication of
+his friend (what his contemporary Lessing might have termed
+a Rettung, i.e., a rescue from misjudgement). Jerusalem’s
+death must have been discussed with animation and some
+heat, and much of what Goethe put into Werther’s letter
+of 12th August 1771 was no doubt a digest of arguments
+which he had himself used in trying to explain, if not to
+justify, Jerusalem’s act. I think even the hero’s name may be
+significant, for in German the word wert (old spelling werth)
+means “worthy, estimable”.
+Not a little of Werther’s story derives from Jerusalem: his
+dislike of official conventionality (24th December 1771),
+his annoyance at verbal pedantry (ibid.), his aversion to the
+Ambassador (17th February 1772), his wounded feelings
+at being snubbed by aristocrats (16th March 1772) and his
+unhappy (and unrequited) love for a married woman (whose
+husband threw him out). The rest is largely supplied by
+young Goethe himself, who in his passionate attachment to
+Charlotte Buff, later the wife of Kestner, wrote letters just
+like Werther’s. It will be noted that Werther’s birthday is the
+same as Goethe’s (28th August 1771); quite Goethean is his
+rapturous delight in nature; his admiration for Homer; his
+
+vii
+
+the sorrows of young werther
+
+pantheism (letter of 18th August). As to Werther’s suicide,
+we may confidently assume that Goethe had entertained
+thoughts of ending his life at times when overmastering
+emotion resulted in feelings of frustration and defeat.
+The result of this combination of actualities was a
+milestone in German literature. Werther is the first German
+novelette (a form in which German writers have excelled), the
+first German epistolary novel and the first German work of
+any kind to make both its author and his country’s literature
+internationally known. Translations appeared promptly in
+France and England, where twenty-six separate editions (of
+a translation from the French) were published up to 1800.
+No less a realist than Napoleon was a great admirer of the
+story, which he is said to have read seven times, and which he
+discussed with Goethe when they met in 1808. In Germany
+the work created a tremendous sensation: within twelve years
+after its first publication twenty unauthorized editions had
+been issued. The “Werther costume”, consisting of blue tailed
+coat, yellow waistcoat and trousers with high boots (16th
+September 1772), was adopted everywhere and was worn at
+Weimar by the court when Goethe went there in 1775.
+We need to recall such facts when we approach a story
+which is in many respects so foreign to our present modes of
+thought and expression. Young men today, however greatly
+they may be influenced by emotion, do not shed “a thousand
+tears” or impress “a thousand kisses” on a lady’s picture.
+But this is the way the eighteenth century talked, the way it
+liked to think that a lover’s devotion should express itself.
+No single work can communicate to us as authentically as
+Werther the extravagances of feeling and utterance which
+mark the trend in German letters commonly designated as
+“Storm and Stress”, a trend which was the precursor of the
+Romanticism that took the lead in German literature at the
+turn of the century and kept it for more than thirty years.
+At the same time, Werther is the first psychological novel
+in German. There are few actual happenings, and what we
+viii
+
+introduction
+
+experience, with extraordinary clarity and vividness, is the
+drama which runs its course in the mind and heart of the
+hero. Considering Goethe’s self-imposed limitation – there
+are no replies to Werther’s letters – it was a tour de force
+hardly equalled in Western literature to make the reader
+inhabit Werther’s soul, as it were, without any flagging of
+interest and even with peaks of considerable excitement.
+A special note on Ossian seems in order, since today the
+Ossianic poems are probably deader than any other item in
+eighteenth-century literature. We need to remind ourselves that
+when Goethe wrote Werther, Macpherson’s fake had not been
+disclosed, and that his sentimental fabrications were believed
+to represent a genuine, wild primitivity. Hence the vogue of
+Ossian can make a signal contribution to our understanding of
+eighteenth-century mentality and aid in the correct assessment
+of Werther itself. Knowing that Werther’s feeling towards Ossian
+was actually Goethe’s, we can better appreciate the artistic
+purpose underlying the introduction of a lengthy quotation
+from Ossian (in Goethe’s own translation). It was necessary,
+he saw, that Lotte should be moved to the depths, lifted out of
+herself and thus prepared to be overcome by Werther’s outburst
+of passion; to achieve this, she had to be withdrawn from her
+own everyday world and immersed in a wholly different one,
+in which she should be bathed in beautiful diction, saturated
+with sentiment. Assuming her (and the reader’s) enthusiasm
+for Ossian, this was the perfect agency for Goethe to employ.
+The matter of the long quotation is of little moment: Goethe
+wanted merely the emotional build-up. What serves them as
+catalyst is the short passage (remote in Ossian from the previous
+one, and slightly altered in Goethe’s version) in which the singer
+foretells his own death; Werther, by now in a state of the utmost
+turmoil, cannot fail to break down at this point, and that in
+turn brings on a crisis which makes his suicide inevitable.
+So great was Goethe’s success in bringing Werther to life,
+so deep was the sympathy he evoked for him, that he was
+thought by many to have put the stamp of his approval on
+ix
+
+the sorrows of young werther
+
+Werther’s character, and moreover to have written a defence
+of human suicide. As to this, it need only be remarked that
+Shakespeare could make Hamlet understandable without
+sharing his views or living his life. The mere fact that young
+Goethe did not take his own life, for all his tempestuous
+nature and his passionate grief over Lotte Buff, is sufficient
+evidence that he intended Werther’s suicide to be understood
+as the necessary culmination of a course of action which was
+itself not necessary, although humanly understandable.
+It is interesting that Werther-Goethe discovered a prin­
+ciple (15th August 1771) which Rudyard Kipling was to put
+into practice in his Just so Stories. And it is amusing to find
+Werther advising a poet to let his own work alone; for Goethe
+did not take his hero’s advice. Originally dashed off in 1774
+in a veritable fever of creativeness, Werther was thoughtfully
+revised in the years 1783–86, the most substantial addition to
+the letters themselves being the episode of the servant in love
+with his employer (30th May 1771), who finally murders his
+rival. The other important change was a marked enlargement
+(about fifty per cent) of the epilogue written by the “editor”. It
+is however noteworthy – and to that extent Goethe did abide
+by his own prescription – that not only the basic substance of
+the story remained unaltered, but that even its external form
+was not tampered with. Goethe did not rewrite Werther, he
+merely saw to it that his original intent should be even more
+effectively carried out than in the first version.
+Werther remains, then, along with the Urfaust and some
+deathless poems, as the literary monument which young
+Goethe erected to himself and to the people from which
+he sprang. As long as German literature of the eighteenth
+century is studied, Werther must be included.
+– Bayard Quincy Morgan
+
+x
+
+Chronology
+1749
+1765–68
+1770–71
+1772
+1773
+1774
+1774
+1775
+1775
+1776–85
+1779
+1781
+1786–88
+1787
+1790
+1794
+1795–96
+1797
+1797–99
+1803
+1808
+1808
+
+Born at Frankfurt-am-Main.
+Studied at Leipzig.
+Studied law at Strasburg.
+Spent some months in Wetzlar at the Supreme
+Court of the Empire.
+Götz von Berlichingen (prose drama).
+Clavigo (prose drama).
+Die Leiden des jungen Werther (novel; rev.
+1783–86).
+Stella (prose drama).
+Invited to Weimar as companion to young duke,
+remained there.
+Wilhelm Meisters theatralische Sendung (novel).
+Iphigenie auf Tauris (prose drama; changed to
+blank verse in 1787).
+Torquato Tasso (verse drama; completed 1789).
+Journey to Italy, sojourn in Rome.
+Egmont (prose drama).
+Faust (Fragment) (verse drama).
+Reineke Fuchs (verse epic).
+Wilhelm Meisters Lehrjahre (novel, revision of
+the Sendung).
+Hermann und Dorothea (verse epic).
+Achilleis (unfinished verse epic).
+Die natürliche Tochter (verse drama).
+Faust, erster Teil (verse drama).
+Pandora (masque in verse).
+xi
+
+the sorrows of young werther
+
+1809
+1809
+1811–
+1819
+1829
+1831
+1832
+
+Die Wahlverwandtschaften (novel).
+Farbenlehre (theory of optics).
+Dichtung und Wahrheit (autobiography).
+Der west-östliche Divan (poems).
+Wilhelm Meisters Wanderjahre (novel).
+Faust, zweiter Teil (verse drama, printed post­
+humously).
+Death of Goethe.
+
+xii
+
+The Sorrows of
+Young Werther
+
+I
+
+have carefully collected all I could possibly find out
+about the history of poor Werther, and I lay it before you
+here, knowing that you will thank me for doing so. You
+cannot deny his mind and character your admiration and
+love, or his fate your tears.
+And you, good soul, who are feeling the same anguish as
+he, draw consolation from his sufferings, and let this little
+book be your friend, if fate or your own fault prevent you
+from finding a closer one.
+
+3
+
+First Book
+
+4th May 1771
+How happy I am to be gone! Best of friends, what is the heart
+of man! To forsake you, whom I love so much, from whom
+I was inseparable, and be happy! I know you will forgive me
+for it. Were not my other associations so chosen by Fate as to
+make a heart like mine uneasy? Poor Leonore! And yet it was
+not my fault. Could I help it that while the compelling charms
+of her sister gave me agreeable entertainment, that poor heart
+developed its own passion? And yet – am I quite without fault?
+Did I not nourish her feelings? Did I not myself delight in
+those wholly authentic manifestations of nature which so often
+made us laugh, little laughable as they were? Did I not – O
+what is man, that he has a right to lament what he is? I will,
+dear friend, I promise you, I will reform, will no longer harp
+on the misfortunes with which fate presents us, as I have always
+done; I will enjoy the present, and the past shall be past. You
+are certainly right, best of men: there would be fewer sufferings
+among men if they did not – God knows why they are so made
+– so industriously employ their imagination in recalling the
+memories of past evils, rather than endure a colourless present.
+Please be so good as to tell my mother that I shall attend
+to her affair as best I can and send her a report of it as soon
+as possible. I have seen my aunt and find her far from being
+the vixen that people at home make of her. She is a lively,
+impetuous woman with the best of hearts. I explained to
+her my mother’s complaints regarding that portion of the
+inheritance which has been withheld; she gave me her reasons
+and the facts, and named the conditions under which she
+would be ready to hand over everything, and even more than
+we demanded – in short, I don’t care to write about it now,
+but tell my mother that everything will be all right. And in
+7
+
+the sorrows of young werther
+
+connection with this little matter I have again found, my dear
+fellow, that misunderstandings and lethargy perhaps produce
+more wrong in the world than deceit and malice do. At least the
+two latter are certainly rarer.
+For the rest, I like it here very much. Solitude in this paradise
+is a precious balm to my heart, and this youthful time of year
+warms with all its fullness my oft-shivering heart. Every tree,
+every hedge is a bouquet of flowers, and one would like to turn
+into a cockchafer, to be able to float about in this sea of scents
+and find all one’s nourishment in it.
+The town itself is unpleasant, but on the other hand all
+around it lies inexpressibly beautiful nature. It was this which
+induced the late Count M. to lay out a garden on one of the
+hills which intersect with the most charming diversity, forming
+the loveliest valleys. The garden is unpretentious, and you no
+sooner enter it than you feel that it was designed not by a
+scientific gardener but by a man with a sensitive heart, who
+wanted to use it for the enjoyment of himself. I have already
+shed many a tear for the deceased in the decayed little bower
+which was his favourite spot and is now mine. Soon I shall be
+the master of the garden; the gardener has a liking for me,
+even after so few days, and he will not suffer by it.
+10th May
+A wonderful cheerfulness has taken possession of my whole
+soul, similar to the sweet spring mornings which I enjoy with
+all my heart. I am alone and glad to be alive in this locality,
+which was created for such souls as mine. I am so happy,
+dear friend, so completely immersed in the realization of a
+tranquil existence, that my art is suffering neglect. I could
+not draw at all now, not a line, and yet I have never been a
+greater painter than I am now. When the beloved valley
+steams around me, and the lofty sun rests on the surface of
+the impenetrable darkness of my forest with only single rays
+stealing into the inner sanctuary, then I lie in the tall grass
+8
+
+first book
+
+beside the murmuring brook, while on the earth near me a
+thousand varied grasses strike me as significant; when I feel
+the swarming life of the little world between the grass blades,
+the innumerable, unfathomable shapes of the tiny worms and
+flies, closer to my heart, and feel the presence of the Almighty,
+who created us in his image, feel the breath of the all-loving
+one, who, afloat in eternal rapture, bears and sustains us –
+O my friend! – then when twilight invests my eyes, and the
+world about me and the heaven above me rests wholly in my
+soul like the image of a woman one loves – then I am often
+all longing and I think: ah, could you express all that again,
+could you breathe onto paper that which lives in you so fully,
+so warmly, so that it would become the reflection of your
+soul, as your soul is a mirror of the infinite God! My friend
+– but this experience is beyond my strength, I succumb to the
+overpowering glory of what I behold.
+12th May
+I don’t know whether deluding spirits hover about this
+region, or whether it is the warm, heavenly fancy in my heart
+which turns my whole environment into a paradise. Thus,
+directly outside the town there is a well, one to which I am
+magically bound like Melusine and her sisters.* You go down
+a little slope and find yourself in front of a vault in which
+about twenty steps descend to a spot where the clearest water
+gushes out of marble rocks. The little wall which serves as
+coping at the top, the tall trees which give shade all around,
+the coolness of the spot – all this has a suggestive, mysterious
+character. Not a day passes without my sitting there for an
+hour. Then the maids come from the town and fetch water,
+the most innocent and necessary of employments, which in
+former days the daughters of kings engaged in themselves.
+When I sit there, the patriarchal idea is vividly realized about
+me, as all the men of old make friends or go courting at the
+well, while beneficent spirits hover about the wellsprings and
+9
+
+the sorrows of young werther
+
+fountains. Oh, a man who cannot share that experience must
+never have been refreshed, after an arduous journey in the
+summer, by the coolness of a wellspring.
+13th May
+You ask whether to send me my books – friend, I beg you
+for the love of God, don’t load me up with them! I do
+not wish to be guided, encouraged, enkindled any more;
+my heart effervesces enough all by itself. What I need is
+lullabies, and I have found an abundance of them in my
+Homer. How often do I lull my agitated blood into quiet,
+for you have never seen anything as uneven, as unstable, as
+this heart. Good friend, do I need to tell that to you, who
+have so often borne the burden of seeing me pass from grief
+to extravagant joy and from sweet melancholy to disastrous
+passion? Moreover, I treat my heart like a sick child, granting
+its every wish. Do not pass this on; there are those who
+would reproach me for it.
+15th May
+The lower classes here know me already and love me,
+especially the children. When I sought their acquaintance to
+begin with, and put friendly questions to them about this and
+that, some of them thought I was making fun of them and
+snubbed me quite rudely. I did not let this bother me; I only
+felt most keenly what I have often observed before: people
+of some rank will always keep the common people coolly at
+a distance, as if they thought they would lose something by
+approaching them, and then too there are social apostates
+and practical jokers, who seem to condescend, making their
+arrogance all the more painful to the poor.
+I am quite aware that we are not equal and cannot be equal,
+but I hold that he who thinks it necessary to withdraw from
+the so-called rabble in order to keep their respect is just as
+10
+
+first book
+
+reprehensible as a coward who hides from his enemy because
+he is afraid of defeat.
+Recently, as I came to the spring, I found a young servant girl
+who had put her pitcher on the lowest step and was looking
+around to see if no fellow servant were coming along to help
+her get it on her head. I descended and looked at her. “Shall
+I help you, girl?” said I. She blushed up to her ears. “Oh no,
+sir!” she said. “Don’t stand on ceremony.” She adjusted her
+head cushion, and I helped her. She thanked me and mounted
+the steps.
+17th May
+I have made all kinds of acquaintances, but so far I have not
+found any companions. I don’t know, something about me
+must attract people; so many of them like me and cling to
+me, and it pains me when our common journey takes us only
+a short distance. If you ask what the people here are like, I
+must tell you, “Like people everywhere!” Uniformity marks
+the human race. Most of them spend the greater part of their
+time in working for a living, and the scanty freedom that is
+left to them burdens them so that they seek every means of
+getting rid of it. O fate of man!
+But these people are a very good sort! If I forget myself
+once in a while, tasting with them the joys that are still
+granted to me, such as exchanging pleasantries in all
+candour and ingenuousness around a prettily set table,
+planning an excursion, or arranging for a well-timed dance,
+and the like, the effect on me is very good; only I must not
+let myself think that in me lie ever so many other powers, all
+of which moulder for lack of use, and which I must carefully
+conceal. Ah, and that fetters my whole heart ­– and yet! To
+be misunderstood is the fate of such as I.
+Alas that the friend of my youth is gone! Alas that I ever
+knew her! I could say, “You are a fool! For you are seeking
+what is not to be found here below!” But I did have her
+11
+
+the sorrows of young werther
+
+friendship, I sensed that heart, that great soul, in whose
+presence I felt myself to be more than I was, because I was all
+that I could be. Good God! Was there a single force in my soul
+which remained unused? Could I not, when with her, unfold
+that entire power of feeling with which my heart embraces
+all nature? Was not our association an endless play of the
+subtlest feeling, of the keenest wit, a wit whose variations,
+not excluding some flippancy, bore the stamp of genius? And
+now! Ah, the years of hers which exceeded mine brought her
+before me to the grave. Never shall I forget her, never her
+steadfast mind and her divine indulgence.
+A few days ago I met a young man named V., an ingenuous
+youth with a very happy physiognomy. He has just come from
+the university, and though he does not exactly think himself
+wise, he does believe he knows more than others. He was diligent
+too, as I can tell in all sorts of ways – in short, he is pretty well
+informed. Having heard that I draw a great deal and know
+Greek (two rare phenomena in these skies), he sought me out
+and unloaded much learning, from Batteux to Robert Wood,
+from Roger de Piles to Winckelmann, assuring me that he had
+read Sulzer’s General Theory of the Fine Arts, that is, the first
+part of it, from beginning to end, and that he owned a MS of
+Heyne on the study of classical antiquity.* I let it go at that.
+Furthermore, I have made the acquaintance of a very fine
+person: a steward of the prince, a frank and ingenuous man.
+They say it rejoices the soul to see him in the midst of his
+children, of whom he has nine; in particular they make a
+great fuss over his eldest daughter. He has invited me to his
+house, and I will call on him one of these days. He is living in
+one of the prince’s hunting lodges, an hour and a half from
+here on foot, having received permission to move there after
+the death of his wife, since he found residence here in the
+town and in the official dwelling too painful.
+In addition, a number of eccentric freaks have crossed
+my path whom I find insufferable in every respect, most
+unendurable being their manifestations of friendship.
+12
+
+first book
+
+Farewell! This letter will suit you, for it is nothing but a
+report.
+22nd May
+That the life of man is only a dream has seemed to be so to
+many before now, and I too always carry this feeling about
+with me. When I behold the narrow bounds which confine
+man’s powers of action and investigation; when I see how
+all his efficiency aims at the satisfaction of needs which in
+their turn have no purpose save to prolong our unhappy
+existence, and then see that all our reassurance regarding
+certain matters of inquiry is merely a resigned kind of
+dreaming, whereby we paint the walls within which we are
+confined with cheerful figures and bright prospects – all this,
+Wilhelm, forces me into silence. I return into myself, and
+find a world! But again a world of groping and vague desires
+rather than one of clear delineation and active force. And
+then everything grows hazy to my senses, and in a sort of
+dream I keep on smiling at the world.
+All learned schoolmasters and educators agree that
+children do not know why they want what they want, but
+that adults too, as well as children, stagger around on this
+earth, like them not knowing whence they come and whither
+they go, pursue true goals just as little as they, and are just
+as completely governed by biscuits and cakes and birch rods:
+nobody will believe that, and yet it seems to me palpable.
+I am ready to grant – for I know what you would say to
+this – that the happiest are those who like children live for
+the day, drag their dolls around, dressing and undressing
+them, slink with bated breath about the drawer where
+Mama keeps the sweets locked up and, when they finally get
+hold of what they want, gobble it down by the mouthful and
+cry, “More!” – those are happy creatures. Happy are those
+too who give sumptuous titles to their shabby occupations,
+perhaps even to their passions, recommending them to
+13
+
+the sorrows of young werther
+
+the human race as gigantic operations contributing to
+man’s salvation and welfare. Happy the man who can be
+like that! But one who recognizes in all humility what all
+this comes to, who sees how amiably every happy citizen
+manages to shape his little garden into a paradise, and how
+indefatigably even the unhappy man plods along panting
+under his burden, while all of them take the same interest in
+having one more minute to see the light of this sun – ah, he
+holds his peace, and he too creates his world in himself, and
+is moreover happy because he is a human being. And then,
+confined and fettered as he is, still he continues to keep in
+his heart the sweet feeling of freedom, knowing that he can
+quit this prison whenever he will.
+26th May
+You have long known my way of settling down, pitching
+my tent in some spot I like, and lodging there in a modest
+fashion. Here too I have again come upon a nook that I found
+attractive.
+About an hour’s walk from town lies a place called
+Wahlheim.* Its situation on a hill is very interesting, and
+when you leave the village on the upper footpath, all at once
+you are overlooking the entire valley. A good-hearted hostess,
+who is obliging and lively for her age, dispenses wine, beer
+and coffee, and rising above everything else are two lindens
+whose spreading branches cover the small space before the
+church, which is completely ringed about with farmhouses,
+barns and courtyards. So private, so homelike a spot I have
+not readily found, and I have my little table carried out there
+from the inn, and my chair, and there I drink my coffee and
+read my Homer. The first time when I chanced to walk in
+under the lindens on a fine afternoon, I found the little spot
+so lonely. Everyone was in the fields, and only a boy of about
+four was sitting on the ground and holding close to his breast
+with both arms another one, perhaps half a year old, sitting
+14
+
+first book
+
+between his feet, so that he made a kind of armchair for
+the baby and, for all the liveliness with which his black eyes
+looked about him, sat quite still. I found the sight charming:
+I sat down on a plough across the way and sketched this
+brotherly posture with great enjoyment. I added the nearest
+fence, a barn door and some broken wheels, all of it just as it
+stood there, and after the lapse of an hour I found that I had
+completed a well-disposed, very interesting drawing, without
+putting in the least imaginary detail. This strengthened me in
+my resolve to keep henceforth exclusively to nature. Nature
+alone is infinitely rich, and she alone forms the great artist.
+One can say much in favour of rules, about the same things
+as can be said in praise of civil society. A person who trains
+himself by the rules will never produce anything absurd or
+bad, just as one who lets himself be modelled after laws and
+decorum can never become an intolerable neighbour, never
+an outright villain; on the other hand any “rule”, say what
+you like, will destroy the true feeling for nature and the true
+expression of her! I hear you say that that is too severe, that the
+rule merely restrains, prunes rank shoots, etc. – good friend,
+shall I give you a comparison? It may be likened to loving. A
+young heart is wholeheartedly bound up in a maiden, spends
+every daytime hour with her, squanders all its talents, all its
+fortune, in order to employ every moment in expressing its
+complete devotion to her. And now suppose some pedant
+comes along, a man who holds a public office, and says to
+him, “Fine young gentleman, to love is human, only you must
+be human in your loving! Apportion your hours, keeping
+some for work, and devote the hours of recreation to your
+maiden. Figure up your fortune, and whatever is in excess of
+your needs I will not forbid you to spend on a present for her,
+only not too often, say on her birthday or name day, etc.” – if
+the youth obeys, then a useful young person will be the result,
+and I would even advise any prince to make him a counsellor;
+however, it will be the end of his love and, if he is an artist,
+of his art. O my friends! You ask why the stream of genius
+15
+
+the sorrows of young werther
+
+so seldom bursts forth, so seldom sends its sublime floods
+rushing in, to make your souls quake with astonishment?
+Dear friends, why, there along both banks of the river dwell
+the placid gentlemen whose summer houses, tulip beds
+and cabbage fields would be ruined, and who consequently
+manage to avert betimes, with dams and drainage ditches,
+any future threat.
+27th May
+I see that I have lapsed into raptures, parables and oratory,
+and have thus forgotten to complete the story of my further
+doings with the children. Wholly engrossed in the feelings of
+an artist, which my letter of yesterday presents to you in very
+fragmentary form, I sat on my plough for a good two hours.
+Then towards evening a young woman with a small basket on
+her arm came towards the children, who had not moved all
+this while, calling from a distance, “Philip, you’re a good boy.”
+She spoke to me, I thanked her, got up, approached her, and
+asked if she was the children’s mother. She said yes and, giving
+the older one half a roll, she picked up the baby and kissed it
+with all a mother’s love. “I told my Philip to hold the baby,”
+said she, “and went into town with my oldest boy to get white
+bread and sugar, and an earthenware saucepan.” I saw all this
+in the basket, the cover of which had fallen off. “I want to
+cook my Hans (that was the name of the youngest) a bit of
+soup for supper; the big boy, the scamp, broke my saucepan
+yesterday while quarrelling with Philip over the scrapings of
+the porridge.” I asked about the oldest, and she had hardly
+told me that he was racing around the meadow with some
+geese when he came running and brought the second boy a
+hazel switch. I went on talking with the woman and learnt
+that she was the daughter of the schoolmaster, and that her
+husband had gone on a trip to Switzerland to get the legacy of
+a cousin. “They wanted to cheat him out of it,” said she, “and
+didn’t answer his letters; so he went there himself. I only hope
+16
+
+

@@ -1,0 +1,4616 @@
+THE STRANGER
+
+ALS O
+
+BY
+
+A LB E R T
+
+CA M U S
+
+Awarded the Nobel Prize for Literature in 1957
+Notebooks
+
+I 942-1951 (Carnets,
+janvier 1942-mars 1951) I965
+
+Notebooks 1935-1942 (Carnets,
+
+mai 1935-{evrier 1942) I963
+Resistance, Rebellion, and Death (Actuelles
+-a selection) I 96 I
+The Possessed (Les Possedes) I 96o
+Caligula and Three Other Plays (Caligula,
+
+Le Malentendu, L'Etat de siege,
+Les Justes) I958
+Exile and the Kingdom (L'E:xil
+
+et leRoyaume) I958
+The Fall (La Chute) I 957
+The Myth of Sisyphus (Le Mythe de Sisyphe)
+and Other Essays I955
+The Rebel (L'HommeRevolte) I954
+The Plague (La Peste) I948
+The Stranger (L'Etranger) I946
+
+THE
+
+STRANGER
+ALBERT CAMUS
+Translated from the French
+by
+
+Matthew Ward
+
+V I NT A G EI NT ER NATI O NAL
+VINTAGEBOOKS
+A DIVISION OF RAND OM HOUS E,INC.
+NEW YORK
+
++
+
+FIRST VINTAGE iNTERNATIONAL EDITION, MARCH 1989
+Copyright© 1988 by Alfred A. Knopf, Inc.
+All rights reserved under International and Pan-American
+Copyright Conventions. Published in the United States by
+Random House, Inc., New York. Originally published in
+French as r: Etrarzger by Librairie Gallimard, France, in 1942.
+Copyright 1942 by Librairie Gallimard. Copyright renewed
+1969 by Mme Veuve Albert Camus. This translation origi­
+nally published, in hardcover, by Alfred A. Knopf, Inc., in
+1988.
+Library of Congress Cataloging-in-Publication Data
+Camus, Albert, 1913-1960.
+The Stranger.
+(Vintage international)
+Translation of: L:etranger.
+I. Ward, Matthew.
+PQ2605.A3734E813 1989
+
+II. Title.
+843'.914
+
+88-40378
+
+ISBN 0-679-72020-0 (pbk.)
+Manufactured in the United States of America
+
+TRAN SLATO� S NOTE
+
+The Stranger demanded of Camus the creation of a style
+at once literary and profoundly popular, an artistic
+sleight of hand that would make the complexities of a
+man's life appear simple. Despite appearances, though,
+neither Camus nor Meursault ever tried to make things
+simple for themselves. Indeed, in the mind of a moralist,
+simplification is tantamount to immorality, and Meursault
+and Camus are each moralists in their own way. What
+little Meursault says or feels or does resonates with all he
+does not say, all he does not feel, all he does not do. The
+"simplicity" of the text is merely apparent and every­
+where paradoxical.
+Camus
+
+acknowledged
+
+method" in writing
+book in particular:
+
+employing
+
+an
+
+"American
+
+The Stranger, in the first half of the
+the short, precise sentences; the
+
+depiction of a character ostensibly without consciousness;
+and, in places, the "tough guy" tone. Hemingway, Dos
+Passos, Faulkner, Cain, and others had pointed the way.
+There is some irony then in the fact that for forty years
+the only translation available to American audiences
+should be Stuart Gilbert's "Britannic" rendering. His
+v
+
+0
+
+TR A N S LA T O R
+
+'
+
+S
+
+N O T E
+
+0
+
+is the version we have all read, the version I read as a
+schoolboy in the boondocks some twenty years ago. As
+all translators do, Gilbert gave the novel a consistency
+and voice all his own. A certain paraphrastic earnestness
+might be a way of describing his effort to make the text
+intelligible, to help the English-speaking reader under­
+stand what Camus meant. In addition to giving the text
+a more "American" quality, I have also attempted to
+venture farther into the letter of Camus's novel, to
+capture what he said and how he said it, not what he
+meant. In theory, the latter should take care of itself.
+When Meursault meets old Salamano and his dog in
+the dark stairwell of their apartment house, Meursault
+observes, "Il etait avec son chien." \iVith the re8ex of a
+well-bred Englishman, Gilbert restores the conventional
+relation between man and beast and gives additional
+adverbial information: "As usual, he had his dog with
+him." But I have taken Meursault at his word: "He was
+with his dog."-in the way one is with a spouse or a
+friend. A sentence as straightforward as this gives us the
+world through Meursault's eyes. As he says toward the
+end of his story, as he sees things, Salamano's dog was
+worth just as much as Salamano's wife. Such peculiarities
+of perception, such psychological increments of character
+are
+
+Meursault. It is by pursuing what is unconventional
+
+in Camus's writing that one approaches a degree of its
+still startling originality.
+In the second half of the novel Camus gives freer
+rein to a lyricism which is his alone as he takes Meursault,
+now stripped of his liberty, beyond sensation to enforced
+vi
+
+0
+
+TR A N S LA T O R
+
+'
+
+S
+
+N O TE
+
+0
+
+memory, unsatisfied desire and, finally, to a kind of
+understanding. In this stylistic difference between the
+two parts, as everywhere, an impossible fidelity has been
+my purpose.
+No sentence in French literature in English trans­
+lation is better known than the opening sentence of
+
+The
+
+Stranger. It has become a sacred cow of sorts, and I have
+changed it. In his notebooks Camus recorded the obser­
+vation that "the curious feeling the son has for his mother
+constitutes
+
+all his sensibility." And Sartre, in his "Ex­
+plication de L'Etmnger," goes out of his way to point out
+
+Meursault's use of the child's word "Maman" when
+speaking of his mother. To use the more removed, adult
+"Mother" is, I believe, to change the nature of Meursault's
+curious feeling for her. It is to change his very sensibility.
+As Richard Howard pointed out in his classic state­
+ment on retranslation in his prefatory note to
+
+The Im­
+
+moralist, time reveals all translation to be paraphrase. All
+translations date; certain works do not. Knowing this,
+and with a certain nostalgia, I bow in Stuart Gilbert's
+direction and ask, as Camus once did, for indulgence and
+understanding from the reader of this first American
+translation of
+
+The Stranger, which I affectionately dedi­
+
+cate to Karel Wahrsager.
+The special circumstances under which this transla­
+tion was completed require that I thank my editor at
+Knopf, Judith Jones, for years of patience and faith.
+Nancy Festinger and Melissa Weissberg also deserve my
+gratitude.
+vii
+
+PART ONE
+
+1
+
+Maman died today. Or yesterday maybe, I don't know.
+I got a telegram from the home: "Mother deceased .
+Funeral tomorrow. Faithfully yours." That doesn't mean
+anything. Maybe it was yesterday.
+The old people's home is at Marengo, about eighty
+kilometers from Algiers, I'll take the two o'clock bus and
+get there in the afternoon. That way I can be there for the
+vigil and come back tomorrow night. I asked my boss for
+two days off and there was no way he was going to re­
+fuse me with an excuse like that. But he wasn't too
+happy about it. I even said, "It's not my fault." He didn't
+say anything. Then I thought I shouldn't have said that.
+After all, I didn't have anything to apologize for. He's
+the one who should have offered his condolences. But he
+probably will day after tomorrow, when he sees I'm in
+mourning. For now, it's almost as if Maman weren't dead.
+After the funeral, though, the case will be closed, and
+everything will have a more official feel to it.
+I caught the two o'clock bus. It was very hot. I ate
+at the restaurant, at Celeste's, as usual. Everybody felt
+very sorry for me, and Celeste said, "You only have one
+3
+
+0
+
+T H E
+
+S TR A N G E R
+
+o
+
+mother." When I left, they walked me to the door. I
+was a little distracted because I still had to go up to
+Emmanuel's place to borrow a black tie and an arm band.
+He lost his uncle a few months back.
+I ran so as not to miss the bus. It was probably be­
+cause of all the rushing around, and on top of that the
+bumpy ride, the smell of gasoline, and the glare of the
+sky and the road, that I dozed off. I slept almost
+the whole way. And when I woke up, I was slumped
+against a soldier who smiled at me and asked if I'd been
+traveling long. I said, "Yes," just so I wouldn't have to
+say anything else.
+The home is two kilometers from the village. I walked
+them. I wanted to see Maman right away. But the care­
+taker told me I had to see the director first. He was busy,
+so I waited awhile. The caretaker talked the whole time
+and then I saw the director. I was shown into his office.
+He was a little old man with the ribbon of the Legion
+of Honor in his lapel. He looked at me with his clear
+eyes. Then he shook my hand and held it so long I
+didn't know how to get it loose. He thumbed through
+a file and said, "Madame Meursault came to us three
+years ago. You were her sole support." I thought he was
+criticizing me for something and I started to explain.
+But he cut me off. "You don't have to justify yourself,
+my dear boy. I've read your mother's file. You weren't
+able to provide for her properly. She needed someone to
+look after her. You earn only a modest salary. And the
+truth of the matter is, she was happier here." I said,
+4
+
+o
+
+T H E
+
+S T R A N G E R
+
+0
+
+"Yes, sir." He added, "You see, she had friends here,
+people her own age. She was able to share things from
+the old days with them. You're young, and it must have
+been hard for her with you."
+I t was true. When she was at home with me, Maman
+used to spend her time following me with her eyes, not
+saying a thing. For the first few days she was at the home
+she cried a lot. But that was because she wasn't used to
+it. A few months later and she would have cried if she'd
+been taken out. She was used to it. That's partly why I
+didn't go there much this past year. And also because it
+took up my Sunday-not to mention the trouble of
+getting to the bus, buying tickets, and spending two hours
+traveling.
+The director spoke to me again. But I wasn't really
+listening anymore. Then he said, "I suppose you'd like
+to see your mother." I got up without saying anything
+and he led the way to the door. On the way downstairs, he
+explained, "We've moved her to our little mortuary. So
+as not to upset the others. Whenever one of the residents
+dies, the others are a bit on edge for the next two or
+three days. And that makes it difficult to care for them."
+We crossed a courtyard where there were lots of old
+people chatting in little groups. As we went by, the talk­
+ing would stop . And then the conversation would start
+up again behind us. The sound was like the muffied
+jabber of parakeets. The director stopped at the door of
+a small building. ''I'll leave you now, Monsieur Meur­
+sault. If you need me for anything, I'll be in my office.
+5
+
+0
+
+T H E
+
+STR A N G E R
+
+0
+
+As is usually the case, the funeral is set for ten o'clock in
+the morning. This way you'll be able to keep vigil over
+the departed. One last thing : it seems your mother
+often expressed to her friends her desire for a religious
+burial. I've taken the liberty of making the necessary
+arrangements. But I wanted to let you know." I thanked
+him. While not an atheist, Maman had never in her life
+given a thought to religion.
+I went in. It was a very bright, whitewashed room
+with a skylight for a roof. The furniture consisted of
+some chairs and some cross-shaped sawhorses. Two of
+them, in the middle of the room, were supporting a
+closed casket. All you could see were some shiny screws,
+not screwed down all the way, standing out against the
+walnut-stained planks. Near the casket was an Arab
+nurse in a white smock, with a brightly colored scarf on
+her head.
+Just then the caretaker came in behind me. He must
+have been running. He stuttered a little. "We put the
+cover on, but I'm supposed to unscrew the casket so you
+can see her." He was moving toward the casket when I
+stopped him. He said, "You don't want to?" I answered,
+"No." He was quiet, and I was embarrassed because I
+felt I shouldn't have said that. He looked at me and then
+asked, "Why not?" but without criticizing, as if he just
+wanted to know. I said, "I don't know." He started twirl­
+ing his moustache, and then without looking at me, again
+he said, "I understand." He had nice pale blue eyes and
+a reddish complexion. He offered me a chair and then
+6
+
+0
+
+T H E
+
+S TR A N G E R
+
+0
+
+sat down right behind me. The nurse stood up and went
+toward the door. At that point the caretaker said to me,
+"She's got an abscess." I didn't understand , so I looked
+over at the nurse and saw that she had a bandage
+wrapped around her head just below the eyes. Where
+her nose should have been, the bandage was Bat. All
+you could see of her face was the whiteness of the ban­
+dage.
+When she'd gone, the caretaker said, ''I'll leave you
+alone." I don't know what kind of gesture I made, but
+he stayed where he was, behind me. Having this presence
+breathing down my neck was starting to annoy me. The
+room was filled with beautiful late-afternoon sunlight.
+Two hornets were buzzing against the glass roof. I
+could feel myself getting sleepy. Without turning around,
+I said to the caretaker, "Have you been here long?"
+Right away he answered, "Five years"-as if he'd been
+waiting all along for me to ask.
+After that he did a lot of talking. He would have been
+very surprised if anyone had told him he would end up
+caretaker at the M arengo home. He was sixty-four and
+came from Paris. At that point I interrupted him. "Oh,
+you're not from around here?" Then I remembered that
+before taking me to the director's office, he had talked
+to me about Maman. He'd told me that they had to
+bury her quickly, because it gets hot in the plains, espe­
+cially in this part of the country. That was when he told
+me he had lived in Paris and that he had found it hard
+to forget it. In Paris they keep vigil over the body for
+7
+
+0
+
+T H E
+
+S T R A N G ER
+
+0
+
+three, sometimes four days. But here you barely have
+time to get used to the idea before you have to start
+running after the hearse. Then his wife had said to him,
+"Hush now, that's not the sort of thing to be telling the
+gentleman." The old man had blushed and apologized.
+I'd stepped in and said, "No, not at all." I thought what
+he'd been saying was interesting and made sense.
+In the little mortuary he told me that he'd come to
+the horne because he was destitute. He was in good
+health, so he'd offered to take on the job of caretaker. I
+pointed out that even so he was still a resident. He said
+no, he wasn't. I'd already been struck by the way he
+had of saying "they" or "the others" and, less often, "the
+old people," talking about the patients, when some of
+them weren't any older than he was. But of course it
+wasn't the same. He was the caretaker, and to a certain
+extent he had authority over them.
+Just then the nurse carne in. Night had fallen sud­
+denly. Darkness had gathered, quickly, above the sky­
+light. The caretaker turned the switch and I was blinded
+by the sudden Bash of light. He suggested I go to the
+dining hall for dinner. But I wasn't hungry. Then he
+offered to bring me a cup of coffee with milk. I like milk
+in my coffee, so I said yes, and he carne back a few
+minutes later with a tray. I drank the coffee. Then I felt
+like having a smoke. But I hesitated, because I didn't
+know if I could do it with Marnan right there. I thought
+about it; it didn't matter. I offered the caretaker a ciga­
+rette and we smoked.
+8
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+At one point he said, "You know, your mother's
+friends will be coming to keep vigil too. It's customary.
+I have to go get some chairs and some black coffee." I
+asked him if he could tum off one of the lights. The
+glare on the white walls was making me drowsy. He said
+he couldn't. That was how they'd been wired : it was all
+or nothing. I didn't pay too much attention to him after
+that. He left, came back, set up some chairs. On one of
+them he stacked some cups around a coffee pot. Then
+he sat down across from me, on the other side of Maman.
+The nurse was on that side of the room too, but with'
+her back to me. I couldn't see what she was doing. But
+the way her arms were moving made me think she was
+knitting. It was pleasant; the coffee had warmed me
+up, and the smell of Rowers on the night air was coming
+through the open door. I think I dozed off for a while.
+It was a rustling sound that woke me up. Because
+I'd had my eyes closed, the whiteness of the room seemed
+even brighter than before. There wasn't a shadow any­
+where in front of me, and every object, every angle and
+curve stood out so sharply it made my eyes hurt. That's
+when Maman's friends came in. There were about ten
+in all, and they Boated into the blinding light without a
+sound. They sat down without a single chair creaking. I
+saw them more clearly than I had ever seen anyone, and
+not one detail of their faces or their clothes escaped me.
+But I couldn't hear them, and it was hard for me to be­
+lieve they really existed. Almost all the women were
+wearing aprons, and the strings, which were tied tight
+9
+
+0
+
+T HE
+
+S TR A N GER
+
+0
+
+around their waists, made their bulging stomachs stick
+out even more. I'd never noticed what huge stomachs
+old women can have. Almost all the men were skinny
+and carried canes. What struck me most about their
+faces was that I couldn't see their eyes, just a faint
+glimmer in a nest of wrinkles. When they'd sat down,
+most of them looked at me and nodded awkwardly, their
+lips sucked in by their toothless mouths, so that I couldn't
+tell if they were greeting me or if it was just a nervous
+tic. I think they were greeting me. It was then that I
+realized they were all sitting across from me, nodding
+their heads, grouped around the caretaker. For a second
+I had the ridiculous feeling that they were there to judge
+me.
+Soon one of the women started crying. She was in
+the second row, hidden behind one of her companions,
+and I couldn't see her very well. She was crying softly,
+steadily, in little sobs. I thought she'd never stop. The
+others seemed not to hear her. They sat there hunched
+up, gloomy and silent. They would look at the casket,
+or their canes, or whatever else, but that was all they
+would look at. The woman kept on crying. It surprised
+me, because I didn't know who she was. I wished I
+didn't have to listen to her anymore. But I didn't dare
+say anything. The caretaker leaned over and said some­
+thing to her, but she shook her head, mumbled some­
+thing, and went on crying as much as before. Then the
+caretaker came around to my side. He sat down next to
+me. After a long pause he explained, without looking at
+10
+
+o
+
+T H E
+
+S T R A N G E R
+
+0
+
+me, "She was very close to your mother. She says your
+mother was her only friend and now she hasn't got anyone.
+
+"
+
+We just sat there like that for quite a while. The
+woman's sighs and sobs were quieting down. She sniffled
+a lot. Then finally she shut up. I didn't feel drowsy
+anymore, but I was tired and my back was hurting me.
+Now it was all these people not making a sound that
+was getting on my nerves. Except that every now and
+then I'd hear a strange noise and I couldn't figure out
+what it was. Finally I realized that some of the old
+people were sucking at the insides of their cheeks and
+making these weird smacking noises. They were so lost
+in their thoughts that they weren't even aware of it. I
+even had the impression that the dead woman lying in
+front of them didn't mean anything to them. But I think
+now that that was a false impression.
+We all had some coffee, served by the caretaker.
+After that I don't know any more. The night passed. I
+remember opening my eyes at one point and seeing that
+all the old people were slumped over asleep, except for one
+old man, with his chin resting on the back of his hands
+wrapped around his cane, who was staring at me as if he
+were just waiting for me to wake up. Then I dozed off
+again. I woke up because my back was hurting more
+and more. Dawn was creeping up over the skylight. Soon
+afterwards, one of the old men woke up and coughed a
+lot. He kept hacking into a large checkered handker­
+chief, and every cough was like a convulsion. He woke
+II
+
+0
+
+T H E
+
+S T R A N G E R
+
+o
+
+the others up, and the caretaker told them that they
+ought to be going. They got up. The uncomfortable
+vigil had left their faces ashen looking. On their way
+out, and much to my surprise, they all shook my hand­
+as if that night during which we hadn't exchanged as
+much as a single word had somehow brought us closer
+together.
+I was tired. The caretaker took me to his room and
+I was able to clean up a little. I had some more coffee
+and milk, which was very good. When I went outside,
+the sun was up. Above the hills that separate Marengo
+from the sea , the sky was streaked with red. And the
+wind coming over the hills brought the smell of salt
+with it. It was going to be a beautiful day. It had been
+a long time since I'd been out in the country, and I
+could feel how much I'd enjoy going for a walk if it
+hadn't been for Maman.
+But I waited in the courtyard, under a plane tree. I
+breathed in the smell of fresh earth and I wasn't sleepy
+anymore. I thought of the other guys at the office. They'd
+be getting up to go to work about this time : for me that
+was always the most difficult time of day. I thought about
+those things a little more, but I was distracted by the
+sound of a bell ringing inside the buildings. There was
+some commotion behind the windows, then everything
+quieted down again. The sun was now a little higher in
+the sky : it was starting to warm my feet. The caretaker
+came across the courtyard and told me that the director
+was asking for me. I went to his office. He had me sign
+12
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+a number of documents. I noticed that he was dressed
+in black with pin-striped trousers. He picked up the
+telephone and turned to me. "The undertaker's men
+arrived a few minutes ago. I'm going to ask them to seal
+the casket. Before I do, would you like to see your
+mother one last time?" I said no. He gave the order into
+the telephone, lowering his voice: "Figeac, tell the men
+they can go ahead."
+After that he told me he would be attending the
+funeral and I thanked him. He sat down behind his desk
+and crossed his short legs. He informed me that he and
+I would be the only ones there, apart from the nurse on
+duty. The residents usually weren't allowed to attend
+funerals. He only let them keep the vigil. "It's more
+humane that way," he remarked. But in this case he'd
+given one of mother's old friends-Thomas Perez­
+permission to join the funeral procession . At that the
+director smiled. He said, "I'm sure you understand. It's
+a rather childish sentiment. But he and your mother were
+almost inseparable. The others used to tease them and
+say, 'Perez has a fiancee.' He'd laugh. They enjoyed it.
+And the truth is he's taking Madame Meursault's death
+very hard. I didn't think I could rightfully refuse him
+permission. But on the advice of our visiting physician,
+I did not allow him to keep the vigil last night."
+We didn't say anything for quite a long time. The
+director stood up and looked out the window of his office.
+A moment later he said, "Here's the priest from Marengo
+already. He's early." He warned me that it would take at
+
+0
+
+T H E
+
+S T RA N G E R
+
+0
+
+least three-quarters of an hour to walk to the church,
+which is in the village itself. We went downstairs. Out
+in front of the building stood the priest and two altar
+boys. One of them was holding a censer, and the priest
+was leaning toward him, adjusting the length of its silver
+chain . As we approached, the priest straightened up . He
+called me "my son" and said a few words to me. He went
+inside; I followed.
+I noticed right away that the screws on the casket
+had been tightened and that there were four men wear­
+ing black in the room. The director \vas telling me that the
+hearse was waiting out in the road and at the same time
+I could hear the priest beginning his prayers. From then
+on everything happened very quickly. The men moved
+toward the casket with a pall. The priest, his acolytes, the
+director and I all went outside. A woman I didn't know
+was standing by the door. "Monsieur Meursault," the
+director said. I didn't catch the woman's name; I just
+understood that she was the nurse assigned by the home.
+Without smiling she lowered her long, gaunt face. Then
+we stepped aside to make way for the body. We fol­
+lowed the pall bearers and left the horne. Outside the
+gate stood the hearse. Varnished, glossy, and oblong, it
+reminded me of a pencil box. Next to it was the funeral
+director, a little man in a ridiculous getup, and an awk­
+ward, embarrassed-looking old man . I realized that it was
+Monsieur Perez. He was wearing a soft felt hat with a
+round crown and a wide brim (he took it off as the
+casket was coming through the gate), a suit with trousers
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+that were corkscrewed down around his ankles, and a
+black tie with a knot that was too small for the big white
+collar of his shirt. His lips were trembling below a nose
+dotted with blackheads. Strange, floppy, thick-rimmed
+ears stuck out through his fine, white hair, and I was
+struck by their blood-red color next to the pallor of his
+face. The funeral director assigned us our places. First
+came the priest, then the hearse. Flanking it, the four
+men . Behind it, the director and myself and, bringing up
+the rear, the nurse and Monsieur Perez.
+The sky was already filled with light. The sun was
+beginning to bear down on the earth and it was getting
+hotter by the minute. I don't know why we waited so
+long before getting under way. I was hot in my dark
+clothes. The li ttle old man, who had put his hat back on,
+took it off again . I turned a little in his direction and
+was looking at him when the director started talking to
+me about him. He told me that my mother and Monsieur
+Perez often used to walk down to the village together in
+the evenings, accompanied by a nurse. I was looking at
+the countryside around me. Seeing the rows of cypress
+trees leading up to the hills next to the sky, and the
+houses standing out here and there against that red
+and green earth, I was able to understand Maman better.
+Evenings in that part of the coun try must have been a
+kind of sad relief. But today, with the sun bearing down,
+making the whole landscape shimmer with heat, it was in­
+human and oppressive.
+We got under way. It was then that I noticed that
+15
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+Perez had a slight limp. Little by little, the hearse was
+picking up speed and the old man was losing ground.
+One of the men Banking the hearse had also dropped
+back and was now even with me. I was surprised at
+how fast the sun was climbing in the sky. I noticed that
+for quite some time the countryside had been buzzing
+with the sound of insects and the crackling of grass. The
+sweat was pouring down my face. I wasn't wearing a
+hat, so I fanned myself with my handkerchief. The man
+from the undertaker's said something to me then which
+I missed. He was lifting the edge of his cap with his
+right hand and wiping his head with a handkerchief
+with his left at the same time. I said, "What?" He pointed
+up at the sky and repeated, "Pretty hot." I said, "Yes."
+A minute later he asked, "Is that your mother in there?"
+Again I said, "Yes." "Was she old?" I answered, "Fairly,"
+because I didn't know the exact number. After that he
+was quiet. I turned around and saw old Perez about fifty
+meters behind us. He was going as fast as he could, swing­
+ing his felt hat at the end of his arm. I looked at the
+director, too. He was walking with great dignity, without
+a single wasted motion. A few beads of sweat were form­
+ing on his forehead, but he didn't wipe them off.
+The procession seemed to me to be moving a little
+faster. All around me there was still the same glowing
+countryside Hooded with sunlight. The glare from the
+sky was unbearable. At one point, we went over a section
+of the road that had just been repaved. The tar had
+burst open in the sun. Our feet sank into it, leaving its
+r6
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+shiny pulp exposed. Sticking up above the top of the
+hearse, the coachman's hard leather hat looked as if it
+had been molded out of the same black mud. I felt a
+little lost between the blue and white of the sky and the
+monotony of the colors around me-the sticky black of
+the tar, the dull black of all the clothes, and the shiny
+black of the hearse. All of it-the sun, the smell of leather
+and horse dung from the hearse, the smell of varnish and
+incense, and my fatigue after a night without sleep-was
+making it hard for me to see or think straight. I turned
+around again : Perez seemed to be way back there, fading
+in the shimmering heat. Then I lost sight of him alto­
+gether. I looked around and saw that he'd left the road
+and cut out across the fields. I also noticed there was a
+bend in the road up ahead . I realized that Perez, who
+knew the country, was taking a short cut in order to catch
+up with us. By the time we rounded the bend, he was
+back with us. Then we lost him again . He set off cross
+country once more, and so it went on. I could feel the
+blood pounding in my temples.
+After that, everything seemed to happen so fast, so
+deliberately, so naturally that I don't remember any of
+it anymore. Except for one thing : as we entered the
+village, the nurse spoke to me. She had a remarkable
+voice which didn't go with her face at all, a melodious,
+quavering voice. She said, "If you go slowly, you risk
+getting sunstroke . But if you go too fast, you work up
+a sweat and then catch a chill inside the church ." She
+was right. There was no way out. Several other images
+
+o
+
+T H E
+
+S TRA N G E R
+
+0
+
+from that day have stuck in my mind : for instance,
+Perez's face when he caught up with us for the last time,
+j ust outside the village. Big tears of frustration and ex­
+haustion were streaming down his cheeks. But because
+of all the wrinkles, they weren't dripping off. They
+spread out and ran together again, leaving a watery film
+over his ruined face. Then there was the church and
+the villagers on the sidewalks, the red geraniums on the
+graves in the cemetery, Perez fainting (he crumpled like
+a rag doll), the blood-red earth spilling over Maman's
+casket, the white flesh of the roots mixed in with it, more
+people, voices, the village, waiting in front of a cafe, the
+incessant drone of the motor, and my joy when the bus
+entered the nest of lights that was Algiers and I knew I
+was going to go to bed and sleep for twelve hours.
+
+rB
+
+2
+
+As I was waking up, it came to me why my boss had
+seemed annoyed when I asked him for two days off :
+today is Saturday. I'd sort of forgotten, but as I was
+getting up, it came to me. And, naturally, my boss
+thought about the fact that I'd be getting four days'
+vacation that way, including Sunday, and he couldn't
+have been happy about that. But, in the first place, it
+isn't my fault if they buried Maman yesterday instead
+of today, and second, I would have had Saturday and
+Sunday off anyway. Obviously, that still doesn't keep me
+from understanding my boss's point of view.
+I had a hard time getting up, because I was tired
+from the day before. While I was shaving, I wondered
+what I was going to do and I decided to go for a swim. I
+caught the streetcar to go to the public beach down at
+the harbor. Once there, I dove into the channel. There
+were lots of young people. In the water I ran into M arie
+Cardona, a former typist in our office whom I'd had a
+thing for at the time. She did too, I think. But she'd left
+soon afterwards and we didn't have the time. I helped
+her onto a Hoat and as I did, I brushed against her breasts.
+
+o
+
+T H E
+
+S TRA N G ER
+
+v
+
+I was still in the water when she was already lying flat
+on her stomach on the float. She turned toward me. Her
+hair was in her eyes and she was laughing. I hoisted
+myself up next to her. It was nice, and, sort of joking
+around, I let my head fall back and rest on her stomach .
+She didn't say anything so I left it there. I had the whole
+sky in my eyes and it was blue and gold. On the back
+of my neck I could feel Marie's heart beating softly. We
+lay on the Boat for a long time, half asleep. When the
+sun got too hot, she dove off and I followed. I caught
+up with her, put my arm around her waist, and we
+swam together. She laughed the whole time. On the
+dock, while we were drying ourselves off, she said, ''I'm
+darker than you." I asked her if she wanted to go to
+the movies that evening. She laughed again and told me
+there was a Fernandel movie she'd like to see. Once we
+were dressed, she seemed very surprised to see I was
+wearing a black tie and she asked me if I was in mourn­
+ing. I told her Maman had died. She wanted to know
+how long ago, so I said, "Yesterday." She gave a little
+start but didn't say anything. I felt like telling her it
+wasn't my fault, but I stopped myself because I re­
+membered that I'd already said that to my boss. It didn't
+mean anything. Besides, you always feel a little guilty.
+By that evening Marie had forgotten all about it. The
+movie was funny in parts, but otherwise it was just too
+stupid. She had her leg pressed against mine. I was
+fondling her breasts. Toward the end of the show, I gave
+her a kiss, but not a good one. She came back to my place.
+20
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+When I woke up, Marie had gone. She'd explained
+to me that she had to go to her aunt's. I remembered that
+it was Sunday, and that bothered me: I don't like Sun­
+days. So I rolled over, tried to find the salty smell Marie's
+hair had left on the pillow, and slept until ten . Then I
+smoked a few cigarettes, still in bed, till noon . I didn't
+feel like having lunch at Celeste's like I usually did be­
+cause they'd be sure to ask questions and I don't like
+that. I fixed myself some eggs and ate them out of the
+pan, without bread because I didn't have any left and
+I didn't feel like going downstairs to buy some.
+After lunch I was a little bored and I wandered
+around the apartment. It was just the right size when
+Maman was here. Now it's too big for me, and I've had
+to move the dining room table into my bedroom . I live in
+just one room now, with some saggy straw chairs, a ward­
+robe whose mirror has gone yellow, a dressing table, and
+a brass bed. I've let the rest go. A little later, just for
+something to do, I picked up an old newspaper and read
+it. I cut out an advertisement for Kruschen Salts and
+stuck it in an old notebook where I put things from the
+papers that interest me. I also washed my hands, and
+then I went out onto the balcony.
+My room looks out over the main street in the neigh­
+borhood . It was a beautiful afternoon . Yet the pavement
+was wet and slippery, and what few people there were
+were in a hurry. First, it was families out for a walk : two
+little boys in sailor suits, with trousers below the knees,
+looking a little cramped in their stiff clothes, and a little
+21
+
+0
+
+T H E
+
+S TRA N G E R
+
+0
+
+girl with a big pink bow and black patent-leather shoes .
+Behind them, an enormous mother, in a brown silk
+dress, and the father, a rather frail little man I know by
+sight. He had on a straw hat and a bow tie and was
+carrying a walking stick. Seeing him with his wife, I
+understood why people in the neighborhood said he was
+distinguished. A little later the local boys went by, hair
+greased back, red ties, tight-fitting jackets, wi�h em­
+broidered pocket handkerchiefs and square-toed shoes. I
+thought they must be heading to the movies in town .
+That was why they were leaving so early and hurrying
+toward the streetcar, laughing loudly.
+After them, the street slowly emptied out. The
+matinees had all started, I guess. The only ones left were
+the shopkeepers and the cats. The sky was clear but dull
+above the fig trees lining the street. On the sidewalk
+across the way the tobacconist brought out a chair, set
+it in front of his door, and straddled it, resting his arms
+on the back. The streetcars, packed a few minutes before,
+were almost empty. In the little cafe Chez Pierrot, next
+door to the tobacconist's, the waiter was sweeping up the
+sawdust in the deserted restaurant inside. It was Sunday
+all right.
+I turned my chair around and set it down like the
+tobacconist's because I found that it was more comfortable
+that way. I smoked a couple of cigarettes, went inside to
+get a piece of chocolate, and went back to the window to
+eat it. Soon after that, the sky grew dark and I thought
+we were in for a summer storm. Gradually, though , it
+22
+
+0
+
+T H E
+
+S TR A N G ER
+
+o
+
+cleared up again . But the passing clouds had left a hint
+of rain hanging over the street, which made i t look
+darker. I sat there for a long time and watched the sky.
+At five o'clock some streetcars pulled up, clanging
+away. They were bringing back gangs of fans from the
+local soccer stadium. They were crowded onto the run­
+ning boards and hanging from the handrails. The street­
+cars that followed brought back the players, whom I
+recognized by their little athletic bags. They were shout­
+ing and singing at the tops of their lungs that their team
+would never die. Several of them waved to me. One of
+them even yelled up to me, "We beat 'em!" And I
+nodded, as if to say "Yes. " From then on there was a
+steady stream of cars.
+The sky changed again. Above the rooftops the sky
+had taken on a reddish glow, and with evening coming
+on the streets came to life. People were straggling back
+from their walks. I recognized the distinguished little
+man among the others. Children were either crying or
+lagging behind. Almost all at once moviegoers spilled
+out of the neighborhood theaters into the street. The
+young men among them were gesturing more excitedly
+than usual and I thought they must have seen an ad­
+venture film. The ones who had gone to the movies in
+town came back a little later. They looked more serious.
+They were still laughing, but only now and then, and
+they seemed tired and dreamy. But they hung around
+anyway, walking up and down the sidewalk across the
+street. The local girls, bareheaded, were walking arm in
+23
+
+0
+
+T H E
+
+S TRA N G E R
+
+0
+
+arm. The young men had made sure they would have
+to bump right into them and then they would make
+cracks. The girls giggled and turned their heads away.
+Several of the girls, whom I knew, waved to me.
+Then the street lamps came on all of a sudden and
+made the first stars appearing in the night sky grow dim .
+I felt my eyes getting tired from watching the street
+filled with so many people and lights. The street lamps
+were making the pavement glisten, and the light from
+the streetcars would glint off someone's shiny hair, or off
+a smile or a silver bracelet. Soon afterwards, with the
+streetcars running less often and the sky already blue
+above the trees and the lamps, the neighborhood emptied
+out, almost imperceptibly, until the first cat slowly made
+its way across the now deserted street. Then I thought
+maybe I ought to have some dinner.' My neck was a little
+stiff from resting my chin on the back of the chair for
+so long. I went downstairs to buy some bread and spa­
+ghetti, did my cooking, and ate standing up. I wanted to
+smoke a cigarette at the window, but the air was getting
+colder and I felt a little chilled. I shut my windows, and
+as I was coming back I glanced at the mirror and saw a
+corner of my table with my alcohol lamp next to some
+pieces of bread. It occurred to me that anyway one more
+Sunday was over, that Maman was buried now, that I
+was going back to work, and that, really, nothing had
+changed.
+
+3
+
+I worked hard at the office today. The boss was nice. He
+asked me if I wasn't too tired and he also wanted to
+know Maman's age. I said, "About sixty," so as not to
+make a mistake; and I don't know why, but he seemed
+to be relieved somehow and to consider the matter
+closed.
+There was a stack of freight invoices that had piled
+up on my desk, and I had to go through them all . Before
+leaving the office to go to lunch, I washed my hands. I
+really like doing this at lunchtime. I don't enjoy it so
+much in the evening, because the roller towel you use
+is soaked through : one towel has to last all day. I men­
+tioned it once to my boss. He told me he was sorry but
+it was really a minor detail. I left a little late, at half past
+twelve, with Emmanuel, who works as a dispatcher. The
+office overlooks the sea, and we took a minute to watch
+the freighters in the harbor, which was ablaze with sun­
+light. Then a truck came toward us with its chains
+rattling and its engine backfiring. Emmanuel said, "How
+'bout it?" and I started running. The truck passed us and
+we ran after it. I was engulfed by the noise and the dust.
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+I couldn't see anything, and all I was conscious of was
+the sensation of hurtling forward in a mad dash through
+cranes and winches, masts bobbing on the horizon and
+the hulls of ships alongside us as we ran. I was first to
+grab hold and take a Hying leap. Then I reached out
+and helped Emmanuel scramble up. We were out of
+breath; the truck was bumping around on the uneven
+cobblestones of the quay in a cloud of dust and sun.
+Emmanuel was laughing so hard he could hardly breathe.
+We arrived at Celeste's dripping with sweat. Celeste
+was there, as always, with his big belly, his apron, and his
+white moustache. He asked me if things were "all right
+now." I told him yes they were and said I was hungry. I
+ate fast and had some coffee. Then I went home and
+slept for a while because I'd drunk too much wine, and
+when I woke up I felt like having a smoke. It was late
+and I ran to catch a streetcar. I worked all afternoon. It
+got very hot in the office, and that evening, when I
+left, I was glad to walk back slowly along the docks. The
+sky was green; I felt good. But I went straight home
+because I wanted to boil myself some potatoes.
+On my way upstairs, in the dark, I ran into old
+Salamano, my neighbor across the landing. He was with
+his dog. The two of them have been inseparable for
+eight years. The spaniel has a skin disease-mange, I
+think-which makes almost all its hair fall out and
+leaves it covered with brown sores and scabs. After
+living together for so long, the two of them alone in one
+tiny room, they've ended up looking like each other. Old
+26
+
+0
+
+T H E
+
+S TR A N G E R
+
+0
+
+Salamano has reddish scabs on his face and wispy yellow
+hair. As for the dog, he's sort of taken on his master's
+stooped look, muzzle down, neck straining. They look as
+if they belong to the same species, and yet they hate each
+other. Twice a day, at eleven and six, the old man takes
+the dog out for a walk. They haven't changed their route
+in eight years. You can see them in the rue de Lyon, the
+dog pulling the man along until old Salamano stumbles.
+Then he beats the dog and swears at it. The dog cowers
+and trails behind. Then it's the old man who pulls the
+dog. Once the dog has forgotten, i t starts dragging its
+master along again, and again gets beaten and sworn at.
+Then they both stand there on the sidewalk and stare at
+each other, the dog in terror, the man in hatred. I t's the
+same thing every day. When the dog wants to urinate,
+the old man won't give him enough time and yanks at
+him, so that the spaniel leaves behind a trail of little
+drops. If the dog has an accident in the room, it gets
+beaten again. This has been going on for eight years.
+Celeste is always saying, "It's pitiful," but really, who's
+to say? When I ran into him on the stairs, Salamano was
+swearing away at the dog. He was saying, "Filthy, stink­
+ing bastard!" and the dog was whimpering. I said "Good
+evening," but the old man just went on cursing. So I
+asked him what the dog had done. He didn ' t answer.
+All he said was "Filthy, stinking bastard!" I could barely
+see him leaning over his dog, trying to fix something on
+its collar. I spoke louder. Then, without turning around,
+he answered with a kind of suppressed rage, "He's always
+
+o
+
+T H E
+
+S T RA N G E R
+
+o
+
+there." Then he left, yanking at the animal, which was
+letting itself be dragged along, whimpering.
+Just then my other neighbor carne in. The word
+around the neighborhood is that he lives off women. But
+when you ask him what he does, he's a "warehouse
+guard." Generally speaking, he's not very popular. But
+he often talks to me and sometimes stops by my place for
+a minute, because I listen to him. I find what he.has to
+say interesting. Besides, I don't have any reason not to
+talk to him. His name is Raymond Sintes. He's a little
+on the short side, with broad shoulders and a nose like
+a boxer's. He always dresses very sharp. And once he
+said to me, talking about Salarnano, "If that isn't pitiful !"
+He asked me didn't I think it was disgusting and I said
+no.
+We went upstairs and I was about to leave him when
+he said, "I've got some blood sausage and some wine at
+my place. How about joining me?" I figured it would save
+me the trouble of having to cook for myself, so I ac­
+cepted . He has only one room too, and a little kitchen
+with no window. Over his bed he has a pink-and-white
+plaster angel, some pictures of famous athletes, and
+two or three photographs of naked women. The room
+was dirty and the bed was unmade. First he lit his
+paraffin lamp, then he took a pretty dubious-looking
+bandage out of his pocket and wrapped it around his
+right hand. I asked him what he'd done to it. He said
+he'd been in a fight with some guy who was trying to
+start trouble.
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+"You see, Monsieur Meursault," he said, "it's not that
+I'm a bad guy, butl have a short fuse. This guy says to
+me, 'If you're man enough you'll get down off that
+streetcar.' I said, 'C'mon, take it easy.' Then he said,
+'You're yellow.' So I got off and I said to him, 'I think
+you better stop right there or I'm gonna have to teach
+you a lesson .' And he said, 'You and who else?' So I
+let him have it. He went down. I was about to help him
+up but he started kicking me from there on the ground .
+So I kneed him one and slugged him a couple of times.
+His face was all bloody. I asked him if he'd had enough.
+He said, 'Yes.' " All this time, Sintes was fiddling with
+his bandage. I was sitting on the bed. He said, "So you
+see, I wasn't the one who started it. He was asking for
+i t . " It was true and I agreed. Then he told me that as a
+matter of fact he wanted to ask my advice about the
+whole business, because I was a man, I knew about
+things, I could help him out, and then we'd be pals. I
+didn' t say anything, and he asked me again if I wanted
+to be pals. I said it was fine with me: he seemed pleased.
+He got out the blood sausage, fried it up, and set out
+glasses, plates, knives and forks, and two bottles of wine.
+All this in silence. Then we sat down. As we ate, he
+started telling me his story. He '>vas a little hesitant a t
+first. " I knew this lady . . . as a matter o f fact, well, she
+was my mistress ." The man he'd had the fight with was
+this woman's brother. He told me he'd been keeping
+her. I didn't say anything, and yet righ t away he added
+that he knew what people around the neighborhood
+29
+
+o
+
+T H E
+
+S T R A N G E R
+
+0
+
+were saying, but that his conscience was clear and tha t
+he was a warehouse guard.
+'To get back to what I was saying," he continued,
+"I realized that she was cheating on me." He'd been
+giving her just enough to live on. He paid the rent on
+her room and gave her twenty francs a day for food.
+"Three hundred francs for the room, six hundred for
+food, a pair of stockings every now and then-that made
+it a thousand francs. And Her Highness refused to work.
+But she was always telling me that things were too tight,
+that she couldn't get by on what I was giving her. And
+I'd say to her, 'Why not work half-days? You'd be helping
+me out on all the little extras. I bought you a new outfit
+just this month, I give you twenty francs a day, I pay
+your rent, and what do you do? . . . You have coffee in
+the afternoons with your friends. You even provide the
+coffee and sugar. And me, I provide the money. I've been
+good to you, and this is how you repay me.' But she
+wouldn't work; she just kept on telling me she couldn't
+make ends meet-and that's what made me realize she
+was cheating on me."
+Then he told me that he'd found a lottery ticket in
+her purse and she hadn't been able to explain how she
+paid for it. A short time later he'd found a ticket from the
+shop in Mont-de-Piete in her room which proved that
+she'd pawned two bracelets. Until then he hadn't even
+known the bracelets existed. "It was clear that she was
+cheating on me. So I left her. But first I smacked her
+around. And then I told her exactly what I thought of
+
+0
+
+T H E
+
+S TR A N G ER
+
+0
+
+her. I told her that all she was interested in was getting
+into the sack. You see, Monsieur Meursault, it's like I
+told her: 'You don't realize that everybody's jealous of
+how good you have it with me. Someday you'll know just
+how good it was.' "
+He'd beaten her till she bled. He'd never beaten her
+before. ''I'd smack her around a little, but nice-like, you
+might say. She'd scream a little. I'd close the shutters
+and it always ended the same way. But this time it's
+for real. And if you ask me, she still hasn't gotten what
+she has corning."
+Then he explained that that was what he needed
+advice about. He stopped to adjust the lamp's wick,
+which was smoking. I just listened. I'd drunk close to a
+liter of wine and my temples were burning. I was
+smoking Raymond's cigarettes because I'd run out. The
+last streetcars were going by, taking the now distant
+sounds of the neighborhood with them. Raymond went
+on. What bothered him was that he "still had sexual
+feelings for her." But he wanted to punish her. First
+he'd thought of taking her to a hotel and calling the
+vice squad to cause a scandal and have her listed as a
+common prostitute. After that he'd looked up some of his
+underworld friends. But they didn't come up with any­
+thing. As Raymond pointed out to me, a lot of good it
+does being in the underworld. He'd said the same thing
+to them, and then they'd suggested "marking" her. But
+that wasn't what he wanted. He was going to think
+about it. But first he wanted to ask me something. Be-
+
+0
+
+T H E
+
+S TRA N G E R
+
+0
+
+fore he did, though, he wanted to know what I thought
+of the whole thing. I said I didn't think anything but
+that it was interesting. He asked if I thought she was
+cheating on him, and it seemed to me she was; if I
+thought she should be punished and what I would do
+in his place, and I said you can't ever be sure, but I
+understood his wanting to punish her. I drank a little
+more wine. He lit a cigarette and let me in on what he
+was thinking about doing. He wanted to write her a
+letter, "one with a punch and also some things in it to
+make her sorry for what she's done." Then, when she
+carne running back, he'd go to bed with her and "right
+at the last minute" he'd spit in her face and throw her
+out. Yes, that would punish her, I thought. But Ray­
+mond told me he didn't think he could write the kind
+of letter it would take and that he'd thought of asking
+me to write it for him. Since I didn't say anything, he
+asked if I'd mind doing it right then and I said no.
+He downed a glass of wine and then stood up. He
+pushed aside the plates and the little bit of cold sausage
+we'd left. He carefully wiped the oilcloth covering the
+table. Then from a drawer in his night table he took out
+a sheet of paper, a yellow envelope, a small red pen box,
+and a square bottle with purple ink in it. When he told
+me the woman's name I realized she was Moorish. I
+wrote the letter. I did it just as it came to me, but I
+tried my best to please Raymond because I didn't have
+any reason not to please him. Then I read it out loud. He
+listened, smoking and nodding his head; then he asked
+
+0
+
+T H E
+
+S T RA N G E R
+
+0
+
+me to read it again. He was very pleased. He said, "I
+could tell you knew about these things." I didn't notice
+at first, but he had stopped calling me "monsieur." I t
+was only when h e announced "Now you're a pal,
+l\lleursault" and said it again that it struck me. He re·
+peated his remark and I said, "Yes." I didn't mind being
+his pal, and he seemed set on it. He sealed the letter
+and we finished off the wine. Then we sat and smoked
+for a while without saying anything. Outside, every·
+thing was quiet; we heard the sound of a car passing. I
+said, "It's late." Raymond thought so too. He remarked
+how quickly the time passed, and in a way it was true .
+I felt sleepy, but it was hard for me to get up . I must
+have looked tired, because Raymond told me not to let
+things get to me. At first I didn't understand. Then he
+explained that he'd heard about l\ll a man's death but
+that it was one of those things that was bound to happen
+sooner or later. I thought so too.
+I got up. Raymond gave me a very firm handshake
+and said that men always understand each other. I left
+his room, closing the door behind me, and paused for a
+minute in the dark, on the landing. The house was
+quiet, and a breath of dark, dank air wafted up from
+deep in the stairwell. All I could hear was the blood
+pounding in my ears. I stood there, motionless. And in
+old Salamano's room, the dog whimpered softly.
+
+33
+
+4
+
+I worked hard all week. Raymond stopped by and told
+me he'd sent the letter. I went to the movies twice with
+Emmanuel, who doesn't always understand what's going
+on on the screen. So you have to explain things to him.
+Yesterday was Saturday, and Marie came over as we'd
+planned. I wanted her so bad when I saw her in that
+pretty red-and-white striped dress and leather sandals.
+You could make out the shape of her firm breasts, and
+her tan made her face look like a Hower. We caught a
+bus and went a few kilometers outside Algiers, to a
+beach with rocks at either end, bordered by shore grass
+on the land side. The four o'clock sun wasn't too hot,
+but the water was warm, with slow, gently lapping waves."
+Marie taught me a game. As you swam, you had to
+skim off the foam from the crest of the waves with your
+mouth, hold it there, then roll over on your back and
+spout it out toward the sky. This made a delicate froth
+which disappeared into the air or fell back in a warm
+spray over my face. But after a while my mouth was
+stinging with the salty bitterness. Then Marie swam
+over to me and pressed herself against me in the water.
+34
+
+0
+
+T H E
+
+S T R A N G ER
+
+0
+
+She put her lips on mine. Her tongue cooled my lips
+and we tumbled in the waves for a moment.
+When we'd gotten dressed again on the beach , Marie
+looked at me with her eyes sparkling. I kissed her. We
+didn't say anything more from that point on. I held her
+to me and we hurried to catch a bus, get back, go to my
+place, and throw ourselves onto my bed. I'd left my
+window open, and the summer night air Rowing over
+our brown bodies felt good.
+That morning Marie stayed and I told her that we
+would have lunch together. I went downstairs to buy
+some meat. On my way back upstairs I heard a woman's
+voice in Raymond's room . A little later old Salamano
+growled at his dog; we heard the sound of footsteps and
+claws on the wooden stairs and then "Lousy, stinking
+bastard" and they went down into the street. I told
+Marie all about the old man and she laughed. She was
+wearing a pair of my pajamas with the sleeves rolled up.
+When she laughed I wanted her again . A minute later
+she asked me if I loved her. I told her it didn't mean any­
+thing but that I didn't think so. She looked sad. But
+as we were fixing lunch, and for no apparent reason, she
+laughed in such a way that I kissed her. It was then
+that we heard what sounded like a fight break out in
+Raymond's room.
+First we heard a woman's shrill voice and then
+Raymond saying, "You used me, you used me. I'll teach
+you to use me." There were some thuds and the woman
+screamed, but in such a terrifying way that the landing
+35
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+immediately filled with people. Marie and I went to see,
+too. The woman was still shrieking and Raymond was
+still hitting her. Marie said it was terrible and I didn't
+say anything. She asked me to go find a policeman, but
+I told her I didn't like cops. One showed up anyway with
+the tenant from the third floor, who's a plumber. The
+cop knocked on the door and we couldn't hear anything
+anymore. He knocked harder and after a minute the
+woman started crying and Raymond opened the door.
+He had a cigarette in his mouth and an innocent look on
+his face. The girl rushed to the door and told the police­
+man that Raymond had hit her. "What's your name?"
+the cop said. Raymond told him. "Take that cigarette
+out of your mouth when you're talking to me," the cop
+said. Raymond hesitated, looked at me, and took a drag
+on his cigarette. Right then the cop slapped him-a
+thick, heavy smack right across the face. The cigarette
+went flying across the landing. The look on Raymond's
+face changed, but he didn't say anything for a minute,
+and then he asked, in a meek voice, if he could pick up
+his cigarette. The cop said to go ahead and added,
+"Next time you'll know better than to clown around
+with a policeman." Meanwhile the girl was crying and
+sh e repeated , "H e beat me up.I H e s a p1mp.
+0
+I " "Officer, "
+,
+
+Raymond asked, "is that legal , calling a man a pimp like
+that?" But the cop ordered him to shut his trap. Then
+Raymond turned to the girl and said, "You just wait,
+sweetheart-we're not through yet." The cop told him
+to knock it off and said that the girl was to go and he was
+to stay in his room and wait to be summoned to the
+36
+
+o
+
+T H E
+
+S TRA N G ER
+
+0
+
+police station. He also said that Raymond ought to be
+ashamed to be so drunk that he'd have the shakes like
+that. Then Raymond explained, ''I'm not drunk, officer.
+It's just that I'm here, and you're there, and I'm shaking,
+I can't help it." He shut his door and everybody went
+away. Marie and I finished fixing lunch. But she wasn't
+hungry; I ate almost everything. She left at one o'clock
+and I slept awhile.
+Around three o'clock there was a knock on my door
+and Raymond came in. I didn't get up. He sat down on
+the edge of my bed. He didn't say anything for a minute
+and I asked him how it had all gone. He told me that
+he'd done what he wanted to do but that she'd slapped
+him and so he'd beaten her up . I'd seen the rest. I told
+him it seemed to me that she'd gotten her punishment
+now and he ought to be happy. He thought so too, and
+he pointed out that the cop could do anything he wanted,
+it wouldn't change the fact that she'd gotten her beat­
+ing. He added that he knew all about cops and how to
+handle them. Then he asked me if I'd expected him to
+hit the cop back. I said I wasn't expecting anything, and
+besides I didn't like cops. Raymond seemed pretty happy.
+He asked me if I wanted to go for a walk with him. I
+got up and started combing my hair. He told me that
+I'd have to act as a witness for him. It didn't matter to
+me, but I didn't know what I was supposed to say.
+According to Raymond, all I had to do was to state that
+the girl had cheated on him. I agreed to act as a wit­
+ness for him.
+We went out and Raymond bought me a brandy.
+37
+
+0
+
+T H E
+
+S TRA N G ER
+
+o
+
+Then he wanted to shoot a game of pool, and I just
+barely lost. Afterwards he wanted to go to a whorehouse,
+but I said no, because I don't like that. So we took our
+time getting back, him telling me how glad he was that
+he'd been able to give the woman what she deserved. I
+found him very friendly with me and I thought it was a
+nice moment.
+From a distance I noticed old Salarnano standing on
+the doorstep. He looked flustered. When we got closer,
+I saw that he didn't have his dog. He was looking all
+over the place, turning around, peering into the darkness
+of the entryway, muttering incoherently, and then he
+started searching the street again with his little red eyes.
+When Raymond asked him what was wrong,, he didn't
+answer right away. I barely heard him mumble "Stink­
+ing bastard," and he went on fidgeting around. I asked
+him where his dog was. He snapped at me and said he
+was gone. And then all of a sudden the words carne
+pouring out : "I took him to the Parade Ground, like
+always. There were lots of people around the booths
+at the fair. I stopped to watch The King of the Escape
+Artists.' And when I was ready to go, he wasn't there.
+Sure, I've been meaning to get him a smaller collar for
+a long time. But I never thought the bastard would take
+off like that."
+Then Raymond pointed out to him that the dog
+might have gotten lost and that he would come back.
+He gave examples of dogs that had walked dozens of
+kilometers to get back to their masters. Nevertheless, the
+
+0
+
+T H E
+
+S TRA N G ER
+
+o
+
+old man looked even more flustered. "But they'll take
+him away from me, don't you see? If only somebody
+would take him in. But that's impossible-everybody's
+disgusted by his scabs. The police'll get him for sure."
+So I told him he should go to the pound and they'd
+
+gi ve
+
+the dog back to him after he paid a fee. He asked me if
+it was a big fee. I didn't know. Then he got mad : "Pay
+money for that bastard-hal He can damn well die!"
+And he started cursing the dog. Raymond laughed and
+went inside. I followed him and we parted upstairs on
+the landing. A minute later I heard the old man's foot­
+steps and he knocked on my door. When I opened it, he
+stood in the doorway for a minute and said, "Excuse me,
+excuse me." I asked him to come in, but he refused. He
+was looking down at the tips of his shoes and his scabby
+hands were trembling. Without looking up at me he
+asked, "They're not going to take him away from me,
+are they, Monsieur Meursault? They'll give him back
+to me. Otherwise, what's going to happen to me?" I
+told him that the pound kept dogs for three days so that
+their owners could come and claim them and that after
+that they did with them as they saw fit. He looked at
+me in silence. Then he said, "Good night." He shut his
+door and I heard him pacing back and forth . His bed
+creaked. And from the peculiar little noise coming
+through the partition, I realized he was crying. For
+some reason I thought of Maman. But I had to get up
+early the next morning. I wasn't hungry, and I went
+to bed without any dinner.
+39
+
+5
+
+Raymond called me at the office. He told me that a
+friend of his (he'd spoken to him about me) had invited
+me to spend the day Sunday at his little beach house,
+near Algiers. I said I'd really like to, but I'd promised to
+spend the day with a girlfriend. Raymond immediately
+told me that she was invited too. His friend's wife would
+be very glad not to be alone with a bunch of men .
+I wanted to hang up right away because I know the
+boss doesn't like people calling us from town. But Ray­
+mond asked me to hang on and told me he could have
+passed on the invitation that evening, but he had some­
+thing else to tell me. He'd been followed all day by a
+group of Arabs, one of whom was the brother of his
+former mistress. "If you see him hanging around the
+building when you get home this evening, let me know."
+I said I would.
+A little later my boss sent for me, and for a second I
+was annoyed, because I thought he was going to tell me
+to do less talking on the phone and more work. But that
+wasn't it at all. He told me he wanted to talk to me about
+a plan of his that was still pretty vague. He just wanted
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+to have my opinion on the matter. He was planning to
+open an office in Paris which would handle his business
+directly with the big companies, on the spot, and he
+wanted to know how I felt about going there. I'd be
+able to live in Paris and to travel around for part of the
+year as well . "You're young, and it seems to me i t's the
+kind of life that would appeal to you." I said yes but
+that really it was all the same to me. Then he asked me
+if I wasn't interested in a change of life. I said that peo­
+ple never change their lives, that in any case one life was
+as good as another and that I wasn't dissatisfied with
+mine here at all . He looked upset and told me that I
+never gave him a straight answer, that I had no ambition,
+and that that was disastrous in business. So I went back
+to work. I would rather not have upset him, but I
+couldn't see any reason to change my life. Looking back
+on it, I wasn't unhappy. When I was a student, I had
+lots of ambitions like that. But when I had to give up my
+studies I learned very quickly that none of it really
+mattered.
+That evening Marie carne by to see me and asked me
+if I wanted to marry her. I said it didn't make any differ­
+ence to me and that we could if she wanted to. Then she
+wanted to know if I loved her. I answered the same way
+I had the last time, that it didn't mean anything but that
+I probably didn't love her. "So why marry me, then?"
+she said. I explained to her that it didn't really matter
+and that if she wanted to, we could get married. Besides,
+she was the one who was doing the asking and all I was
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+saying was yes. Then she pointed out that marriage was
+a serious thing. I said, "No." She stopped talking for a
+minute and looked at me without saying anything. Then
+she spoke. She just wanted to know if I would have
+accepted the same proposal from another woman, with
+whom I was involved in the same way. I said, "Sure."
+Then she said she wondered if she loved me, and there
+was no way I could know about that. After another
+moment's silence, she mumbled that I was peculiar, that
+that was probably why she loved me but that one day I
+might hate her for the same reason . I didn't say anything,
+because I didn't have anything to add, so she took my arm
+with a smile and said she wanted to marry me. I said
+we could do it whenever she wanted. Then I told her
+about my boss's proposition and she said she'd love to see
+Paris. I told her that I'd lived there once and she asked
+me what it was like. I said, "It's dirty. Lots of pigeons and
+dark courtyards. Everybody's pale."
+Then we went for a walk through the main streets to
+the other end of town. The women were beautiful and I
+asked Marie if she'd noticed. She said yes and that she
+understood what I meant. For a while neither of us said
+anything. But I wanted her to stay with me, and I told
+her we could have dinner together at Celeste's. She
+would have liked to but she had something to do. We
+were near my place and I said goodbye to her. She
+looked at me. "Don't you want to know what I have to
+do?" I did, but I hadn't thought to ask, and she seemed to
+be scolding me . Then, seeing me so confused, she
+42
+
+0
+
+T H E
+
+S TR A N G ER
+
+0
+
+laughed again and she moved toward me with her whole
+body to offer me her lips.
+I had dinner at Celeste's. I'd already started eating
+when a strange little woman came in and asked me if
+she could sit at my table. Of course she could. Her
+gestures were jerky and she had bright eyes i n a little
+face like an apple. She took off her jacket, sat down, and
+studied the menu feverishly. She called Celeste over and
+ordered her whole meal all at once, in a voice that was
+clear and very fast at the same time. While she was
+waiting for her first course, she opened her bag, took
+out a slip of paper and a pencil, added up the bill in
+advance, then took the exact amount, plus tip, out of a
+vest pocket and set it down on the table in front of her.
+At that point the waiter brought her first course and she
+gulped it down. While waiting for the next course, she
+again took out of her bag a blue pencil and a magazine
+that listed the radio programs for the week. One by one,
+and with great care, she checked off almost every pro­
+gram. Since the magazine was about a dozen pages long,
+she meticulously continued this task throughout the
+meal. I had already finished and she was still checking
+away with the same zeal . Then she stood up, put her
+jacket back on with the same robotlike movements, and
+left. I didn't have anything to do, so I left too and fol­
+lowed her for a while. She had positioned herself right
+next to the curb and was making her way with in­
+credible speed and assurance, never once swerving or
+looking around. I eventually lost sight of her and turned
+43
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+back. I thought about how peculiar she was but forgot
+about her a few minutes later.
+I found old Salamano waiting outside my door. I
+asked him in and he told me that his dog was lost, be­
+cause it wasn't at the pound. The people who worked
+there had told him that maybe it had been run over. He
+asked if he could find out at the police station. They
+told him that they didn't keep track of things like that
+because they happened every day. I told old Salamano
+that he could get another dog, but he was right to point
+out to me that he was used to this one.
+I was sitting cross-legged on my bed and Salamano
+had sat down on a chair in front of the table. He was
+facing me and he had both hands on his knees. He had
+kept his old felt hat on . He was mumbling bits and pieces
+of sentences through his yellowing moustache. He was
+getting on my nerves a little, but I didn't have anything
+to do and I didn't feel sleepy. Just for something to say, I
+asked him about his dog. He told me he'd gotten it after
+his wife died. He had married fairly late. When he was
+young he'd wanted to go into the theater : in the army he
+used to act in military vaudevilles. But he had ended
+up working on the railroads, and he didn't regret it,
+because now he had a small pension. He hadn't been
+happy with his wife, but he'd pretty much gotten used
+to her. When she died he had been very lonely. So he
+asked a shop buddy for a dog and he'd gotten this one
+very young. He'd had to feed it from a bottle. But since
+a dog doesn't live as long as a man, they'd ended up
+44
+
+0
+
+T H E
+
+S TR A N G ER
+
+0
+
+being old together. "He was bad-tempered," Salamano
+said. "We'd have a run-in every now and then. But he
+was a good dog just the same." I said he was well bred
+and Salamano looked pleased. "And," he added, "you
+didn't know him before he got sick. His coat was the
+best thing about him." Every night and every morning
+after the dog had gotten that skin disease, Salamano
+rubbed him with ointment. But according to him, the
+dog's real sickness was old age, and there's no cure for
+old age.
+At that point I yawned, and the old man said he'd be
+going. I told him that he could stay and that I was sorry
+about what had happened to his dog. He thanked me.
+He told me that Maman was very fond of his dog. He
+called her "your poor mother." He said he supposed I
+must be very sad since Maman died, and I didn't say
+anything. Then he said, very quickly and with an em­
+barrassed look, that he realized that some people in the
+neighborhood thought badly of me for having sent
+Maman to the home, but he knew me and he knew I
+loved her very much. I still don't know why, but I said
+that until then I hadn't realized that people thought
+badly of me for doing it, but that the home had seemed
+like the natural thing since I didn't have enough money
+to have Maman cared for. "Anyway," I added, "it had
+been a long time since she'd had anything to say to me,
+and she was bored all by hersel f." "Yes," he said, "and at
+least in a home you can make a few friends." Then he
+said good night. He \Nanted to sleep. His life had changed
+45
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+now and he wasn't too sure what he was going to do.
+For the first time since I'd known him, and with a furtive
+gesture, he offered me his hand, and I felt the scales on
+his skin. He gave a little smile, and before he left he
+said, "I hope the dogs don't bark tonight. I always think
+it's mine."
+
+6
+
+I had a hard time waking up on Sunday, and Marie had
+to call me and shake me. We didn't eat anything, be­
+cause we wanted to get to the beach early. I felt com­
+pletely drained and I had a slight headache. My cigarette
+tasted bitter. Marie made fun of me because, she said,
+I had on a "funeral face." She had put on a white
+linen dress and let her hair down. I told her she was
+beautiful and she laughed with delight.
+On our way downstairs we knocked on Raymond's
+door. He told us he'd be right down. Once out in the
+street, because I was so tired and also because we hadn't
+opened the blinds, the day, already bright with sun, hit
+me like a slap in the face. Marie was jumping with joy
+and kept on saying what a beautiful day it was. I felt a
+little better and I noticed that I was hungry. I told Marie,
+who pointed to her oilcloth bag where she'd put our bath­
+ing suits and a towel. I just had to wait and then we
+heard Raymond shutting his door. He had on blue
+trousers and a white short-sleeved shirt. But he'd put on
+a straw hat, which made Marie laugh, and his forearms
+were all white under the black hairs. I found it a little
+47
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+repulsive. He was whistling as he came down the stairs
+and he seemed very cheerful. He said "Good morning,
+old man" to me and called Marie "mademoiselle."
+The day before, we'd gone to the police station
+and I'd testified that the girl had cheated on Raymond.
+He'd gotten off with a warning. They didn't check out
+my statement. Outside the front door we talked about
+it with Raymond, and then we decided to take the bus.
+The beach wasn't very far, but we'd get there sooner
+that way. Raymond thought his friend would be glad
+to see us get there early. We were just about to leave
+when all of a sudden Raymond motioned to me to look
+across the street. I saw a group of Arabs leaning against
+the front of the tobacconist's shop. They were staring at
+us in silence, but in that way of theirs, as if we were
+nothing but stones or dead trees. Raymond told me that
+the second one from the left was his man, and he seemed
+worried. But, he added, it was all settled now. Marie
+didn't really understand and asked us what was wrong.
+I told her that they were Arabs who had it in for Ray­
+mond. She wanted to get going right away. Raymond
+drew himself up and laughed, saying we'd better step
+on it.
+We headed toward the bus stop, which wasn't far,
+and Raymond said that the Arabs weren't following us.
+I turned around. They were still in the same place and
+they were looking with the same indifference at the spot
+where we'd just been standing. We caught the bus.
+Raymond, who seemed very relieved, kept on cracking
+
+0
+
+T H E
+
+S TRA N G E R
+
+0
+
+jokes for Marie. I could tell he liked her, but she hardly
+said anything to him. Every once in a while she'd look at
+him and laugh.
+We got off in the outskirts of Algiers. The beach
+wasn't far from the bus stop. But we had to cross a small
+plateau which overlooks the sea and then drops steeply
+down to the beach. It was covered with yellowish rocks
+and the whitest asphodels set against the already hard
+blue of the sky. Marie was having fun scattering the
+petals, taking big swipes at them with her oilcloth bag.
+We walked between rows of small houses behind green
+or white fences, some with their verandas hidden be­
+hind the tamarisks, others standing naked among the
+rocks . Before we reached the edge of the plateau, we
+could already see the motionless sea and, farther out, a
+massive, drowsy-looking promontory in the clear water.
+The faint hum of a motor rose up to us in the still air.
+And way off, we saw a tiny trawler moving, almost im­
+perceptibly, across the dazzling sea. M arie gathered
+some rock irises. From the slope leading down to the
+beach, we could see that there were already some people
+swimming.
+Raymond's friend lived in a little wooden bungalow
+at the far end of the beach. The back of the house
+rested up against the rocks, and the pilings that held it
+up in front went straight down into the water. Raymond
+introduced us. His friend's name was Masson. He was a
+big guy, very tall and broad-shouldered, with a plump,
+sweet little wife with a Parisian accent. Right off he told
+49
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+us to make ourselves at horne and said that his wife had
+just fried up some fish he'd caught that morning. I told
+him how nice I thought his house was. He told me that
+he spent Saturdays and Sundays and all his days off
+there. "With my wife, of course," he added. Just then
+his wife was laughing with Marie. For the first time
+maybe, I really thought I was going to get married.
+Masson wanted to go for a swim, but his wife and
+Raymond didn't want to come. The three of us went
+down to the beach and Marie jumped right in. Masson
+and I waited a little. He spoke slowly, and I noticed
+that he had a habit of finishing everything he said with
+"and I'd even say," when really it didn't add anything to
+the meaning of his sentence. Referring to Marie, he
+said, "She's stunning, and I'd even say charming." After
+that I didn't pay any more attention to this mannerism
+of his, because I was absorbed by the feeling that the
+sun was doing me a lot of good . The sand was starting
+to get hot underfoot. I held back the urge to get into the
+water a minute longer, but finally I said to Masson ,
+"Shall we?" I dove in. He waded in slowly and started
+swimming only when he couldn't touch bottom anymore.
+He did the breast stroke, and not too well, either, so I
+left him and joined Marie. The water was cold and I was
+glad to be swimming. Together again, Marie and I
+swam out a ways, and we felt a closeness as we moved
+in unison and were happy.
+Out in deeper water we floated on our backs and
+the sun on my upturned face was drying the last of the
+so
+
+0
+
+T H E
+
+S T R A N G E R
+
+o
+
+water trickling into my mouth. We saw Masson making
+his way back to the beach to stretch out in the sun.
+From far away he looked huge. Marie wanted us to
+swim together. I got behind her to hold her around
+the waist. She used her arms to move us forward and
+I did the kicking. The little splashing sound followed
+us through the morning air until I got tired. I left
+Marie and headed back, swimming smoothly and breath­
+ing easily. On the beach I stretched out on my stomach
+alongside M asson and put my face on the sand. I said
+it was nice and he agreed. Soon afterwards Marie came
+back. I rolled over to watch her coming. She was
+glistening all over with salty water and holding her hair
+back. She lay down right next to me and the combined
+warmth from her body and from the sun made me doze
+off.
+Marie shook me and told me that Masson had gone
+back up to the house, that it was time for lunch . I got
+up right away because I was hungry, but Marie told me
+I hadn't kissed her since that morning. It was true,
+and yet I had wanted to. "Come into the water," she said.
+We ran and threw ourselves into the first little waves.
+We swam a few strokes and she reached out and held
+on to me. I felt her legs wrapped around mine and I
+wanted her.
+When we got back, Masson was already calling us.
+I said I was starving and then out of the blue he an­
+nounced to his wife that he liked me. The bread was
+good; I devoured my share of the fish. After that there
+51
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+was some meat and fried potatoes. We all ate without
+talking. Masson drank a lot of wine and kept filling my
+glass. By the time the coffee carne, my head felt heavy
+and I smoked a lot. Masson, Raymond, and I talked
+about spending August together at the beach, sharing
+expenses. Suddenly Marie said, "Do you know what
+time it is? It's only eleven-thirty!" We were all sur­
+prised, but Masson said that we'd eaten very early and
+that it was only natural because lunchtime was when­
+ever you were hungry. For some reason that made Marie
+laugh. I think she'd had a little too much to drink.
+Then Masson asked me if I wanted to go for a walk on
+the beach with him. "My wife always takes a nap after
+lunch. Me, I don't like naps. I need to walk. I tell her all
+the time it's better for her health. But it's her business."
+Marie said she'd stay and help Madame Masson with
+the dishes. The little Parisienne said that first they'd have
+to get rid of the men. The three of us went down to the
+beach .
+The sun was shining almost directly overhead onto
+the sand, and the glare on the water was unbearable.
+There was no one left on the beach. From inside the
+bungalows bordering the plateau and jutting out over
+the water, we could hear the rattling of plates and
+silverware. It was hard to breathe in the rocky heat
+rising from the ground. At first Raymond and Masson
+discussed people and things I didn't know about. I
+gathered they'd known each other for a long time and
+had even lived together at one point. We headed down
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+to the sea and walked along the water's edge. Now and
+then a little wave would come up higher than the
+others and wet our canvas shoes. I wasn't thinking
+about anything, because I was half asleep from the sun
+beating down on my bare head.
+At that point Raymond said something to Masson
+which I didn't quite catch. But at the same time I
+noticed, at the far end of the beach and a long way from
+us, two Arabs in blue overalls coming in our direction .
+I looked at Raymond and he said, "It's him. " We kept
+walking. Masson asked how they'd managed to follow
+us all this way. I thought they must have seen us get on
+the bus with a beach bag, but I didn't say anything.
+The Arabs were walking slowly, but they were
+already much closer. We didn't change our pace, but
+Raymond said, "If there's any trouble, Masson, you
+take the other one. I'll take care of my man. Meursault,
+if another one shows up, he's yours." I said, "Yes," and
+Masson put his hands in his pockets. The blazing sand
+looked red to me now. We moved steadily toward the
+Arabs. The distance between us was getting shorter and
+shorter. When we were just a few steps away from each
+other, the Arabs stopped. Masson and I slowed down.
+Raymond went right up to his man. I couldn't hear
+what he said to him, but the other guy made a move as
+though he were going to butt him. Then Raymond struck
+the first blow and called Masson right away. Masson went
+for the one that had been poin ted out as his and hit him
+twice, as hard as he could. The Arab fell Aat in the water,
+53
+
+0
+
+T H E
+
+S TRA N G ER
+
+o
+
+facedown, and lay there for several seconds with bubbles
+bursting on the surface around his head. Meanwhile
+Raymond had landed one too, and the other Arab's face
+was bleeding. Raymond turned to me and said, "Watch
+this. I'm gonna let him have it now." I shouted, "Look
+out, he's got a knife!" But Raymond's arm had already
+been cut open and his mouth slashed. Masson lunged
+forward. But the other Arab had gotten back up and gone
+around behind the one with the knife. We didn't dare
+move. They started backing off slowly, without taking
+their eyes off us, keeping us at bay with the knife. When
+they thought they were far enough away, they took off
+running as fast as they could while we stood there
+motionless in the sun and Raymond clutched at his arm
+dripping with blood.
+Masson immediately said there was a doctor who
+spent his Sundays up on the plateau. Raymond wanted
+to go see him righ t away. But every time he tried to talk
+the blood bubbled in his mouth. We steadied him and
+made our way back to the bungalow as quickly as we
+could. Once there, Raymond said that they were only
+flesh wounds and that he could make it to the doctor's.
+He left with Masson and I stayed to explain to the
+women what had happened. Madame Masson was cry­
+ing and Marie was very pale. I didn't like having to ex­
+plain to them, so I just shut up, smoked a cigarette, and
+looked at the sea.
+Raymond came back with Masson around one-thirty.
+His arm was bandaged up and he had an adhesive
+54
+
+0
+
+T H E
+
+S TR A N G E R
+
+0
+
+plaster on the comer of his mouth . The doctor had told
+him that it was nothing, but Raymond looked pretty
+grim. Masson tried to make him laugh. But he still
+wouldn't say anything. When he said he was going
+down to the beach, I asked him where he was going.
+He said he wanted to get some air. Masson and I said
+we'd go with him. But that made him angry and he swore
+at us. Masson said not to argue with him. I followed
+him anyway.
+We walked on the beach for a long time. By now
+the sun was overpowering. It shattered into little pieces
+on the sand and water. I had the impression that Ray­
+mond knew where he was going, but I was probably
+wrong. At the far end of the beach we finally came to a
+little spring running down through the sand behind a
+large rock. There we found our two Arabs. They were
+lying down, in their greasy overalls. They seemed per­
+fectly calm and almost content. Our coming changed
+nothing. The one who had attacked Raymond was
+looking at him without saying anything. The other one
+was blowing through a little reed over and over again,
+watching us out of the comer of his eye. He kept repeat­
+ing the only three notes he could get out of his in­
+strument.
+The whole time there was nothing but the sun and
+the silence, with the low gurgling from the spring and
+the three notes. Then Raymond put his hand in his
+hip pocket, but the others didn't move, they just kept
+looking at each other. I noticed that the toes on the one
+55
+
+0
+
+T H E
+
+S TRA N G E R
+
+o
+
+playing the flute were tensed. But without taking his
+eyes off his adversary, Raymond asked me, "Should I
+let him have it?" I thought that if I said no he'd get
+himself all worked up and shoot for sure. All I said was,
+"He hasn't said anything yet. It'd be pretty lousy to
+shoot him like that." You could still hear the sound of
+the water and the flute deep within the silence and the
+heat. Then Raymond said, "So I'll call him something
+and when he answers back, I'll let him have it." I
+answered, "Right. But if he doesn't draw his knife, you
+can't shoot." Raymond started getting worked up. The
+other Arab went on playing, and both of them were
+watching every move Raymond made. "No," I said
+to Raymond, "take him on man to man and give me your
+gun. If the other one moves in, or if he draws his knife,
+I'll let him have it."
+The sun glinted off Raymond's gun as he handed it
+to me. But we just stood there motionless, as if every­
+thing had closed in around us. We stared at each other
+without blinking, and everything carne to a stop there
+between the sea, the sand, and the sun, and the double
+silence of the flute and the water. It was then that I
+realized that you could either shoot or not shoot. But
+all of a sudden, the Arabs, backing away, slipped be­
+hind the rock. So Raymond and I turned and headed
+back the way we'd come. He seemed better and talked
+about the bus back.
+I went with him as far as the bungalow, and as he
+climbed the wooden steps, I just stood there at the
+s6
+
+0
+
+T H E
+
+S TRA N G ER
+
+o
+
+bottom, my head ringing from the sun, unable to face
+the effort it would take to climb the wooden staircase
+and face the women again. But the heat was so intense
+that it was just as bad standing still in the blinding
+stream falling from the sky. To stay or to go, it amounted
+to the same thing. A minute later I turned back toward
+the beach and started walking.
+There was the same dazzling red glare. The sea
+gasped for air with each shallow, stifled little wave that
+broke on the sand. I was walking slowly toward the
+rocks and I could feel my forehead swelling under the
+sun . All that heat was pressing down on me and making
+it hard for me to go on. And every time I felt a blast of
+its hot breath strike my face, I gritted my teeth, clenched
+my fists in my trouser pockets, and strained every nerve
+in order to overcome the sun and the thick drunkenness
+it was spilling over me. With every blade of light that
+Hashed off the sand, from a bleached shell or a piece of
+broken glass, my jaws tightened. I walked for a long
+time.
+From a distance I could see the small, dark mass of
+rock surrounded by a blinding halo of light and sea
+spray. I was thinking of the cool spring behind the rock.
+I wanted to hear the murmur of its water again, to escape
+the sun and the strain and the women's tears, and to
+find shade and rest again at last. But as I got closer, I
+saw that Raymond's man had come back.
+He was alone. He was lying on his back, with his
+hands behind his head, his forehead in the shade of the
+57
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+rock, the rest of his body in the sun. His blue overalls
+seemed to be steaming in the heat. I was a little sur­
+prised. As far as I was concerned, the whole thing was
+over, and I'd gone there without even thinking about it.
+As soon as he saw me, he sat up a little and put his
+hand in his pocket. Naturally, I gripped Raymond's
+gun inside my jacket. Then he lay back again, but with­
+out taking his hand out of his pocket. I was pretty far
+away from him, about ten meters or so. I could tell he was
+glancing at me now and then through half-closed eyes.
+But most of the time, he was just a form shimmering
+before my eyes in the fiery air. The sound of the waves
+was even lazier, more drawn out than at noon. It was
+the same sun, the same light still shining on the same
+sand as before. For two hours the day had stood still;
+for two hours it had been anchored in a sea of molten
+lead. On the horizon, a tiny steamer went by, and I
+made out the black dot from the corner of my eye be­
+cause I hadn't stopped watching the Arab.
+It occurred to me that all I had to do was turn
+around and that would be the end of it. But the whole
+beach, throbbing in the sun, was pressing on my back. I
+took a few steps toward the spring. The Arab didn't
+move. Besides, he was still pretty far away. Maybe it
+was the shadows on his face, but it looked like he was
+laughing. I waited . The sun was starting to burn my
+cheeks, and I could feel drops of sweat gathering in my
+eyebrows. The sun was the same as it had been the
+day I'd buried Maman, and like then, my forehead
+ss
+
+0
+
+T H E
+
+S TRA N G ER
+
+o
+
+especially was hurting me, all the veins in it throbbing
+under the skin. It was this burning, which I couldn't
+stand anymore, that made me move forward. I knew
+that it was stupid, that I wouldn't get the sun off me
+by stepping forward. But I took a step, one step, forward.
+And this time, without getting up, the Arab drew his
+knife and held it up to me in the sun. The light shot off
+the steel and it was like a long Hashing blade cutting at
+my forehead. At the same instant the sweat in my eye­
+brows dripped down over my eyelids all at once and
+covered them with a warm, thick film. My eyes were
+blinded behind the curtain of tears and salt. All I could
+feel were the cymbals of sunlight crashing on my fore­
+head and, indistinctly, the dazzling spear Hying up from
+the knife in front of me. The scorching blade slashed at
+my eyelashes and stabbed at my stinging eyes. That's
+when everything began to reel. The sea carried up a
+thick, fiery breath. It seemed to me as if the sky split open
+from one end to the other to rain down fire. My whole
+being tensed and I squeezed my hand around the
+revolver. The trigger gave; I felt the smooth underside
+of the butt; and there, in that noise, sharp and deafen­
+ing at the same time, is where it all started. I shook off
+the sweat and sun. I knew that I had shattered the
+harmony of the day, the exceptional silence of a beach
+where I'd been happy. Then I fired four more times at
+the motionless body where the bullets lodged without
+leaving a trace. And it was like knocking four quick times
+on the door of unhappiness.
+59
+
+PAitTTWO
+
+1
+
+Right after my arrest I was questioned several times, but
+it was just so they could find out who I was, which didn't
+take long. The first time, at the police station, nobody
+seemed very interested in my case. A week later, how­
+ever, the examining magistrate looked me over with
+curiosity. But to get things started he simply asked my
+name and address, my occupation, the date and place of
+my birth . Then he wanted to know if I had hired an
+attorney. I admitted I hadn't and inquired whether it
+was really necessary to have one. "Why do you ask?"
+he said. I said I thought my case was pretty simple. He
+smiled and said, "That's your opinion. But the law is
+the law. If you don't hire an attorney yourself, the court
+will appoint one." I thought it was very convenient that
+the court should take care of those details. I told him
+so. H e agreed with me and concluded that it was a
+good law.
+At first, I didn't take him seriously. I was led into a
+curtained room; there was a single lamp on his desk
+which was shining on a chair where he had me sit while
+he remained standing in the shadows.
+
+I had read
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+descriptions of scenes like this in books and it all
+seemed like a game to me. After our conversation,
+though , I looked at him and saw a tall, fine-featured
+man with deep-set blue eyes, a long gray moustache, and
+lots of thick, almost white hair. He struck me as being
+very reasonable and, overall, quite pleasant, despite a
+nervous tic which made his mouth twitch now and then.
+On my way out I was even going to shake his hand, but
+just in time, I remembered that I had killed a man.
+The next day a lawyer came to see me at the prison.
+He was short and chubby, quite young, his hair care­
+fully slicked back. Despite the heat (I was in my shirt
+sleeves) , he had on a dark suit, a wing collar, and an
+odd-looking tie with broad black and white stripes. He
+put the briefcase he was carrying down on my bed, in­
+troduced himself, and said he had gone over my file.
+My case was a tricky one, but he had no doubts we'd
+win, if I trusted him. I thanked him and he said, "Let's
+get down to business."
+He sat down on the bed and explained to me that
+there had been some investigations into my private life.
+It had been learned that my mother had died recently at
+the horne. I nquiries had then been made in Marengo.
+The investigators had learned that I had "shown in­
+sensitivity" the day of Marnan's funeral. "You under­
+stand," my lawyer said, "it's a little embarrassing for me
+to have to ask you this. But it's very important. And it
+will be a strong argument for the prosecution if I can't
+come up with some answers." He wanted me to help him.
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+He asked if I had felt any sadness that day. The ques­
+tion caught me by surprise and it seemed to me that I
+would have been very embarrassed if I'd had to ask it.
+Nevertheless I answered that I had pretty much lost the
+habit of analyzing myself and that it was hard for me to
+tell him what he wanted to know. I probably did love
+Maman, but that didn't mean anything. At one time or
+another all normal people have wished their loved ones
+were dead. Here the lawyer interrupted me and he
+seemed very upset. He made me promise I wouldn't say
+that at my hearing or in front of the examining magis­
+trate. I explained to him, however, that my nature was
+such that my physical needs often got in the way of my
+feelings. The day I buried Maman, I was very tired and
+sleepy, so much so that I wasn't really aware of what
+was going on. What I can say for certain is that I would
+rather Maman hadn't died. But my lawyer didn't seem
+satisfied. He said, "That's not enough."
+He thought for a minute. He asked me if he could
+say that that day I had held back my natural feelings. I
+said, "No, because it's not true." He gave me a strange
+look, as if he found me slightly disgusting. He told me
+in an almost snide way that in any case the director
+and the staff of the home would be called as witnesses
+and that "things could get very nasty" for me. I pointed
+out to him that none of this had anything to do with my
+case, but all he said was that it was obvious I had never
+had any dealings with the law.
+He left, looking angry. I wished I could have made
+6s
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+him stay, to explain that I wanted things between us to
+be good, not so that he'd defend me better but, if I can
+put it this way, good in a natural way. Mostly, I could
+tell, I made him feel uncomfortable. He didn't under­
+stand me, and he was sort of holding it against me. I
+felt the urge to reassure him that I was like everybody
+else, just like everybody else. But really there wasn't
+much point, and I gave up the idea out of laziness.
+Shortly after that, I was taken before the examining
+magistrate again. It was two o'clock in the afternoon,
+and this time his office was filled with sunlight barely
+softened by a flimsy curtain. It was very hot. He had me
+sit down and very politely informed me that, "due to
+unforeseen circumstances," my lawyer had been unable
+to come. But I had the right to remain silent and to wait
+for my lawyer's counsel . I said that I could answer for
+myself. He pressed a button on the table. A young clerk
+came in and sat down right behind me.
+The two of us leaned back in our chairs. The
+examination began. He started out by saying that peo­
+ple were describing me as a taciturn and withdrawn
+person and he wanted to know what I thought. I an­
+swered, "It's just that I don't have much to say. So I
+keep quiet." He smiled the way he had the first time,
+agreed that that was the best reason of all, and added,
+"Besides, it's not important." Then he looked at me
+without saying anything, leaned forward rather abruptly,
+and said very quickly, "What interests me is you." I
+didn't really understand what he meant by that, so I
+66
+
+0
+
+T H E
+
+S T RA N G E R
+
+0
+
+didn't respond. "There are one or two things," he
+added, "that I don't quite understand. I'm sure you'll
+help me clear them up." I said it was all pretty simple.
+He pressed me to go back over that day. I went back
+over what I had already told him : Raymond, the beach,
+the swim, the quarrel , then back to the beach, the little
+spring, the sun, and the five shots from the revolver.
+After each sentence he would say, "Fine, fine." When I
+got to the body lying there, he nodded and said, "Good."
+But I was tired of repeating the same story over and
+over. It seemed as if I had never talked so much in my
+life.
+After a short silence, he stood up and told me that he
+wanted to help me, that I interested him, and that, with
+God's help, he would do something for me. But first
+he wanted to ask me a few more questions. Without
+working up to it, he asked if I loved Maman. I said,
+"Yes, the same as anyone," and the clerk, who up to then
+had been typing steadily, must have hit the wrong key,
+because he lost his place and had to go back. Again
+without any apparent logic, the magistrate then asked if
+I had fired all five shots at once. I thought for a minute
+and explained that at first I had fired a single shot and
+then, a few seconds later, the other four. Then he said,
+"Why did you pause between the first and second shot?"
+Once again I could see the red sand and feel the burning
+of the sun on my forehead. But this time I didn't answer.
+In the silence that followed , the magistrate seemed to be
+getting fidgety. He sat down, ran his fingers through his
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+hair, put his elbows on his desk, and leaned toward me
+slightly with a strange look on his face. "Why, why did
+you shoot at a body that was on the ground?" Once again
+I didn't know how to answer. The magistrate ran his
+hands across his forehead and repeated his question with
+a slightly different tone in his voice. "Why? You must
+tell me . Why?" Still I didn't say anything.
+Suddenly he stood up, strode over to a far corner
+of his office, and pulled out a drawer in a file cabinet.
+He took out a silver crucifix which he brandished as he
+came toward me. And in a completely different, almost
+cracked voice, he shouted, "Do you know what this is?"
+I said, "Yes, of course." Speaking very quickly and pas­
+sionately, he told me that he believed in God, that it
+was his conviction that no man was so guilty that God
+would not forgive him, but in order for that to happen
+a man must repent and in so doing become like a child
+whose heart is open and ready to embrace all. He was
+leaning all the way over the table. He was waving his
+crucifix almost directly over my head. To tell the truth,
+I had found it very hard to follow his reasoning, first
+because I was hot and there were big Hies in his office
+that kept landing on my face, and also because he was
+scaring me a little. At the same time I knew that that
+was ridiculous because, after all, I was the criminal. He
+went on anyway. I vaguely understood that to his mind
+there was just one thing that wasn't clear in my con­
+fession, the fact that I had hesitated before I fired my
+second shot. The rest was fine, but that part he couldn't
+understand.
+68
+
+0
+
+T H E
+
+S TRA N G ER
+
+o
+
+I was about to tell him he was wrong to dwell on it,
+because it really didn't matter. But he cut me off and
+urged me one last time, drawing himself up to his full
+height and asking me if I believed in God. I said no. He
+sat down indignantly. He said it was impossible; all men
+believed in God, even those who turn their backs on him.
+That was his belief, and if he were ever to doubt it, his
+life would become meaningless. "Do you want my life to
+be meaningless?" he shouted. As far as I could see, it
+didn't have anything to do with me, and I told him so.
+But from across the table he had already thrust the
+crucifix in my face and was screaming irrationally, "I
+am a Christian. I ask Him to forgive you your sins. How
+can you not believe that He suffered for you?" I was
+struck by how sincere he seemed, but I had had enough.
+It was getting hotter and hotter. As always, whenever I
+want to get rid of someone I'm not really listening to,
+I made it appear as if I agreed. To my surprise, he acted
+triumphant. "You see, you see!" he said. "You do believe,
+don't you, and you're going to place your trust in Him,
+aren't you?" Obviously, I again said no. He fell back
+in his chair.
+He seemed to be very tired. He didn't say anything
+for a minute while the typewriter, which hadn't let up
+the whole time, was still tapping out the last few sen­
+tences. Then he looked at me closely and with a little
+sadness in his face. In a low voice he said, "I have never
+seen a soul as hardened as yours. The criminals who have
+come before me have always wept at the sight of this
+image of suffering." I was about to say that that was
+69
+
+o
+
+T H E
+
+S TRA N G ER
+
+o
+
+precisely because they were criminals.
+
+But then
+
+I
+
+realized that I was one too. It was an idea I couldn't get
+used to. Then the judge stood up, as if to give me the
+signal that the examination was over. He simply asked,
+in the same weary tone, if I was sorry for what I had
+done. I thought about it for a minute and said that
+more than sorry I felt kind of annoyed. I got the im­
+pression he didn't understand. But that was as far as
+things went that day.
+After that, I saw a lot of the magistrate, except that
+my lawyer was with me each time. But it was just a
+matter of clarifying certain things in my previous state­
+ments. Or else the magistrate would discuss the charges
+with my lawyer. But on those occasions they never really
+paid much attention to me. Anyway, the tone of the ques­
+tioning gradually changed. The magistrate seemed to
+have lost interest in me and to have come to some sort
+of decision about my case. He didn't talk to me about
+God anymore, and I never saw him as worked up as he
+was that first day. The result was that our discussions
+became more cordial. A few questions, a brief conversa­
+tion with my lawyer, and the examinations were over.
+As the magistrate put it, my case was taking its course.
+And then sometimes, when the conversation was of a
+more general nature, I would be included . I started to
+breathe more freely. No one, in any of these meetings,
+was rough with me. Everything was so natural, so well
+handled, and so calmly acted out that I had the ridicu­
+lous impression of being "one of the family." And I can
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+say that at the end of the eleven months that this in­
+vestigation lasted, I was almost surprised that I had ever
+enjoyed anything other than those rare moments when
+the judge would lead me to the door of his office, slap me
+on the shoulder, and say to me cordially, "That's all for
+today, Monsieur Antichrist." I would then be handed
+back over to the police.
+
+2
+
+There are some things I've never liked talking about. A
+few days after I entered prison , I realized that I wouldn't
+like talking about this part of my life.
+Later on , though, I no longer saw any point to my
+reluctance. In fact, I wasn't really in prison those first
+few days : I was sort of waiting for something to happen.
+It was only after Marie's first and last visit that it all
+started. From the day I got her letter (she told me she
+would no longer be allowed to come, because she wasn't
+my wife), from that day on I felt that I was at home in
+my cell and that my life was coming to a standstill
+there. The day of my arrest I was first put in a room
+where there were already several other prisoners, most of
+them Arabs. They laughed when they saw me. Then they
+asked me what I was in for. I said I'd killed an Arab
+and they were all silent. A few minutes later, it got dark.
+They showed me how to fix the mat I was supposed to
+sleep on. One end could be rolled up to make a pillow.
+All night I felt bugs crawling over my face. A few days
+later I was put in a cell by myself, where I slept on
+wooden boards suspended from the wall. I had a bucket
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+for a toilet and a tin washbasin. The prison was on
+the heights above the town, and through a small window
+I could see the sea. One day as I was gripping the bars,
+my face straining toward the light, a guard came in and
+told me I had a visitor. I thought it must be Marie. It
+was.
+To get to the visiting room I went down a long cor­
+ridor, then down some stairs and, finally, another cor­
+ridor. I walked into a very large room brightened by a
+huge bay window. The room was divided. into three
+sections by two large grates that ran the length of the
+room. Between the two grates was a space of eight to
+ten meters which separated the visitors from the prisoners.
+I spotted Marie standing at the opposite end of the room
+with her striped dress and her sun-tanned face. On my
+side of the room there were about ten prisoners, most
+of them Arabs. Marie was surrounded by Moorish women
+and found herself between two visitors : a little, thin­
+lipped old woman dressed in black and a fat, bareheaded
+woman who was talking at the top of her voice and
+making lots of gestures. Because of the distance between
+the grates, the visitors and the prisoners were forced to
+speak very loud. When I walked in, the sound of the
+voices echoing off the room's high, bare walls and the
+harsh light pouring out of the sky onto the windows and
+spilling into the room brought on a kind of dizziness.
+My cell was quieter and darker. It took me a few seconds
+to adjust. But eventually I could see each face clearly,
+distinctly in the bright light. I noticed there was a
+73
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+guard sitting at the far end of the passage between the
+two grates. Most of the Arab prisoners and their families
+had squatted down facing each other. They weren't
+shouting. Despite the commotion, they were managing to
+make themselves heard by talking in very low voices.
+Their subdued murmuring, coming from lower down,
+formed a kind of bass accompaniment to the conversa­
+tions crossing above their heads. I took all this in very
+quickly as I made my way toward Marie. Already pressed
+up against the grate, she was smiling her best smile for
+me. I thought she looked very beautiful, but I didn't
+know how to tell her.
+"Well?" she called across to me. "Well, here I am."
+"Are you all right? Do you have everything you want?"
+"Yes, everything."
+We stopped talking and Marie went on smiling. The
+fat woman yelled to the man next to me, her husband
+probably, a tall blond guy with an honest face. It was the
+continuation of a conversation already under way.
+"Jeanne wouldn't take him," she shouted as loudly as
+she could. "Uh-huh," said the man. "I told her you'd
+take him back when you get out, but she wouldn't take
+him."
+Then it was Marie's turn to shout, that Raymond
+sent his regards, and I said, "Thanks." But my voice was
+drowned out by the man next to me, who asked, "Is he
+all right?" His wife laughed and said, "He's never been
+better." The man on my left, a small young man with
+delicate hands, wasn't saying anything. I noticed that
+74
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+he was across from the little old lady and that they were
+staring intently at each other. But I didn't have time to
+watch them any longer, because Marie shouted to me
+that I had to have hope. I said, "Yes." I was looking at
+her as she said it and I wanted to squeeze her shoulders
+through her dress. I wanted to feel the thin material and
+I didn't really know what else I had to hope for other
+than that. But that was probably what Marie meant,
+because she was still smiling. All I could see was the
+sparkle of her teeth and the little folds of her eyes. She
+shouted again, "You'll get out and we'll get married! " I
+answered, "You think so?" but it was mainly just to say
+something. Then very quickly and still in a very loud
+voice she said yes, that I would be acquitted and that we
+would go swimming again. But the other woman took
+her turn to shout and said that she had left a basket at
+the clerk's office. She was listing all the things she had
+put in it, to make sure they were all there, because they
+cost a lot of money. The young man and his mother
+were still staring at each other. The murmuring of the
+Arabs continued below us. Outside, the light seemed to
+surge up over the bay window.
+I was feeling a little sick and I'd have liked to leave.
+The noise was getting painful. But on the other hand, I
+wanted to make the most of Marie's being there. I don't
+know how much time went by. Marie told me about her
+job and she never stopped smiling. The murmuring, the
+shouting, and the conversations were crossing back and
+forth. The only oasis of silence was next to me where
+75
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+the small young man and the old woman were gazing at
+each other. One by one the Arabs were taken away.
+Almost everyone stopped talking as soon as the first one
+left. The little old woman moved closer to the bars,
+and at the same moment a guard motioned to her son.
+He said "Goodbye, Maman," and she reached between
+two bars to give him a long, slow little wave.
+She left just as another man came in, hat in hand,
+and took her place. Another prisoner was brought in and
+they talked excitedly, but softly, because the room had
+once again grown quiet. They came for the man on my
+right, and his wife said to him without lowering her
+voice, as if she hadn't noticed there was no need to
+shout anymore, "Take care of yourself and be careful."
+Then i t was my turn. Marie threw me a kiss. I looked
+back before disappearing. She hadn't moved and her face
+was still pressed against the bars with the same sad, forced
+smile on it.
+Shortly after that was when she wrote to me. And
+the things I've never liked talking about began. Anyway,
+I shouldn't exaggerate, and it was easier for me than
+for others. When I was first imprisoned, the hardest
+thing was that my thoughts were still those of a free man .
+For example, I would suddenly have the urge t o b e o n a
+beach and to walk down to the water. As I imagined the
+sound of the first waves under my feet, my body enter­
+ing the water and the sense of relief it would give me,
+all of a sudden I would feel just how closed in I was by
+the walls of my cell. But that only lasted a few months.
+
+�
+
+T H E
+
+S TRA N G ER
+
+�
+
+Afterwards my only thoughts were those of a prisoner.
+I waited for the daily walk, which I took in the courtyard,
+or for a visit from my lawyer. The rest of the time I
+managed pretty well. At the time, I often thought that
+if I had had to live in the trunk of a dead tree, with
+nothing to do but look up at the sky flowering overhead,
+little by little I would have gotten used to it. I would
+have waited for birds to fly by or clouds to mingle,
+j ust as here I waited to see my lawyer's ties and just as,
+in another world, I used to wait patiently until Saturday
+to hold Marie's body in my arms. Now, as I think back
+on it, I wasn't in a hollow tree trunk. There were others
+worse off than me. Anyway, it was one of Maman's ideas,
+and she often repeated it, that after a while you could
+get used to anything.
+Besides, I usually didn't take things so far. The first
+months were hard. But in fact the effort I had to make
+helped pass the time. For example, I was tormented by
+my desire for a woman. It was only natural; I was young.
+I never thought specifically of Marie. But I thought so
+much about a woman, about women , about all the ones
+I had known, about all the circumstances in which I had
+enjoyed them, that my cell would be filled with their
+faces and crowded with my desires. In one sense, i t
+threw m e o ff balance. But in another, it killed time. I
+had ended up making friends with the head guard, who
+used to make the rounds with the kitchen hands at meal­
+time. H e's the one who first talked to me about women.
+He told me it was the first thing the others complained
+77
+
+0
+
+T H E
+
+S TRA N G E R
+
+0
+
+about. I told him it was the same for me and that I
+thought it was unfair treatment. "But," he said, "that's
+exactly why you're in prison." "What do you mean that's
+why?" "Well, yes-freedom, that's why. They've taken
+away your freedom ." I'd never thought about that. I
+agreed. "It's true," I said. "Otherwise, what would be
+the punishment?" "Right. You see, you understand
+these things. The rest of them don't. But they just end
+up doing it by themselves." The guard left after that.
+There were the cigarettes, too. When I entered
+prison, they took away my belt, my shoelaces, my tie, and
+everything I had in my pockets, my cigarettes in par­
+ticular. Once I was in my cell, I asked to have them back.
+But I was told I wasn't allowed. The first few days were
+really rough. That may be the thing that was hardest
+for me. I would suck on chips of wood that I broke off
+my bed planks. I walked around nauseated all day long.
+I couldn't understand why they had taken them away
+when they didn't hurt anybody. Later on I realized that
+that too was part of the punishment. But by then I had
+gotten used to not smoking and it wasn't a punishment
+anymore.
+Apart from these annoyances, I wasn't too unhappy.
+Once again the main problem was killing time. Eventu­
+ally, once I learned how to remember things, I wasn't
+bored at all. Sometimes I would get to thinking about
+my room, and in my imagination I would start at one
+corner and circle the room, mentally noting everything
+there was on the way. At first it didn't take long. But
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+every time I started over, it took a little longer. I would
+remember every piece of furniture; and on every piece of
+furniture, every object; and of every object, all the de­
+tails; and of the details themselves-a flake, a crack, or
+a chipped edge-the color and the texture. At the same
+time I would try not to lose the thread of my inventory,
+to make a complete list, so that after a few weeks I
+could spend hours just enumerating the things that
+were in my room. And the more I thought about it, the
+more I dug out of my memory things I had overlooked
+or forgotten. I realized then that a man who had lived
+only one day could easily live for a hundred years in
+prison. He would have enough memories to keep him
+from being bored. In a way, it was an advantage.
+Then there was sleep. At first, I didn't sleep well at
+night and not at all during the day. Little by little, my
+nights got better and I was able to sleep during the day,
+too. In fact, during the last few months I've been sleep­
+ing sixteen to eighteen hours a day. That would leave
+me six hours to kill with meals, nature's call, my
+memories, and the story about the Czechoslovakian .
+Between my straw mattress and the bed planks, I
+had actually found an old scrap of newspaper, yellow
+and transparent, hal f-stuck to the canvas. On it was a
+news story, the first part of which was missing, but
+which must have taken place in Czechoslovakia. A
+man had left a Czech village to seek his fortune. Twenty­
+five years later, and now rich , he had returned with a
+wife and a child. His mother was running a hotel with
+79
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+his sister in the village where he'd been born. In order
+to surprise them, he had left his wife and child at another
+hotel and gone to see his mother, who didn't recognize
+him when he walked in. As a joke he'd had the idea of
+taking a room . He had shown off his money. During the
+night his mother and his sister had beaten him to death
+with a hammer in order to rob him and had thrown his
+body in the river. The next morning the wife had come
+to the hotel and, without knowing it, gave away the
+traveler's identity. The mother hanged herself. The
+sister threw herself down a well. I must have read that
+story a thousand times. On the one hand it wasn't very
+likely. On the other, it was perfectly natural. Anyway,
+I thought the traveler pretty much deserved what he
+got and that you should never play games.
+So, with all the sleep, my memories, reading my
+crime story, and the alternation of light and darkness,
+time passed. Of course I had read that eventually you
+wind up losing track of time in prison. But it hadn't
+meant much to me when I'd read it. I hadn't understood
+how days could be both long and short at the same time :
+long to live through, maybe, but so drawn out that they
+ended up flowing into one another. They lost their
+names. 0nIy the words "yesterday" and "tomorrow" st1'II
+had any meaning for me.
+One day when the guard told me that I'd been in for
+five months, I believed it, but I didn't understand it.
+For me it was one and the same unending day that was
+unfolding in my cell and the same thing I was trying to
+8o
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+do. That day, after the guard had left, I looked at my­
+self in my tin plate. My reflection seemed to remain
+serious even though I was trying to smile at it. I moved
+the plate around in front of me. I smiled and it still had
+the same sad, stern expression. It was near the end of the
+day, the time of day I don't like talking about, that
+nameless hour when the sounds of evening would rise up
+from every floor of the prison in a cortege of silence. I
+moved closer to the window, and in the last light of day
+I gazed at my reflection one more time. It was still
+serious-and what was surprising about that, since at
+that moment I was too? But at the same time, and for
+.
+the first time in months, I distinctly heard the sound
+of my own voice. I recognized it as the same one that
+had been ringing in my ears for many long days, and I
+realized that all that time I had been talking to myself.
+Then I remembered what the nurse at Maman's funeral
+said. No, there was no way out, and no one can imagine
+what nights in prison are like.
+
+81
+
+3
+
+But I can honestly say that the time from summer to
+summer went very quickly. And I knew as soon as the
+weather turned hot that something new was in store for
+me. My case was set down for the last session of the
+Court of Assizes, and that session was due to end some
+time in June. The trial opened with the sun glaring out­
+side. My lawyer had assured me that it wouldn't last more
+than two or three days. "Besides," he had added, "the
+court will be pressed for time. Yours isn't the most im­
+portant case of the session. Right after you, there's a
+parricide corning up."
+They carne for me at seven-thirty in the morning and
+I was driven to the courthouse in the prison van. The
+two policemen took me into a small room that smelled
+of darkness. We waited, seated near a door through
+which we could hear voices, shouts, chairs being dragged
+across the Roor, and a lot of commotion which made me
+think of those neighborhood fetes when the hall is
+cleared for dancing after the concert. The policemen
+told me we had to wait for the judges and one of them
+offered me a cigarette, which I turned down. Shortly
+
+0
+
+T H E
+
+S TRA N G ER
+
+0
+
+after that he asked me if I had the "jitters." I said no­
+and that, in a way, I was even interested in seeing a trial.
+I'd never had the chance before. "Yeah," said the other
+policeman, "but it gets a little boring after a while."
+A short time later a small bell rang in the room.
+Then they took my handcuffs off. They opened the door
+and led me into the dock. The room was packed.
+Despite the blinds, the sun filtered through in places
+and the air was already stifling. They hadn't opened the
+windows. I sat down with the policemen standing on
+either side of me. It was then that I noticed a row of
+faces in front of me. They were all looking at me : I
+realized that they were the jury. But I can't say what
+distinguished one from another. I had just one im­
+pression : I was sitting across from a row of seats on a
+streetcar and all these anonymous passengers were look­
+ing over the new arrival to see if they could find some­
+thing funny about him. I knew it was a silly idea since it
+wasn't anything funny they were after but a crime.
+There isn't much difference, though-in any case that
+was the idea that came to me.
+I was feeling a little dizzy too, with all those people
+in that stuffy room. I looked around the courtroom again
+but I couldn't make out a single face. I think that at
+first I hadn't realized that all those people were crowding
+in to see me. Usually people didn't pay much attention
+to me. It took some doing on my part to understand that
+I was the cause of all the excitement. I said to the police­
+man, "Some crowd!" He told me it was because of the
+
+�
+
+T H E
+
+S T R A N G E R
+
+�
+
+press and he pointed to a group of men at a table just
+below the jury box. He said, "That's them." I asked,
+"Who?" and he repeated, "The press." He knew one of
+the reporters, who just then spotted him and was making
+his way toward us. He was an older, friendly man with
+a twisted little grin on his face. He gave the policeman a
+warm handshake. I noticed then that everyone was
+waving and exchanging greetings and talking, as if they
+were in a club where people are glad to find themselves
+among others from the same world. That is how I ex­
+plained to myself the strange impression I had of being
+odd man out, a kind of intruder. Yet the reporter turned
+and spoke to me with a smile. He told me that he hoped
+everything would go well for me. I thanked him and
+he added, "You know, we've blown your case up a little.
+Summer is the slow season for the news. And your story
+and the parricide were the only ones worth bothering
+about." Then he pointed in the direction of the group
+he had just left, at a little man who looked like a
+fattened-up weasel. He told me that the man was a
+special correspondent for a Paris paper. "Actually, he
+didn't come because of you. But since they assigned him
+to cover the parricide trial, they asked him to send a dis­
+patch about your case at the same time." And again I
+almost thanked him . But I thought that that would be
+ridiculous. He waved cordially, shyly, and left us. We
+waited a few more minutes.
+My lawyer arrived, in his gown, surrounded by lots
+of colleagues. He walked over to the reporters and shook
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+some hands. They joked and laughed and looked com­
+pletely at ease, until the moment when the bell in the
+court rang. Everyone went back to his place. My lawyer
+walked over to me, shook my hand, and advised me to
+respond brieRy to the questions that would be put to me,
+not to volunteer anything, and to leave the rest to him.
+To my left I heard the sound of a chair being pulled
+out and I saw a tall, thin man dressed in red and wear­
+ing a pince-nez who was carefully folding his robe as he
+sat down. That was the prosecutor. A bailiff said, "All
+rise." At the same time two large fans started to whir.
+Three judges, two in black, the third in red, entered with
+files in hand and walked briskly to the rostrum which
+dominated the room. The man in the red gown sat on
+the chair in the middle, set his cap down in front of him,
+wiped his bald little head with a handkerchief, and an­
+nounced that the court was now in session.
+The reporters already had their pens in hand. They
+all had the same indifferent and somewhat snide look on
+their faces. One of them, however, much younger than
+the others, wearing gray flannels and a blue tie, had left
+his pen lying in front of him and was looking at me. All
+I could see in his slightly lopsided face were his two
+very bright eyes, which were examining me closely
+without betraying any definable emotion. And I had the
+odd impression of being watched by myself. Maybe it
+was for that reason , and also because I wasn't familiar
+with all the procedures, that I didn't quite understand
+everything that happened next : the drawing of lots for
+Bs
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+the jury; the questions put by the presiding judge to my
+lawyer, the prosecutor, and the jury (each time, the
+jurors' heads would all turn toward the bench at the
+same time); the quick reading of the indictment, in
+which I recognized names of people and places; and
+some more questions to my lawyer.
+Anyway, the presiding judge said he was going to
+proceed with the calling of witnesses. The bailiff read off
+some names that caught my attention. In the middle of
+what until then had been a shapeless mass of spectators,
+I saw them stand up one by one, only to disappear
+again through a side door : the director and the caretaker
+from the home, old Thomas Perez, Raymond, Masson,
+Salamano, and Marie. She waved to me, anxiously. I
+was still feeling surprised that I hadn't seen them before
+when Celeste, the last to be called, stood up. I recog­
+nized next to him the little woman from the restaurant,
+with her jacket and her stiff and determined manner.
+She was staring right at me. But I didn't have time to
+think about them, because the presiding judge started
+speaking. He said that the formal proceedings were
+about to begin and that he didn't think he needed to
+remind the public to remain silent. According to him,
+he was there to conduct in an impartial manner the pro­
+ceedings of a case which he would consider objectively.
+The verdict returned by the jury would be taken in a
+spirit of justice, and, in any event, he would have the
+courtroom cleared at the slightest disturbance.
+It was getting hotter, and I could see the people in
+86
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+the courtroom fanning themselves with
+
+newspapers,
+
+which made a continuous low rustling sound. The
+presiding judge gave a signal and the bailiff brought
+over three fans made of woven straw which the three
+judges started waving immediately.
+My examination began right away. The presiding
+judge questioned me calmly and even, it seemed to me,
+with a hint of cordiality. Once again he had me state
+my name, age, date and place of birth, and although it
+irritated me, I realized it was only natural, because it
+would be a very serious thing to try the wrong man. Then
+he reread the narrative of what I'd done, turning to me
+every few sentences to ask "Is that correct?" Each time
+I answered "Yes, Your Honor," as my lawyer had in­
+structed me to do. It took a long time because the
+judge went into minute detail in his narrative. The
+reporters were writing the whole time. I was conscious
+of being watched by the youngest of them and by
+the little robot woman. Everyone on the row of streetcar
+seats was turned directly toward the judge, who coughed ,
+leafed through his file, and turned toward me, fanning
+himself.
+He told me that he now had to turn to some ques­
+tions that might seem irrelevant to my case but might in
+fact have a significant bearing on it. I knew right away
+he was going to talk about Maman again, and at the
+same time I could feel how much it irritated me. He
+asked me wh) I had put Maman in the home. I answered
+that it was because I didn't have the money to have her
+
+o
+
+T H E
+
+S T R A N G E R
+
+0
+
+looked after and cared for. He asked me if it had been
+hard on me, and I answered that Marnan and I didn't
+expect anything from each other anymore, or from any­
+one else either, and that we had both gotten used to our
+new lives. The judge then said that he didn't want to
+dwell on this point, and he asked the prosecutor if he had
+any further questions.
+The prosecutor had his back half-turned to me, and
+without looking at me he stated that, with the court's
+permission, he would like to know whether I had gone
+back to the spring by myself intending to kill the Arab.
+"No," I said. Well, then, why was I armed and why
+did I return to precisely that spot? I said it just happened
+that way. And the prosecutor noted in a nasty voice,
+"That will be all for now." After that things got a little
+confused, at least for me. But after some conferring, the
+judge announced that the hearing was adjourned until
+the afternoon, at which time the witnesses would be
+heard.
+I didn't even have time to think. I was taken out,
+put into the van, and driven to the prison, where I had
+something to eat. After a very short time, just long
+enough for me to realize I was tired, they carne back
+for me; the whole thing started again, and I found
+myself in the same courtroom, in front of the same
+faces. Only it was much hotter, and as if by some
+miracle each member of the jury, the prosecutor, my
+lawyer, and some of the reporters, too, had been pro­
+vided with straw fans. The young reporter and the little
+88
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+robot woman were still there. They weren't fanning
+themselves, but they were still watching me without
+saying a word.
+I wiped away the sweat covering my face, and I had
+barely become aware of where I was and what I was
+doing when I heard the director of the home being
+called. He was asked whether Marnan ever complained
+about me, and he said yes but that some of it was just a
+way the residents all had of complaining about their
+relatives. The judge had him clarify whether she used
+to reproach me for having put her in the horne, and the
+director again said yes. But this time he didn't add any­
+thing else. To another question he replied that he had
+been surprised by my calm the day of the funeral. He
+was asked what he meant by "calm." The director then
+looked down at the tips of his shoes and said that I
+hadn't wanted to see Marnan, that I hadn't cried once,
+·
+and that I had left right after the funeral without pa y­
+ing my last respects at her grave. And one other thing
+had surprised him : one of the men who worked for the
+undertaker had told him I didn't know how old Marnan
+was. There was a brief silence, and then the j udge
+asked him if he was sure I was the man he had just been
+speaking of. The director didn't understand the question,
+so the judge told him, "It's a formality." He then asked
+the prosecutor if he had any questions to put to the
+witness, and the prosecutor exclaimed, "Oh no, that is
+quite sufficient!" with such glee and with such a tri­
+umphant look in my direction that for the first time in
+
+o
+
+T H E
+
+S T R A N G E R
+
+0
+
+years I had this stupid urge to cry, because I could feel
+how much all these people hated me.
+After asking the jury and my lawyer if they had any
+questions, the judge called the caretaker. The same
+ritual was repeated for him as for all the others. As he
+took the stand the caretaker glanced at me and then
+looked away. He answered the questions put to him. He
+said I hadn't wanted to see Maman, that I had smoked
+and slept some, and that I had had some coffee. It was
+then I felt a stirring go through the room and for the
+first time I realized that I was guilty. The caretaker was
+asked to repeat the part about the coffee and the cigarette.
+The prosecutor looked at me with an ironic gleam in his
+eye. At that point my lawyer asked the caretaker if it
+wasn't true that he had smoked a cigarette with me. But
+the prosecutor objected vehemently to this question .
+"Who is on trial here and what kind of tactics are these,
+trying to taint the witnesses for the prosecution in an
+effort to detract from testimony that remains nonethe­
+less overwhelming!" In spite of all that, the judge directed
+the caretaker to answer the question . The old man
+looked embarrassed and said, "I know I was wrong to do
+it. But I couldn't refuse the cigarette when monsieur
+offered it to me." Lastly, I was asked if I had anything to
+add. "Nothing," I said, "except that the witness is right.
+It's true, I did offer him a cigarette." The caretaker gave
+me a surprised and somehow grateful look. He hesitated
+and then he said that he was the one who offered me
+the coffee. My lawyer was exultant and stated loudly that
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+the jury would take note of the fact. But the prosecutor
+shouted over our heads and said, "Indeed, the gentlemen
+of the jury will take note of the fact. And they will
+conclude that a stranger may offer a cup of coffee, but
+that beside the body of the one who brought him into the
+world, a son should have refused it." The caretaker went
+back to his bench.
+When Thomas Perez's turn came, a bailiff had to
+hold him up and help him get to the witness stand.
+Perez said it was really my mother he had known and
+that he had seen me only once, on the day of the funeral.
+He was asked how I had acted that day and he replied,
+"You understand, I was too sad. So I didn't see anything.
+My sadness made it impossible to see anything. Be­
+cause for me it was a very great sadness. And I even
+fainted. So I wasn't able to see monsieur." The prosecu­
+tor asked him if he had at least seen me cry. Perez
+answered no. The prosecutor in turn said, "The gentle­
+men of the jury will take note." But my lawyer got
+angry. He asked Perez in what seemed to be an exag­
+gerated tone of voice if he had seen me
+
+not cry. Perez
+
+said, "No." The spectators laughed. And my lawyer,
+rolling up one of his sleeves, said with finality, "Here
+we have a perfect reflection of this entire trial : everything
+is true and nothing is true! " The prosecutor had a blank
+expression on his face, and with a pencil he was poking
+holes in the title page of his case file.
+After a five-minute recess, during which my lawyer
+told me that everything was working out for the best, we
+91
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+heard the testimony of Celeste, who was called by the
+defense. "The defense" meant me. Every now and then
+Celeste would glance over in my direction and rotate
+his panama hat in his hands. He was wearing the new
+suit he used to put on to go with me to the races some­
+times on Sundays. But I think he must not have been
+able to get his collar on, because he only had a brass
+stud keeping his shirt fastened. He was asked if I was
+a customer of his and he said, "Yes, but he was also a
+friend"; what he thought of me, and he answered that I
+was a man; what he meant by that, and he stated that
+everybody knew what that meant; if he had noticed that
+I was ever withdrawn, and all he would admit was that
+I didn't speak unless I had something to say. The prosecu­
+tor asked him if I kept up with my bill. Celeste laughed
+and said, "Between us those were just details." He was
+again asked what he thought about my crime. He put his
+hands on the edge of the box, and you could tell he had
+something prepared. He said, "The way I see it, it's bad
+luck. Everybody knows what bad luck is. It leaves you
+defenseless. And there it is! The way I see it, it's bad
+luck." He was about to go on, but the judge told him
+that that would be all and thanked him. Celeste was a
+little taken aback. But he stated that he had more to say.
+He was asked to be brief. He again repeated that it was
+bad luck. And the judge said, "Yes, fine. But we are here
+to judge just this sort of bad luck. Thank you." And
+as if he had reached the end of both his knowledge and
+his goodwill, Celeste then turned toward me. It looked
+92
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+to me as if his eyes were glistening and his lips were
+trembling. He seemed to be asking me what else he
+could do. I said nothing; I made no gesture of any kind,
+but it was the first time in my life I ever wanted to kiss
+a man. The judge again instructed him to step down.
+Celeste went and sat among the spectators. He sat there
+throughout the entire trial, leaning forward, his elbows on
+his knees, the panama hat in his hands, listening to
+everything that was said.
+Marie entered. She had put on a hat and she was still
+beautiful. But I liked her better with her hair loose.
+From where I was sitting, I could just make out the
+slight fullness of her breasts, and I recognized the little
+pout of her lower lip. She seemed very nervous. Right
+away she was asked how long she had known me. She
+said since the time she worked in our office. The judge
+wanted to know what her relation to me was. She said
+she was my friend. To another question she answered
+yes, it was true that she was supposed to marry me. Flip­
+ping through a file, the prosecutor asked her bluntly
+when our "liaison" had begun. She indicated the date.
+The prosecutor remarked indifferently that if he was
+not mistaken, that was the day after Maman died. Then
+in a slightly ironic tone he said that he didn't mean to
+dwell on such a delicate matter, and that he fully ap­
+preciated M arie's misgivings, but (and here his tone
+grew firmer) that he was duty bound to go beyond
+propriety. So he asked Marie to describe briefly that day
+when I had first known her. Marie didn't want to, but
+93
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+at the prosecutor's insistence, she went over our swim,
+the movies, and going back to my place. The prosecutor
+said that after Marie had given her statements to the
+examining magistrate, he had consulted the movie list­
+ings for that day. He added that Marie herself would tell
+the court what film was showing. In an almost expression­
+less voice she did in fact tell the court that it was a
+Fernandel film. By the time she had finished there was
+complete silence in the courtroom. The prosecutor then
+rose and, very gravely and with what struck me as real
+emotion in his voice, his finger pointing at me, said
+slowly and distinctly, "Gentlemen of the jury, the day
+after his mother's death, this man was out swimming,
+starting up a dubious liaison, and going to the movies, a
+comedy, for laughs. I have nothing further to say." He
+sat down in the still-silent courtroom. But all of a
+sudden Marie began to sob, saying it wasn't like that,
+there was more to it, and that she was being made to say
+the opposite of what she was thinking, that she knew me
+and I hadn't done anything wrong. But at a signal from
+the judge, the bailiff ushered her out and the trial pro­
+ceeded.
+Hardly anyone listened after that when Masson testi­
+fied that I was an honest man "and I'd even say a
+decent one." Hardly anyone listened to Salamano either,
+when he recalled how I had been good to his dog and
+when he answered a question about my mother and me
+by saying that I had run out of things to say to Maman
+and that was why I'd put her in the home. "You must
+94
+
+0
+
+T H E
+
+S T R A N ':> E R
+
+0
+
+understand," Salamano kept saying, "you must under­
+stand." But no one seemed to understand. He was
+ushered out.
+Next came Raymond, who was the last witness. He
+waved to me and all of a sudden , he blurted out that I was
+innocent. But the judge advised him that he was being
+asked not for judgments but for facts. He was instructed
+to wait for the questions before responding. He was
+directed to state precisely what his relations with the
+victim were. Raymond took this opportunity to say that
+he was the one the victim hated ever since he had hit
+the guy's sister. Nevertheless, the judge asked him
+whether the victim hadn't also had reason to hate me.
+Raymond said that my being at the beach was just
+chance. The prosecutor then asked him how it was that
+the letter that set the whole drama in motion had been
+written by me. Raymond responded that it was just
+chance. The prosecutor retorted that chance already had
+a lot of misdeeds on its conscience in this case. H e
+wanted t o know i f it was just b y chance that I hadn't
+intervened when Raymond had beaten up his girlfriend,
+just by chance that I had acted as a witness at the police
+station, and again just by chance that my statements on
+that occasion had proved to be so convenient. Finishing
+up, he asked Raymond how he made his living, and
+when Raymond replied "warehouse guard ," the prosecu­
+tor informed the jury that it was common knowledge that
+the witness practiced the profession of procurer. I was
+his friend and accomplice. They had before them the
+95
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+basest of crimes, a crime made worse than sordid by the
+fact that they were dealing with a monster, a man with­
+out morals. Raymond wanted to defend himself and my
+lawyer objected, but they were instructed that they must
+let the prosecutor finish. "I have little to add," the prose­
+cutor said. "Was he your friend?" he asked Raymond.
+"Yes, " Raymond sa1"d . "We were paIs.
+
+"
+
+The prosecutor
+
+then put the same question to me, and I looked at Ray­
+mond, who returned my gaze. I answered, "Yes." The
+prosecutor then turned to the jury and declared, "The
+same man who the day after his mother died was in­
+dulging in the most shameful debauchery killed a man
+for the most trivial of reasons and did so in order to
+settle an affair of unspeakable vice."
+He then sat down. But my lawyer had lost his
+patience, and, raising his hands so high that his sleeves
+fell, revealing the creases of a starched shirt, he shouted,
+"Come now, is my client on trial for burying his mother
+or for killing a man?" The spectators laughed. But the
+prosecutor rose to his feet again, adjusted his robe, and
+declared that only someone with the naivete of his
+esteemed colleague could fail to appreciate that between
+these two sets of facts there existed a profound, funda­
+mental, and tragic relationship. "Indeed," he loudly
+exclaimed, "I accuse this man of burying his mother
+With crime in his heart!" This pronouncement seemed
+to have a strong effect on the people in the courtroom.
+My lawyer shrugged his shoulders and wiped the sweat
+from his brow. But he looked shaken himself, and I
+realized that things weren't going well for me.
+96
+
+0
+
+T H E
+
+S T R A N G E R
+
+o
+
+The trial was adjourned . As I was leaving the court­
+house on my way back to the van, I recognized for a
+brief moment the smell and color of the summer eve­
+ning. In the darkness of my mobile prison I could make
+out one by one, as if from the depths of my exhaustion,
+all the familiar sounds of a town I loved and of a cer­
+tain time of day when I used to feel happy. The cries
+of the newspaper vendors in the already languid air, the
+last few birds in the square, the shouts of the sandwich
+sellers, the screech of the streetcars turning sharply
+through the upper town , and that hum in the sky before
+night engulfs the port : all this mapped out for me a
+route I knew so well before going to prison and which
+now I traveled blind. Yes, it was the hour when, a long
+time ago, I was perfectly content. What awaited me
+back then was always a night of easy, dreamless sleep.
+And yet something had changed, since it was back to
+my cell that I went to wait for the next day . . . as if
+familiar paths traced in summer skies could lead as
+easily to prison as to the sleep of the innocent.
+
+97
+
+4
+
+Even in the prisoner's dock it's always interesting to hear
+people talk about you. And during the summations by
+the prosecutor and my lawyer, there was a lot said about
+me, maybe more about me than about my crime. But
+were their two speeches so different after all? My lawyer
+raised his arms and pleaded guilty, but with an explana­
+tion. The prosecutor waved his hands and proclaimed my
+guilt, but without an explanation. One thing bothered me
+a little, though . Despite everything that was on my mind,
+I felt like intervening every now and then, but my lawyer
+kept telling me, "Just keep quiet-it won't do your case
+any good." In a way, they seemed to be arguing the
+case as if it had nothing to do with me. Everything was
+happening without my participation . My fate was being
+decided without anyone so much as asking my opinion.
+There were times when I felt like breaking in on all of
+them and saying, "Wait a minute! Who's the accused
+here? Being the accused counts for something. And I
+have something to say!" But on second thought, I didn't
+have anything to say. Besides, I have to admit that what­
+ever interest you can get people to take in you doesn't
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+last very long. For example, I got bored very quickly
+with the prosecutor's speech. Only bits and pieces-a
+gesture or a long but isolated tirade-caugh t my atten­
+tion or aroused my interest.
+The gist of what he was saying, if I understood him
+correctly, was that my crime was premeditated. At least
+that is what he tried to show. As he himself said, "I will
+prove it to you, gentlemen, and I will prove it in two
+ways. First, in the blinding clarity of the facts, and
+second, in the dim light cast by the mind of this
+criminal soul." He reminded the court of my insensi­
+tivity; of my ignorance when asked Marnan1s age; of my
+swim the next day-with a woman; of the Fernandel
+movie; and finally of my taking Marie horne with me. It
+took me a few minutes to understand the last part be­
+cause he kept saying "his mistress" and to me she was
+Marie. Then he carne to the business with Raymond . I
+though t his way of viewing the events had a certain
+consistency. What he was saying was plausible. I had
+agreed with Raymond to write the letter in order to lure
+his mistress and submit her to mistreatment by a man
+"of doubtful morality." I had provoked Raymond's ad­
+versaries at the beach. Raymond had been wounded. I
+had asked him to give me his gun. I had gone back
+alone intending to use it. I had shot the Arab as I
+planned. I had waited. And to make sure I had done the
+job right, I fired four more shots, calmly, point-blank­
+thoughtfully, as it were.
+"And there you have it, gentlemen," said the prosecu99
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+tor. "I have retraced for you the course of events which
+led this man to kill with full knowledge of his actions.
+I stress this point," he said, "for this is no ordinary
+murder, no thoughtless act for which you might find
+mitigating circumstances. This man, gentlemen, this
+man is intelligent. You heard him, didn't you? He knows
+how to answer. He knows the value of words. And no
+one can say that he acted without realizing what he
+was doing."
+I was listening, and I could hear that I was being
+judged intelligent. But I couldn't quite understand how
+an ordinary man's good qualities could become crushing
+accusations against a guilty man . At least that was what
+struck me, and I stopped listening to the prosecutor until
+I heard him say, "Has he so much as expressed any re­
+morse? Never, gentlemen. Not once during the pre­
+liminary hearings did this man show emotion over his
+heinous offense." At that point, he turned in my direc­
+tion, pointed his finger at me, and went on attacking me
+without my ever really understanding why. Of course, I
+couldn't help admitting that he was right. I didn't feel
+much remorse for what I'd done. But I was surprised by
+how relentless he was. I would have liked to have tried
+explaining to him cordially, almost affectionately, that I
+had never been able to truly feel remorse for anything.
+My mind was always on what was coming next, today
+or tomorrow. But naturally, given the position I'd been
+put in, I couldn't talk to anyone in that way. I didn't
+have the right to show any feeling or goodwill. And I
+I OO
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+tried to listen again, because the prosecutor started talk­
+ing about my soul.
+He said that he had peered into it and that he had
+found nothing, gentlemen of the jury. He said the truth
+was that I didn't have a soul and that nothing human ,
+not one of the moral principles that govern men's hearts,
+was within my reach . "Of course," he added, "we cannot
+blame him for this. We cannot complain that he lacks
+what it was not in his power to acquire. But here in this
+court the wholly negative virtue of tolerance must give
+way to the sterner but loftier virtue of justice. Espe­
+cially when the emptiness of a man's heart becomes, as
+we find it has in this man, an abyss threatening to
+swallow up society." It was then that he talked about
+my attitude toward Maman . He repeated what he had
+said earlier in the proceedings. But it went on much
+longer than when he was talking about my crime-so
+long, in fact, that finally all I was aware of was how hot a
+morning it was. At least until the prosecutor stopped and
+after a short silence continued in a very low voice filled
+with conviction : "Tomorrow, gentlemen, this same court
+is to sit in judgment of the most monstrous of crimes : the
+murder of a father." According to him, the imagination re­
+coiled before such an odious offense. He went so far
+as to hope that human justice would mete out punish­
+ment unBinchingly. But he wasn't afraid to say i t : my
+callousness inspired in him a horror nearly greater than
+that which he felt at the crime of parricide. And also
+according to him, a man who is morally guilty of killing
+IOI
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+his mother severs himself from society in the same way
+as the man who raises a murderous hand against the
+father who begat him. In any case, the one man paved
+the way for the deeds of the other, in a sense fore­
+shadowed and even legitimized them. "I am convinced,
+gentlemen," he added, raising his voice, "that you will
+not think it too bold of me if I suggest to you that the
+man who is seated in the dock is also guilty of the murder
+to be tried in this court tomorrow. He must be punished
+accordingly." Here the prosecutor wiped his face, which
+was glistening with sweat. He concluded by saying that
+his duty was a painful one but that he would carry it
+out resolutely. He stated that I had no place in a society
+whose most fundamental rules I ignored and that I could
+not appeal to the same human heart whose elementary
+response I knew nothing of. "I ask you for this man's
+head," he said, "and I do so with a heart at ease. For
+if in the course of what has been a long career I have
+had occasion to call for the death penalty, never as
+strongly as today have I felt this painful duty made
+easier, lighter, clearer by the certain knowledge of a
+sacred imperative and by the horror I feel when I look
+into a man's face and all I see is a monster."
+When the prosecutor returned to his seat, there was a
+rather long silence. My head was spinning with heat and
+astonishment. The presiding judge cleared his throat and
+in a very low voice asked me if I had anything to add. I
+stood up, and since I did wish to speak, I said, almost at
+random, in fact, that I never intended to kill the Arab.
+l 02
+
+�
+
+T H E
+
+S T R A N G E R
+
+�
+
+The judge replied by saying that at least that was an
+assertion, that until then he hadn't quite grasped the
+nature of my defense, and that before hearing from my
+lawyer he would be happy to have me state precisely the
+motives for my act. Fumbling a little with my words and
+realizing how ridiculous I sounded, I blurted out that
+it was because of the sun. People laughed. My lawyer
+threw up his hands, and immediately after that he was
+given the floor. But he stated that it was late and that he
+would need several hours. He requested that the trial be
+reconvened in the afternoon. The court granted his
+motion.
+That afternoon the big fans were still churning
+the thick air in the courtroom and the jurors' brightly
+colored fans were all moving in unison . It seemed to me
+as if my lawyer's summation would never end. At one
+point, though, I listened, because he was saying, "It is
+true I killed a man ." He went on like that, saying "I"
+whenever he was speaking about me. I was completely
+taken aback. I leaned over to one of the guards and
+asked him why he was doing that. He told me to keep
+quiet, and a few seconds later he added, "All lawyers
+do it." I thought it was a way to exclude me even further
+from the case, reduce me to nothing, and, in a sense, sub­
+stitute himself for me. But I think I was already very
+far removed from that courtroom. Besides, my lawyer
+seemed ridiculous to me. He rushed through a plea of
+provocation, and then he too talked about my soul. But
+to me he seemed to be a lot less talented than the
+1 03
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+prosecutor. "1, too," he said, "have peered into this man's
+soul, but unlike the esteemed representative of the
+government prosecutor's office, I did see something there,
+and I can assure you that I read it like an open book."
+What he read was that I was an honest man, a steadily
+employed, tireless worker, loyal to the firm that employed
+him, well liked, and sympathetic to the misfortunes of
+others. To him, I was a model son who had supported
+his mother as long as he could. In the end I had hoped
+that a horne for the aged would give the old woman the
+comfort that with my limited means I could not provide
+for her. "Gentlemen," he added, "I am amazed that so
+much has been made of this horne. For after all, if it
+were necessary to prove the usefulness and importance
+of such institutions, all one would have to say is that
+it is the state itself which subsidizes them." The only
+thing is, he didn't say anything about the funeral, and I
+thought that that was a glaring omission in his sum­
+mation. But all the long speeches, all the interminable
+days and hours that people had spent talking about my
+soul, had left me with the impression of a colorless swirl­
+ing river that was making me dizzy.
+In the end, all I remember is that while my lawyer
+went on talking, I could hear through the expanse of
+chambers and courtrooms an ice cream vendor blowing
+his tin trumpet out in the street. I was assailed by
+memories of a life that wasn't mine anymore, but one
+in which I'd found the simplest and most lasting joys :
+the smells of summer, the part of town I loved, a certain
+evening sky, Marie's dresses and the way she laughed.
+104
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+The utter pointlessness of whatever I was doing there
+seized me by the throat, and all I wanted was to get it
+over with and get back to my cell and sleep . I barely
+even heard when my lawyer, wrapping up, exclaimed
+that the jury surely would not send an honest, hard­
+working man to his death because he had lost control of
+himself for one moment, and then he asked them to find
+extenuating circumstances for a crime for which I was
+already suffering the most agonizing of punishments­
+eternal remorse. Court was adjourned and my lawyer
+sat back down . He looked exhausted. But his colleagues
+came over to shake his hand. I heard :
+
+"That was
+
+brilliant!" One of them even appealed to me as a wit­
+ness. "Wasn't it?" he said. I agreed, but my congratula­
+tions weren't sincere, because I was too tired.
+Meanwhile, the sun was getting low outside and it
+wasn't as hot anymore. From what street noises I could
+hear, I sensed the sweetness of evening coming on.
+There we all were, waiting. And what we were all wait­
+ing for really concerned only me. I looked around the
+room again. Everything was the same as it had been the
+first day. My eyes met those of the little robot woman
+and the reporter in the gray jacket. That reminded me
+that I hadn't tried to catch Marie's eye once during the
+whole trial. I hadn't forgotten about her; I'd just had too
+much to do. I saw her sitting between Celeste and Ray­
+mond. She made a little gesture as if to say "At last."
+There was a worried little smile on her face. But my
+heart felt nothing, and I couldn't even return her smile.
+The judges came back in. Very quickly a series of
+1 05
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+questions was read to the jury. I heard "guilty of
+murder" . . . "premeditated" . . . "extenuating cir­
+cumstances." The jurors filed out, and I was taken to
+the little room where I had waited before. My lawyer
+joined me. He was very talkative and spoke to me more
+confidently and cordially than he ever had before. He
+thought that everything would go well and that I would
+get off with a few years in prison or at hard labor. I
+asked him whether he thought there was any chance of
+overturning the verdict if it was unfavorable. He said
+no. His tactic had been not to file any motions so as not
+to antagonize the jury. He explained to me that verdicts
+weren't set aside just like that, for nothing. That seemed
+obvious and I accepted his logic. Looking at it objectively,
+it made perfect sense. Otherwise there would be too
+much pointless paperwork. "Anyway," he said, "we can
+always appeal. But I'm convinced that the outcome will
+be favorable."
+We waited a long time-almost three-quarters of an
+hour, I think. Then a bell rang. My lawyer left me, say­
+ing, "The foreman of the jury is going to announce the
+verdict. You'll only be brought in for the passing of
+sentence." Doors slammed. People were running on stairs
+somewhere, but I couldn't tell if they were nearby or far
+away. Then I heard a muffied voice reading something in
+the courtroom. When the bell rang again, when the
+door to the dock opened, what rose to meet me was the
+silence in the courtroom, silence and the strange feeling
+I had when I noticed that the young reporter had turned
+z o6
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+his eyes away. I didn't look in Marie's direction. I didn't
+have time to, because the presiding judge told me in
+bizarre language that I was to have my head cut off in a
+public square in the name of the French people. Then
+it seemed to me that I suddenly knew what was on
+everybody's face. It was a look of consideration, I'm sure.
+The policemen were very gentle with me. The lawyer
+put his hand on my wrist. I wasn't thinking about any­
+thing anymore. But the presiding judge asked me if I
+had anything to say. I thought about it. I said, "No."
+That's when they took me away.
+
+5
+
+For the third time I've refused to see the chaplain. I
+don't have anything to say to him; I don't feel like
+talking, and I'll be seeing him soon enough as it is. All
+I care about right now is escaping the machinery of
+justice, seeing if there's any way out of the inevitable.
+They've put me in a different cell. From this one, when
+I'm stretched out on my bunk, I see the sky and that's
+all I see. I spend my days watching how the dwindling
+of color turns day into night. Lying here, I put my
+hands behind my head and wait. I can't count the times
+I've wondered if there have ever been any instances of
+condemned men escaping the relentless machinery, dis­
+appearing before the execution or breaking through the
+cordon of police. Then I blame myself every time for
+not having paid enough attention to accounts of execu­
+tions. A man should always take an interest in those
+things. You never know what might happen. I'd read
+stories in the papers like everybody else. But there must
+have been books devoted to the subject that I'd never
+been curious enough to look into. Maybe I would have
+found some accounts of escapes in them. I might have
+z o8
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+discovered that in at least one instance the wheel had
+stopped, that in spite of all the unrelenting calculation,
+chance and luck had, at least once, changed something.
+Just once! In a way, I think that would have been
+enough. My heart would have taken over from there.
+The papers were always talking about the debt owed to
+society. According to them, it had to be paid. But that
+doesn't speak to the imagination. What really counted
+was the possibility of escape, a leap to freedom, out of
+the implacable ritual, a wild run for it that would give
+whatever chance for hope there was. Of course, hope
+meant being cut down on some street comer, as you ran
+like mad, by a random bullet. But when I really thought
+it through, nothing was going to allow me such a luxury.
+Everything was against it; I would just be caught up in
+the machinery again.
+Despite my willingness to understand, I just couldn't
+accept such arrogant certainty. Because, after all, there
+really was something ridiculously out of proportion be­
+tween the verdict such certainty was based on and the
+imperturbable march of events from the moment the
+verdict was announced. The fact that the sentence had
+been read at eight o'clock at night and not at five o'clock,
+the fact that it could have been an entirely different
+one, the fact that it had been decided by men who change
+their underwear, the fact that it had been handed down
+in the name of some vague notion called the French (or
+German, or Chinese) people-all of it seemed to de­
+tract from the seriousness of the decision. I was forced
+1 09
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+to admit, however, that from the moment it had been
+passed its· consequences became as real and as serious
+as the wall against which I pressed the length of my
+body.
+At times like this I remembered a story Maman used
+to tell me about my father. I never knew him . Maybe
+the only thing I did know about the man was the story
+Maman would tell me back then : he'd gone to watch a
+murderer be executed. Just the thought of going had
+made him sick to his stomach. But he went anyway,
+and when he came back he spent half the morning
+throwing up. I remember feeling a little disgusted by
+him at the time. But now I understood, it was perfectly
+normal. How had I not seen that there was nothing
+more important than an execution, and that when you
+come right down to it, it was the only thing a man
+could truly be interested in? If I ever got out of this
+prison I would go and watch every execution there was.
+But I think it was a mistake even to consider the pos­
+sibility. Because at the thought that one fine morning I
+would find myself a free man standing behind a cordon
+of police--on the outside, as it were-at the thought
+of being the spectator who comes to watch and then can
+go and throw up afterwards, a wave of poisoned joy rose
+in my throat. But I wasn't being reasonable. It was a
+mistake to let myself get carried away by such imaginings,
+because the next minute I would get so cold that I would
+curl up into a ball under my blanket and my teeth would
+be chattering and I couldn't make them stop.
+I IO
+
+o
+
+T H E
+
+S T R A N G E R
+
+o
+
+But naturally, you can't always be reasonable. At
+other times, for instance, I would make up new laws. I
+would reform the penal code. I'd realized that the most
+important thing was to give the condemned man a
+chance. Even one in a thousand was good enough to
+set things right. So it seemed to me that you could come
+up with a mixture of chemicals that if ingested by the
+patient (that's the word I'd use : "patient") would kill
+him nine times out of ten. But he would know this­
+that would be the one condition. For by giving it some
+hard thought, by considering the whole thing calmly, I
+could see that the trouble with the guillotine was that
+you had no chance at all, absolutely none. The fact was
+that it had been decided once and for all that the patient
+was to die. It was an open-and-shut case, a fixed arrange­
+ment, a tacit agreement that there was no question of
+going back on. If by some extraordinary chance the
+blade failed, they would just start over. So the thing
+that bothered me most was that the condemned man
+had to hope the machine would work the first time. And
+I say that's wrong. And in a way I was right. But in
+another way I was forced to admit that that was the
+whole secret of good organization. In other words, the
+condemned man was forced into a kind of moral col­
+laboration . It was in his interest that everything go off
+without a hitch.
+I was also made to see that until that moment I'd had
+mistaken ideas about these things. For a long time I
+believed-and I don't know why-that to get to the
+I I I
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+guillotine you had to climb stairs onto a scaffold. I think
+it was because of the French Revolution-! mean, be­
+cause of everything I'd been taught or shown about it.
+But one morning I remembered seeing a photograph that
+appeared in the papers at the time of a much-talked-about
+execution. In reality, the machine was set up right on
+the ground, as simple as you please. It was much
+narrower than I'd thought. It was funny I'd never
+noticed that before. I'd been struck by this picture be­
+cause the guillotine looked like such a precision in­
+strument, perfect and gleaming. You always get exag­
+gerated notions of things you don't know anything about.
+I was made to see that contrary to what I thought,
+everything was very simple: the guillotine is on the
+same level as the man approaching it. He walks up to
+it the way you walk up to another person. That bothered
+me too. Mounting the scaffold, going right up into the
+sky, was something the imagination could hold on to.
+vVhereas, once again, the machine destroyed everything :
+you were killed discreetly, with a little shame and with
+great precision.
+There were two other things I was always thinking
+about : the dawn and my appeal. I would reason with
+myself, though , and try not to think about them any­
+more. I would stretch out, look at the sky, and force
+myself to find something interesting about it. It would
+turn green : that was evening. I would make another
+effort to divert my thoughts. I would listen to my heart­
+beat. I couldn't imagine that this sound which had been
+with me for so long could ever stop. I've never really
+I 12
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+had much of an imagination. But still I would try to
+picture the exact moment when the beating of my
+heart would no longer be going on inside my head. But
+i t was no use. The dawn or my appeal would still be
+there. I would end up telling myself that the most
+rational thing was not to hold myself back.
+They always came at dawn, I knew that. And so I
+spent my nights waiting for that dawn. I've never liked
+being surprised. If something is going to happen to me,
+I want to be there. That's why I ended up sleeping only
+a little bit during the day and then, all night long, waited
+patiently for the first light to show on the pane of sky.
+The h ardest time was that uncertain hour when I knew
+they usually set to work. After midnight, I would wait
+and watch . .My ears had never heard so many noises or
+picked up such small sounds. One thing I can say,
+though, is that in a certain way I was lucky that whole
+time, since I never heard footsteps. Maman used to say
+that you can always find something to be happy about.
+In my prison, when the sky turned red and a new day
+slipped into my cell, I found out that she was right.
+Because I might just as easily have heard footsteps and
+my heart could have burst. Even though I would rush
+to the door at the slightest shuffie, even though, with
+my ear pressed to the wood, I would wait frantically
+until I heard the sound of my own breathing, terrified
+to find it so hoarse, like a dog's panting, my heart would
+not burst after all, and I would have gained another
+twenty-four hours.
+All day long there was the thought of my appeal. I
+I I3
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+think I got everything out of it that I could. I would
+assess my holdings and get the maximum return on my
+thoughts. I would always begin by assuming the wors t :
+m y appeal was denied. "Well, so I'm going to die."
+Sooner than other people will, obviously. But everybody
+knows life isn't worth living. Deep down I knew per­
+fectly well that it doesn't much matter whether you
+die at thirty or at seventy, since in either case other
+men and women will naturally go on living-and for
+thousands of years. In fact, nothing could be clearer.
+Whether it was now or twenty years from now, I would
+still be the one dying. At that point, what would disturb
+my train of thought was the terrifying leap I would feel
+my heart take at the idea of having twenty more years of
+life ahead of me. But I simply had to stifle it by im­
+agining what I'd be thinking in twenty years when it
+would all come down to the same thing anyway. Since
+we're all going to die, it's obvious that when and
+how don't matter. Therefore (and the difficult thing
+was not to lose sight of all the reasoning that went into
+this "therefore") , I had to accept the rejection of my
+appeal.
+Then and only then would I have the right, so to
+speak-would I give myself permission , as it were-to
+consider the alternative hypothesis : I was pardoned. The
+trouble was that I would somehow have to cool the hot
+blood that would suddenly surge through my body and
+sting my eyes with a delirious joy. It would take all my
+strength to quiet my heart, to be rational. In order to
+1 14
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+make my resignation to the first hypothesis more plau­
+sible, I had to be level-headed about this one as well.
+If I succeeded, I gained an hour of calm. That was
+something anyway.
+It was at one such moment that I once again refused
+to see the chaplain . I was lying down, and I could tell
+from the golden glow in the sky that evening was
+coming on. I had just denied my appeal and I could
+feel the steady pulse of my blood circulating inside me.
+I didn't need to see the chaplain. For the first time in
+a long time I thought about Marie. The days had been
+long since she'd stopped writing. That evening I thought
+about it and told myself that maybe she had gotten
+tired of being the girlfriend of a condemned man. It also
+occurred to me that maybe she was sick, or dead. These
+things happen. How was I to know, since apart from our
+two bodies, now separated, there wasn't anything to
+keep us together or even to remind us of each other?
+Anyway, after that, remembering Marie meant nothing
+to me. I wasn't interested in her dead. That seemed
+perfectly normal to me, since I understood very well
+that people would forget me when I was dead. They
+wouldn't have anything more to do with me . I wasn't
+even able to tell myself that it was hard to think those
+things.
+It was at that exact moment that the chaplain carne
+in. When I saw him I felt a little shudder go through me.
+He noticed it and told me not to be afraid. I told him
+that it wasn't his usual time. He replied that it was just
+I I5
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+a friendly visit and had nothing to do with my appeal,
+which he knew nothing about. He sat down on my bunk
+and invited me to sit next to him. I refused. All the
+same, there was something very gentle about him.
+He sat there for a few seconds, leaning forward,
+with his elbows on his knees, looking at his hands. They
+were slender and sinewy and they reminded me of two
+nimble animals. He slowly rubbed one against the other.
+Then he sat there, leaning forward like that, for so long
+that for an instant I seemed to forget he was there.
+But suddenly he raised his head and looked straight
+at me. "Why have you refused to see me?" he asked. I
+said that I didn't believe in God. He wanted to know if
+I was sure and I said that I didn't see any reason to ask
+myself that question : it seemed unimportant. He then
+leaned back against the wall, hands Bat on his thighs.
+.
+Almost as if it wasn't me he was talking to, he remarked
+that sometimes we think we're sure when in fact we're
+not. I didn't say anything. He looked at me and asked,
+"What do you think?" I said it was possible. In any
+case, I may not have been sure about what really did
+interest me, but I was absolutely sure about what didn't.
+And it just so happened that what he was talking about
+didn't interest me.
+He looked away and without moving asked me if I
+wasn't talking that way out of extreme despair. I ex­
+plained to him that I wasn't desperate. I was just afraid,
+which was only natural. "Then God can help you," he
+said. "Every man I have known in your position has
+II6
+
+0
+
+T H E
+
+S T R A N G E R
+
+o
+
+turned to Him." I acknowledged that that was their right.
+It also meant that they must have had the time for it. As
+for me, I didn't want anybody's help, and I just didn't
+have the time to interest myself in what didn't interest
+me.
+At that point he threw up his hands in annoyance
+but then sat forward and smoothed out the folds of his
+cassock. When he had finished he started in again, ad­
+dressing me as "my friend." If he was talking to me this
+way, it wasn't because I was condemned to die; the way
+he saw it, we were all condemned to die. But I interrupted
+him by saying that it wasn't the same thing and that be­
+sides, it wouldn't be a consolation anyway. "Certainly,"
+he agreed . "But if you don't die today, you'll die to­
+morrow, or the next day. And then the same question
+will arise. How will you face that terrifying ordeal?" I
+said I would face it exactly as I was facing it now.
+At that he stood up and looked me straight in the
+eye. It was a game I knew well. I played it a lot with
+Emmanuel and Celeste and usually they were the ones
+who looked away. The chaplain knew the game well
+too, I could tell right away : his gaze never faltered.
+And his voice didn't falter, either, when he said, "Have
+you no hope at all? And do you really live with the
+thought that when you die, you die, and nothing re­
+mains?" "Yes," I said.
+Then he lowered his head and sat back down. He
+told me that he pitied me. He thought it was more than
+a man could bear. I didn't feel anything except that he
+I I7
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+was beginning to annoy me. Then I turned away and
+went and stood under the skylight. I leaned my shoulder
+against the wall. Without really following what he
+was saying, I heard him start asking me questions
+again. He was talking in an agitated, urgent voice. I
+could see that he was genuinely upset, so I listened
+more closely.
+He was expressing his certainty that my appeal would
+be granted, but I was carrying the burden of a sin from
+which I had to free myself. According to him, human
+justice was nothing and divine justice was everything. I
+pointed out that it was the former that had condemned
+me. His response was that it hadn't washed away my sin
+for all that. I told him I didn't know what a sin was.
+All they had told me was that I was guilty. I was
+guilty, I was paying for it, and nothing more could be
+asked of me. At that point he stood up again, and the
+thought occurred to me that in such a narrow cell, if
+he wanted to move around he didn't have many options.
+He could either sit down or stand up.
+I was staring at the ground. He took a step toward me
+and stopped, as if he didn't dare come any closer. He
+looked at the sky through the bars. "You're wrong, my
+son," he said. "More could be asked of you. And it may
+be asked." "And what's that?" "You could be asked to
+see." "See what?'
+The priest gazed around my cell and answered in a
+voice that sounded very weary to me. "Every stone here
+sweats with suffering, I know that. I have never looked
+I I8
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+at them without a feeling of anguish. But deep in my
+heart I know that the most wretched among you have
+seen a divine face emerge from their darkness. That is
+the face you are asked to see."
+This perked me up a li ttle . I said I had been looking
+at the stones in these walls for months. There wasn't
+anything or anyone in the world I knew better. M aybe
+at one time, way back, I had searched for a face in them.
+But the face I was looking for was as bright as the sun
+and the flame of desire-and it belonged to Marie. I had
+searched for it in vain. Now it was all over. And in any
+case, I 'd never seen anything emerge from any sweat­
+ing stones.
+The chaplain looked at me with a kind of sadness. I
+now had my back flat against the wall, and light was
+streaming over my forehead. He muttered a few words
+I didn't catch and abruptly asked if he could embrace
+me. "No," I said. He turned and walked over to the wall
+and slowly ran his hand over it. "Do you really love this
+earth as much as all that?" he murmured. I didn't
+answer.
+He stood there with his back to me for quite a long
+time. His presence was grating and oppressive. I was
+just about to tell him to go, to leave me alone, when all
+of a sudden, turning toward me, he burst out, "No, I
+refuse to believe you! I know that at one time or another
+you've wished for another life." I said of course I had,
+but it didn't mean any more than wishing to be rich,
+to be able to swim faster, or to have a more nicely shaped
+I 19
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+mouth. It was all the same. But he stopped me and
+wanted to know how I pictured this other life. Then I
+shouted at him, "One where I could remember this
+life!" and that's when I told him I'd had enough . He
+wanted to talk to me about God again, but I went up
+to him and made one last attempt to explain to him that
+I had only a little time left and I didn't want to waste
+it on God. He tried to change the subject by asking
+me why I was calling him "monsieur" and not "father."
+That got me mad, and I told him he wasn't my father;
+he wasn't even on my side.
+"Yes, my son," he said, putting his hand on my
+shoulder, "I am on your side. But you have no way of
+knowing it, because your heart is blind. I shall pray for
+you."
+Then, I don't know why, but something inside me
+snapped. I started yelling at the top of my lungs, and I
+insulted him and told him not to waste his prayers on me.
+I grabbed him by the collar of his cassock. I was pour­
+ing out on him everything that was in my heart, cries of
+anger and cries of joy. He seemed so certain about every­
+thing, didn't he? And yet none of his certainties was
+worth one hair of a woman's head. He wasn't even sure
+he was alive, because he was living like a dead man.
+Whereas it looked as if I was the one who'd come
+up emptyhanded. But I was sure about me, about
+everything, surer than he could ever be, sure of my life
+and sure of the death I had waiting for me. Yes, that
+was all I had . But at least I had as much of a hold on
+1 20
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+it as it had on me . I had been right, I was still right, I was
+always right. I had lived my life one way and I could
+just as well have lived it another. I had done this and I
+hadn't done that. I hadn't done this thing but I had done
+another. And so? It was as if I had waited all this time
+for this moment and for the first light of this dawn to
+be vindicated. Nothing, nothing mattered , and I knew
+why. So did he. Throughout the whole absurd life I'd
+lived, a dark wind had been rising toward me from
+somewhere deep in my future, across years that were
+still to come, and as it passed, this wind leveled whatever
+was offered to me at the time, in years no more real than
+the ones I was living. What did other people's deaths
+or a mother's love matter to me; what did his God or the
+lives people choose or the fate they think they elect
+matter to me when we're all elected by the same fate,
+me and billions of privileged people like him who also
+called themselves my brothers? Couldn't he see, couldn't
+he see that? Everybody was privileged. There were only
+privileged people. The others would all be condemned
+one day. And he would be condemned, too. What would
+it matter if he were accused of murder and then executed
+because he didn't cry at his mother's funeral? Sala­
+mano's dog was worth just as much as his wife. The
+little robot woman was just as guilty as the Parisian
+woman M asson married, or as Marie, who had wanted
+me to marry her. What did it matter that Raymond was
+as much my friend as Celeste, who was worth a lot more
+than him? What did it matter that Marie now offered
+121
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+her lips to a new Meursault? Couldn't he, couldn't this
+condemned man see . . . And that from somewhere deep
+in my future . . . All the shouting had me gasping for
+air. But they were already tearing the chaplain from my
+grip and the guards were threatening me. He calmed
+them, though, and looked at me for a moment without
+saying anything. His eyes were full of tears. Then he
+turned and disappeared.
+With him gone, I was able to calm down again . I
+was exhausted and threw myself on my bunk. I must
+have fallen asleep, because I woke up with the stars in
+my face. Sounds of the countryside were drifting in.
+Smells of night, earth , and salt air were cooling my
+temples. The wondrous peace of that sleeping summer
+Rowed through me like a tide. Then, in the dark hour
+before dawn, sirens blasted. They were announcing
+departures for a world that now and forever meant noth­
+ing to me. For the first time in a long time I thought
+about Maman. I felt as if I understood why at the end
+of her life she had taken a "fiance," why she had
+played at beginning again. Even there, in that home
+where lives were fading out, evening was a kind of wist­
+ful respite. So close to death, Maman must have felt
+free then and ready to live it all again. Nobody, nobody
+had the right to cry over her. And I felt ready to live i t
+all again too. As if that blind rage had washed m e clean,
+rid me of hope; for the first time, in that night alive with
+signs and stars, I opened myself to the gentle indifference
+of the world. Finding it so much like myself-so like a
+1 22
+
+0
+
+T H E
+
+S T R A N G E R
+
+0
+
+brother, really-! felt that I had been happy and that I
+was happy again. For everything to be consummated, for
+me to feel less alone, I had only to wish that there be a
+large crowd of spectators the day of my execution and
+that they greet me with cries of hate.
+
+1 23
+
+A B O U T
+
+T H E
+
+A U T H O R
+
+Albert Camus, son of a working-class family, was born
+in Algeria in 1 9 1 3 . He spent the early years of his life
+in North Africa, where he worked at various jobs-in
+the weather bureau, in an automobile-accessory firm, in
+a shipping company-to help pay for his courses at the
+University of Algiers. He then turned to journalism as
+a career.
+
+His report on the unhappy state
+
+of the
+
+Muslims of the Kabylie region aroused the Algerian
+government to action and brought him public notice .
+From 1 93 5 to 1938 he ran the Theatre de l'Equipe,
+a
+
+theatrical company that produced plays by Malraux,
+
+Gide, Synge, Dostoevski, and others. During World
+War II he was one of the leading writers of the French
+Resistance and editor of Combat, then an important
+underground newspaper. Camus was always very ac·
+tive in the theater, and several of his plays have
+been published and produced. His fiction, including
+
+The Stranger, The Plague, The Fall, and Exile and
+the Kingdom; his philosophical essays, The Myth of
+Sisyphus and The Rebel; and his plays have assured
+his preeminent position in modern French letters. In
+1 957 Camus was awarded the Nobel Prize for Litera­
+ture. His sudden death on January 4, 1 96o, cut short
+the career of one of the most important literary figures
+of the Western world when he was at the very summit
+of his powers.
+
+A B O U T
+
+T H E
+
+T R A N S L A T O R
+
+Matthew Ward is a poet, critic, and translator. His
+translations include works by Colette, Barthes, Picasso,
+Sartre, and others. He was educated at Stanford, Uni­
+versity College in Dublin (where he was a Fulbright
+Scholar), and Columbia. He taught for several years a t
+the Fieldston School in Riverdale, New York. Matthew
+Ward was born in Colorado and now lives in Man­
+hattan.
+
+
