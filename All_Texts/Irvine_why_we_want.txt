@@ -1,0 +1,699 @@
+On Desire:
+Why We Want What
+We Want
+
+William B. Irvine
+
+OXFORD UNIVERSITY PRESS
+
+On Desire
+
+This page intentionally left blank
+
+On Desire
+Why We Want What We Want
+
+William B. Irvine
+
+2006
+
+Oxford University Press, Inc., publishes works that
+further Oxford University’s objective of excellence
+in research, scholarship, and education.
+Oxford New York
+Auckland Cape Town Dar es Salaam Hong Kong Karachi
+Kuala Lumpur Madrid Melbourne Mexico City Nairobi
+New Delhi Shanghai Taipei Toronto
+With offices in
+Argentina Austria Brazil Chile Czech Republic France Greece
+Guatemala Hungary Italy Japan Poland Portugal Singapore
+South Korea Switzerland Thailand Turkey Ukraine Vietnam
+Copyright © 2006 by William B. Irvine
+Published by Oxford University Press, Inc.
+198 Madison Avenue, New York, NY 10016
+www.oup.com
+Oxford is a registered trademark of Oxford University Press
+All rights reserved. No part of this publication may be reproduced,
+stored in a retrieval system, or transmitted, in any form or by any means,
+electronic, mechanical, photocopying, recording, or otherwise,
+without the prior permission of Oxford University Press.
+Library of Congress Cataloging-in-Publication Data
+Irvine, William Braxton, 1952–
+On desire : why we want what we want / William B. Irvine
+p. cm. Includes bibliographical references and index.
+ISBN-13: 978-0-19-518862-2
+ISBN-10: 0-19-518862-4
+1. Desire. I. Title.
+BF575.D4178 2005
+128'.3—dc22 2005005938
+987654321
+Printed in the United States of America
+on acid-free paper
+
+For Jamie
+
+This page intentionally left blank
+
+Contents
+
+Acknowledgments
+Introduction
+
+ix
+
+1
+
+PART ONE
+
+THE SECRET LIFE OF DESIRE
+ONE
+
+The Ebb and Flow of Desire 11
+TWO
+
+Other People
+
+31
+
+P A RT T WO
+
+THE SCIENCE OF DESIRE
+THREE
+
+Mapping Our Desires
+
+55
+
+FOUR
+
+The Wellsprings of Desire 68
+FIVE
+
+The Psychology of Desire 91
+SIX
+
+The Evolution of Desire 120
+
+viii
+
+Contents
+SEVEN
+
+The Biological Incentive System
+
+145
+
+PART THREE
+
+DEALING WITH OUR DESIRES
+EIGHT
+
+The Human Condition
+
+175
+
+NINE
+
+Religious Advice
+
+182
+
+TEN
+
+Religious Advice Continued: Protestant Sects 211
+ELEVEN
+
+Philosophical Advice 238
+T W E LV E
+
+The Eccentrics 258
+THIRTEEN
+
+Conclusions
+Notes
+
+279
+
+298
+
+Works Cited
+Index 316
+
+309
+
+Acknowledgments
+
+I f the hard drive of my computer can be trusted, I first got the
+idea to write a book on desire—succumbed, one might say, to the
+desire to write such a book—in September 2000. Between that
+time and when the final words were being written in the closing
+days of 2004, many people contributed to the book in a variety of
+ways. I would like to take this opportunity to thank them.
+First, thanks to the students who signed up for the desire
+seminars I taught in the winter of 2001 and the winter of 2003;
+to Derek Vanhoose and Jason Phillips, who did independent
+study with me on desire; and especially to Nicholas Barnard,
+Chris Poteet, and Sarah Kaplan, who read the manuscript outside of class. These students were the guinea pigs on whom I
+tested my work in progress.
+Thanks to my colleagues in Wright State University’s College of Liberal Arts and Department of Philosophy for allowing me to lecture them about desire. Thanks to my colleagues
+Scott Baird and Don Cipollini in the Biology Department; Scott
+discussed the evolution of desire with me, and Don arranged
+for me to give a seminar on the topic. A special thanks to my
+colleague James McDougal in the Department of Pharmacology and Toxicology for reading and commenting on chapter
+
+x
+
+A c k n ow l e d g m e n t s
+
+drafts. Thanks also to Bruce LaForse of the Classics Department for answering questions about Greek and Latin, and to
+Carlos Lopez of the Religion Department for answering questions about Hinduism and Buddhism.
+Thanks to Gary Klein for letting me give a presentation on
+the psychology of desire at Klein Associates, and thanks to Terry
+Stanard and David Malek at Klein for their feedback on my research. Gary also deserves a special thanks for his encouragement and his assistance in helping move this project forward.
+Thanks to Connie Steele and Karen Chamberlain, who took a
+special interest in the desire project and offered encouragement.
+Thanks also to Elda Rotor and Cybele Tom at Oxford for
+their first-rate editorial direction and for reminding me that an
+individual’s progress as an author is measured not only in how
+many words are written each day but in how many of those
+words are subsequently deleted.
+Finally, I am grateful for permission to reprint an excerpt
+from “Papyrus Chester Beatty I,” from Love Lyrics of Ancient
+Egypt, translated by Barbara Hughes Fowler, copyright © 1994
+by the University of North Carolina Press. Used by permission
+of the publisher.
+
+Acknowledgments
+
+Little is needed to make a wise man happy, but nothing can content a fool. That is why nearly all men are
+miserable.
+—La Rochefoucauld
+
+xi
+
+This page intentionally left blank
+
+On Desire
+
+This page intentionally left blank
+
+Desire is a subject upon which . . . true views can only
+be arrived at by an almost complete reversal of the
+ordinary unreflecting opinion.
+—Bertrand Russell
+
+Introduction
+You are currently experiencing desire; otherwise, you wouldn’t
+be reading these words. Even if you are reading them at the
+behest of someone else, you are motivated by your desire to
+please that person. And if you stop reading, you will do so not
+because you have stopped desiring but because your desires
+have changed.
+We are awash in desire at virtually every waking moment.
+If we fall asleep, we temporarily subdue our desires—unless
+we dream, in which case our dreams will likely be shaped by
+our desires. Our skill at forming desires is truly remarkable.
+No one has to teach us how to do it. It is, furthermore, a skill
+we can exercise endlessly without tiring. When it comes to
+desiring, we are all experts. If there were an Olympics of desiring, we would all make the team. Sickness and old age may
+change what we desire, but they do not stop us from desiring.
+Try, for a moment, to stanch the flow of desire. You will
+have to stop squirming, tapping your fingers, clenching your
+toes; you will have to let your tongue go slack in your mouth
+
+2
+
+Introduction
+
+and let your eyelids close; you will have to slouch in your chair—
+or better still, lie down; to the extent possible, you will have to
+relinquish control of your breathing; you will have to let your
+mind go blank. You will, in other words, have to enter what we
+call a meditative state. And even then you will not have purged
+yourself of desire: you would not remain in this state unless
+you had an ongoing desire to do so. It takes desire to attempt,
+unsuccessfully, to extinguish desire.
+If you try the above experiment, you will discover that it is
+almost impossible to keep your mind empty. New thoughts
+will arise, many of which express desire. You might notice that
+you are hungry and wish to eat, or that you are uncomfortable
+and wish to fidget. You might experience anger, which reflects
+disappointment of your past desires, or anxiety, which reflects
+your desires about the future. This experiment, by the way,
+resembles the Zen meditation known as zazen. By performing
+this meditation, Zen practitioners gain insight into the insidious process by which desires form within us.
+Desire animates the world. It is present in the baby crying for
+milk, the girl struggling to solve a math problem, the woman
+running to meet her lover and later deciding to have children,
+and the old woman, hunched over her walker, moving down
+the hall of the nursing home at a glacial pace to pick up her
+mail. Banish desire from the world, and you get a world of
+frozen beings who have no reason to live and no reason to die.
+Some people have far fewer desires than the rest of us. Some
+of them lack desire because they are depressed; others lack it
+because they have achieved enlightenment. This enlightenment, by the way, is typically the end result of years of con-
+
+Introduction
+
+3
+
+scious effort, brought on by an intense desire to free themselves, to the extent possible, from the grip of desire.
+Because we continually experience desire, we are oblivious
+to its presence in us. It is like the noise made by the fan of a
+computer. The noise is always there, a low whisper, and because it is always there, we stop noticing it. Similarly, we are
+usually oblivious to our desires—to their ebb and flow within
+us, to the role they play in our lives. It is only when our desires
+are intense (like when we fall in love) or when they come into
+conflict (like when we want a bowl of ice cream but, because
+we are on a diet, simultaneously want not to want it) that we
+pay attention to our desires, with a mixture of puzzlement and
+vexation. And because we are oblivious to the workings of
+desire within us, we are full of misconceptions about it.
+One consequence of reading this book may be that for the
+first time in your life you pay close attention to the operation
+of desire within you. When you do this, you will quickly become aware of the remarkable extent to which your desires
+have a life of their own. They pop into your head, seemingly
+out of nowhere. Indeed, in many cases, you don’t so much
+choose your desires as discover them within you. You will also
+come to appreciate the extent to which these unbidden desires
+determine how you spend your days and, in the long run, how
+you spend your life.
+Another thing: once you gain an understanding of how desire works, the desires you form are likely to change. This certainly happened to me over the course of my research. Once I
+came to understand the extent to which desires arise within
+me spontaneously and not as the result of rational thought
+processes, I grew suspicious of my desires. “Where did this
+desire come from?” I would ask. “Why do I want this thing
+
+4
+
+Introduction
+
+that I want?” And having asked, I would in many cases end up
+discarding the suspect desire. (In many cases, but not in all! I
+certainly don’t claim to have mastered desire.)
+My goal in investigating desire was to turn it inside out—to
+understand how and why desires arise, how they affect our lives,
+and what we can do to master them. In pursuing this goal, I
+examined what Buddhists, Taoists, Hindus, the Amish, Shakers, and Catholic saints have said about desire, as well as what
+ancient Greek and Roman and modern European philosophers
+have said. Besides being multicultural, my examination of desire was multidisciplinary. After examining the writings of philosophers and religious thinkers, I investigated scientific
+research into how and why we form the desires we form.
+Lots of people have thought and written about desire in the
+last few millennia. The reader might therefore wonder what, if
+anything, is left to say about the subject. As it turns out, this is an
+auspicious time for a reexamination of desire. In the last three
+decades, evolutionary psychologists have made a number of discoveries concerning why we want what we want. During that
+same period, neuroscientists have made discoveries that help us
+understand, for the first time ever, the mechanism by which we
+desire. This understanding allowed them to develop drugs such
+as Prozac that rekindle desire in depressed patients.
+In the following pages, I will attempt to reconcile classical
+views on desire with the scientific research done in the last few
+decades. As we shall see, this research substantially confirms
+many of the prescientific observations of philosophers and
+religious thinkers about the workings of desire. It also validates much of the advice on mastering desire offered by the
+likes of Buddha, Epictetus, and Thoreau.
+
+Introduction
+
+5
+
+The social and economic developments of recent decades
+also make this an ideal time to reexamine desire. Around the
+world, rising levels of affluence have not translated into increased levels of personal satisfaction. In particular, the citizens of affluent nations enjoy a level of material well-being
+unimaginable to their great-grandparents. Even those citizens
+labeled impoverished by government statisticians have antibiotics, reliable contraception, CD players, Internet access, and
+indoor plumbing. But although they “have it all” compared to
+their ancestors, they remain dissatisfied.
+Most people spend their days pursuing worldly success—
+fame, fortune, and all the things that go with them. (And if
+not fame and fortune, at least social status and relative affluence.) They imagine that on gaining this success, they will
+also gain satisfaction—they will at last feel satisfied with their
+accomplishments, relationships, possessions, and most importantly, with their lives. And with this satisfaction, they think,
+will come lasting happiness. What they fail to realize, as I shall
+argue in the following pages, is that it is entirely possible to
+gain satisfaction without pursuing, much less gaining worldly
+success. Indeed, in pursuing worldly success, people generally
+impair their chances of gaining personal satisfaction.
+People commonly think that the best way to attain happiness is to change their environment—their house, their clothes,
+their car, their job, their spouse, their lover, their circle of
+friends. But those who have thought carefully about desire—
+the people whose views we will examine in the following
+pages—have unanimously drawn the conclusion that the best
+way—indeed, perhaps the only way—to attain lasting happiness is not to change the world around us or our place in it but
+
+6
+
+Introduction
+
+to change ourselves. In particular, if we can convince ourselves
+to want what we already have, we can dramatically enhance
+our happiness without any change in our circumstances. It simply does not occur to the typical person that satisfaction can
+best be gained not by working to satisfy the desires we find
+within us but by selectively suppressing or eradicating our desires. As we shall see, throughout the ages and across cultures,
+thoughtful people have argued that the best way to attain happiness is to master our desires, but throughout the ages and
+across cultures, ordinary people have ignored this advice.
+Perfect mastery of our desires is probably impossible. Even
+Buddha did not succeed in extinguishing desire: after his enlightenment, he retained a number of desires—to breathe, to
+eat, and most notably, to share with others the source of his
+enlightenment. What we should therefore seek is relative mastery: we should learn to sort through our desires, working to
+fulfill some of them, while working to suppress others.
+How will we know when we have “mastered” desire? We
+will experience what, as we shall see, has been the goal of most
+of those who have thought carefully about desire—a feeling
+of tranquility. This should not be confused with the kind of
+tranquility brought on by ingestion of a tranquilizer. It is instead marked by a sense that we are lucky to be living whatever life we happen to be living—that despite our circumstances,
+no key ingredient of happiness is missing. With this sense comes
+a diminished level of anxiety: we no longer need to obsess over
+the things—a new car, a bigger house, a firmer abdomen—
+that we mistakenly believe will bring lasting happiness if only
+we can obtain them. Most importantly, if we master desire, to
+the extent possible to do so, we will no longer despise the life
+we are forced to live and will no longer daydream about living
+
+Introduction
+
+7
+
+the life someone else is living; instead, we will embrace our
+own life and live it to the fullest.
+The remainder of this book is divided into three parts. In Part
+One, I consider the secret life of desire. I begin by describing
+cases in which people find themselves suddenly and unaccountably in the grip of desire, as well as cases in which the desires
+people took for granted—that for decades had shaped their
+lives—suddenly abandon them. I also examine our intense need
+to interact with and win the admiration of other people.
+If we are to win our battle against undesirable desires, it
+helps to understand them. It is for this reason that, in Part Two
+of this book, I take a look at what scientists have discovered
+about desire—about how we form desires and why we form
+the desires we do. I begin with a discussion of the structure of
+desire and the sources of desire within us. I go on to describe
+some of the research, undertaken by neuroscientists and psychologists, on what takes place in the brain when we desire.
+Then I speculate on how we evolved the ability to desire and
+on what specific desires came to be “hardwired” into us as the
+result of our evolutionary past. Because of this wiring, we tend
+to form certain desires, but it is by no means clear that by working to satisfy these desires we will have a life that is either happy
+or meaningful.
+In Part Three, I examine the advice on mastering desire that
+has been given over the millennia and across cultures, including religious, philosophical, and what can best be described as
+eccentric advice.
+Readers should be warned at the outset that I will not, in
+the following pages, provide a “magic bullet” with which they
+can instantly and effortlessly eradicate unwanted desires. What
+
+8
+
+Introduction
+
+I instead offer is insight into how desire works, the role it plays
+in human life, and the connection between desire formation,
+desire fulfillment, and human happiness. The hope is that readers armed with this insight will achieve a greater level of personal satisfaction than if they were afflicted, as most people
+are, with misconceptions about the workings of desire.
+Readers might also benefit from my discussion of the advice thoughtful people have offered, over the millennia, on how
+we can prevent undesirable desires from arising within us and
+expel them from our minds when, despite our best efforts, they
+do arise. Again, I have no magic bullet to offer: following any
+of this advice will take time and effort. If we like what the Zen
+Buddhists have to say about mastering desire, we might want
+to spend hours in silent meditation; if we like what the Amish
+say, we might want to join an Amish community (if they will
+have us); if we like what the Stoic philosophers say, we might
+want to spend time studying their writings. But having said
+this, I should add that the time and effort we spend trying to
+master desire are probably considerably less than the time and
+effort we will expend if we instead capitulate to our desires
+and spend our days, as so many people do, working incessantly
+to fulfill whatever desires float into our head.
+
+PA RT O N E
+
+THE SECRET LIFE OF
+DESIRE
+
+This page intentionally left blank
+
+To think that I’ve wasted years of my life, that I’ve
+longed to die, that I’ve experienced my greatest love,
+for a woman who didn’t appeal to me, who wasn’t even
+my type!
+—Marcel Proust
+
+ONE
+
+The Ebb and Flow of
+Desire
+S
+
+ome desires are formed as the result of rational thought processes. Suppose I want lunch. I conclude that the best way to
+get it, given that my refrigerator is empty, is to drive to a nearby
+restaurant. As a result, I form a desire to drive to the restaurant
+in question. This process is perfectly, admirably rational.
+It would be a mistake, though, to suppose that all our desires are formed in this manner. To the contrary, many of our
+most profound, life-affecting desires are not rational, in the
+sense that we don’t use rational thought processes to form
+them. Indeed, we don’t form them; they form themselves
+within us. They simply pop into our heads, uninvited and unannounced. While they reside there, they take control of our
+lives. A single rogue desire can trample the plans we had for
+our lives and thereby alter our destinies.
+If we are to understand desire—indeed, if we are to understand the human condition—we need to acknowledge the
+
+12
+
+The Secret Life of Desire
+
+possibility of spontaneous desire. Let us, then, examine some
+cases in which perfectly rational people have had their lives turned
+upside down by the sudden, inexplicable onset of desire.
+Falling in love is the paradigmatic example of an involuntary
+life-affecting desire. We don’t reason our way into love, and we
+typically can’t reason our way out: when we are in love, our
+intellectual weapons stop working. Falling in love is like waking up with a cold—or more fittingly, like waking up with a
+fever. We don’t decide to fall in love, any more than we decide
+to catch the flu. Lovesickness is a condition brought upon us,
+against our will, by a force somehow external to us.
+What force is this? Some would, half seriously, point an accusing finger at Cupid. We fall in love because Cupid selects us
+as his target without first asking our leave to do so and lets fly
+an arrow that infects us with lovesickness. This, I realize, is just
+a myth, but it is nevertheless a myth with impressive explanatory power.
+Lovesickness, we should note, is different from lust. A lustful
+person experiences intense sexual desire that can be satisfied indiscriminately, with any number of people. A lovesick person,
+on the other hand, experiences an intense desire, generally sexual
+in nature, that has a target—a specific human being.
+When we are lovesick, we lose a significant amount of control over our lives. We start acting foolishly—indeed, we become fools for love. Roman Stoic philosopher Seneca described
+love as “friendship gone mad.”1 French aphorist François duc
+de La Rochefoucauld declared, “All the passions cause us to
+make mistakes, but love is responsible for the silliest ones.”2
+Freud called lovesickness “the psychosis of normal people.”3
+
+The Ebb and Flow of Desire
+
+13
+
+Humorist Fran Lebowitz sums up the foolishness of lovesickness in the following terms: “People who get married because
+they’re in love make a ridiculous mistake. It makes much more
+sense to marry your best friend. You like your best friend more
+than anyone you’re ever going to be in love with. You don’t
+choose your best friend because they have a cute nose, but that’s
+all you’re doing when you get married; you’re saying, ‘I will
+spend the rest of my life with you because of your lower lip.’”4
+Although romantic love has had its ups and downs over the
+centuries, lovesickness seems to have been around forever. The
+poetry of ancient Egypt describes something indistinguishable
+from modern-day lovesickness. One poem, written more than
+three thousand years ago, begins as follows:
+It’s seven whole days since I
+have seen my [love]. A sickness
+pervades me. My limbs are lead.
+I barely sense my body.
+Should physicians come,
+their drugs could not cure
+my heart, nor could the priests
+diagnose my disease.
+Should they say, “Here
+she is,” that would heal me.5
+
+We can likewise find in Plutarch descriptions of lovesickness
+as a medical condition. He tells us that in the third century
+B.C., Erasistratus was asked to diagnose Prince Antiochus, the
+son of King Seleucus. The symptoms: “his voice faltered, his
+face flushed up, his eyes glanced stealthily, a sudden sweat broke
+out on his skin, the beatings of his heart were irregular and
+violent, and, unable to support the excess of his passion, he
+would sink into a state of faintness, prostration, and pallor.”
+Erasistratus’s diagnosis: the lad was lovesick.6
+
+14
+
+The Secret Life of Desire
+
+Robert Burton, in his Anatomy of Melancholy, published in
+1621, has much to say about lovesickness as a medical condition. He observes that “of all passions . . . Love is most violent.”7 He also offers a cure for lovesickness: “The last refuge
+and surest remedy, to be put in practice in the utmost place,
+when no other means will take effect, is, to let them go together, and enjoy one another.”8
+The symptoms of lovesickness are well known to anyone
+who has been afflicted by it. First comes a fixation on a person—
+a crush. (The common use of the word crush, by the way, is
+syntactically backward: we speak of having a crush on someone, but what really happens is that we feel crushed by them—
+we feel as if there were a heavy weight on our chest.) With this
+crush, we lose control of part of our thought processes inasmuch as we cannot stop thinking about the object of our desire. We experience what psychologists call intrusive thoughts.
+When we are lovesick, our love makes sense to us, much as
+our delusions make sense to us when we are in the grip of a
+high fever or our nightmares make sense to us while we are
+asleep. To our friends and relatives, though, our infatuation
+might make no sense at all: “What can he possibly see in her?”
+they will ask. And in the same way as a fever can pass or we can
+awaken from a nightmare, lovesickness can end, at which point
+we might go up to our friends and relatives, bewildered, and
+ask, “What did I see in her?” In the words of French philosopher and mathematician Blaise Pascal, “The heart has its reasons, which reason does not know.”9
+The departure of love can be as puzzling as its arrival. Philosopher Bertrand Russell, for example, was a happily married
+man until, during a bicycle ride along a country road, he sud-
+
+The Ebb and Flow of Desire
+
+15
+
+denly realized that he no longer loved his wife. This realization
+came as a complete surprise: “I had had no idea until this moment that my love for her was even lessening.”10 In love, then,
+we have a dramatic illustration of the role desire can play in
+human life. It can grab us by the scruff of the neck, shake us
+for a spell, and then discard us.
+Falling in love is only one instance in which we don’t choose
+our desires, but they choose us. The same thing can happen
+with material desires.
+Consider, for example, the predicament of the consumer
+who one day detects in himself a desire to own one of those
+absurdly oversized cars known as sport utility vehicles. Although SUV buyers attempt to give rational justifications for
+their purchase, the justifications rarely ring true—unless the
+buyer happens to be, say, a geologist or a fur trapper. The recent popularity of SUVs is particularly puzzling. SUVs have
+been around for decades: it has been possible to buy a Chevy
+Suburban since the mid-1930s. Why are so many people getting them now? What changed? You can, of course, ask exactly
+the same question about any other consumer fad.
+At the time of this writing, the consumer craving for SUVs
+showed signs of having crested, only to be replaced by an even
+more inexplicable automotive craving—to own a Hummer, the
+modified version of the vehicle designed to transport soldiers
+across war zones. The first consumers who bought Hummers
+looked a bit foolish—they weren’t, after all, living in a war zone.
+But then a funny thing happened. Like a contagious disease, the
+desire for Hummers spread: one by one, the neighbors of Hummer owners found themselves afflicted with Hummer envy.
+
+16
+
+The Secret Life of Desire
+
+Affluent individuals have no end of goods on which to spend
+their money. It is possible, for example, to spend $450,000 on a
+wristwatch, $15,000 on stereo headphones, and $6,000 on a
+Sub-Zero refrigerator. (I recently toured the home of someone who owns one of these refrigerators. “Why do they call it
+Sub-Zero?” I asked, thinking that perhaps its interior was unusually cold. “They call it Sub-Zero,” the homeowner replied,
+“because that’s what my IQ had to be to spend six grand on a
+refrigerator.”) And when people aren’t affluent, they don’t let
+this stop them from acting as though they were. They form
+and act on material desires with reckless abandon. Consider
+the unmarried, unemployed mother of three who, four days
+after buying a used Ford Mustang, spent $2,736—over half the
+car’s Blue Book value—to replace its plastic hubcaps with
+chrome wheels: “Nothing’s worse than plastic hubcaps,” she
+explained.11
+In America, the insatiable craving for consumer goods is in
+large part responsible for more than a million of us going bankrupt each year. It is also responsible for our having, in recent
+years, a negative national savings rate, meaning that the average American, in the average month, not only saves nothing
+but borrows to finance his lifestyle. All this, even though today’s
+Americans enjoy a level of material prosperity that would have
+astonished their great-grandparents.
+For another example of the sudden onset of desire and how it
+can transform our lives, consider the case of Thomas Merton.
+Merton was born in 1915. In his college years, he was a typical
+student, awash in pleasures of the flesh. He drank hard and
+ran around with a fast crowd. He became a father out of wedlock.12 He was, in his own words, “an extremely unpleasant
+
+The Ebb and Flow of Desire
+
+17
+
+sort of a person—vain, self-centered, dissolute, weak, irresolute, undisciplined, sensual, obscene, and proud. I was a
+mess.”13 In less than a decade, he was not just a devout Catholic, and not just a monk in a monastery, but a monk in a Trappist
+monastery, meaning that he had taken a vow of silence and
+agreed to live an ascetic life.
+Whenever anyone travels far—in the personal as opposed to
+the physical sense—in the course of a lifetime, the interesting
+question is, how did that person get from point A to point B? In
+the case of most travelers, the motivations for their journey must
+remain a mystery to the rest of us since the travelers are either
+oblivious to their own motivations or conscious of them but
+unable or unwilling to put into words what it was that drove
+them down the path their lives took. In the case of Merton, we
+are lucky: his autobiographical Seven Storey Mountain lays out
+in great detail the psychology of a man in transition.
+Let us first consider Merton’s desire to convert to Catholicism. It is a classic example of a spontaneous desire: “All of a
+sudden, something began to stir within me, something began
+to push me, to prompt me. It was a movement that spoke like
+a voice.”14 The voice told Merton to go find a priest and express a desire to become a Catholic. He sacrificed his old amusements in order to take instruction, and before he knew it, he
+burned with a desire to be baptized. Conversion, he hoped,
+would make him subordinate his desires to God’s will.
+For most people, this would have been the end of the story,
+but Merton soon came to realize that “there had been another
+thought, half forming itself in the back of my mind—an obscure desire to become a priest.”15 After a night of drinking,
+Merton and his friends were sitting on the floor playing records,
+smoking cigarettes, and eating breakfast, when this “obscure
+
+18
+
+The Secret Life of Desire
+
+desire” revealed itself. “The idea came to me: ‘I am going to be
+a priest.’” The desire, says Merton, “was a strong and sweet
+and deep and insistent attraction that suddenly made itself felt.”
+It was “a new and profound and clear sense that this was what
+I really ought to do.”16
+After deciding to become a priest, Merton had to decide
+which religious order to join. He rejected the Cistercians of
+the Strict Observance, commonly known as the Trappists, as
+being too ascetic, what with their vow of silence and their vegetarianism. (He says that their very name made him shiver.)
+He instead gave the Franciscans a try but found them unsatisfying, inasmuch as their order gave him too much freedom to
+form and pursue desires. He decided that perhaps he was not
+cut out to be a priest and set out to live the most religious life
+a layperson could live.
+Not long after this, he was struck with a new desire: “I suddenly found myself filled with a vivid conviction: ‘The time
+has come for me to go and be a Trappist.’” He didn’t know
+where this desire came from, but it was nevertheless “powerful, irresistible, clear.”17 Why join the Trappists rather than
+some other religious order? Because sometime before, in a
+moment of crisis, he had opened the Bible randomly, put his
+finger down, and read what was there: “Behold, thou shalt be
+silent.” Merton took this as a sign. (Cynics might point out
+that his decision to join a monastery coincided with his receiving a letter from the draft board; World War II had just begun.)
+Merton was not surprised by these sudden onsets of desire
+and by his inability to explain them. To the contrary, he
+unhesitatingly rejected the claim that our desires—and in particular, our most important, life-affecting desires—are formed
+as the result of rational thought. The intellect, he tells us, “is
+
+The Ebb and Flow of Desire
+
+19
+
+constantly being blinded and perverted by the ends and aims
+of passion, and the evidence it presents to us with such a show
+of impartiality and objectivity is fraught with interest and propaganda.” We are, he says, masters of self-delusion. Our desires
+“are fruitful sources of every kind of error and misjudgement,
+and because we have these yearnings in us, our intellects . . .
+present to us everything distorted and accommodated to the
+norms of our desire.”18 As we shall see in later chapters, Merton
+is not alone in thinking that reason tends to be the servant
+rather than the master of desire.
+It is, by the way, instructive to contrast Merton with Bertrand
+Russell. When people hear about how Merton’s life was transformed by sudden desires, they are tempted to think that
+Merton must have had a mystical side that made him susceptible to this sort of thing. A more rational person, they suggest, would not likewise allow himself to be bandied about by
+desire. The thing to realize is that Russell was one of the least
+mystical, most analytical persons ever to have walked the earth,
+and yet his desires had a secret life. No one, it would seem, is
+immune to the sudden onset and equally sudden departure of
+desire.
+Where do spontaneous desires come from? How do they get
+into our heads? Some of our desires are a consequence of our
+evolutionary past. We fall in love because, evolutionary psychologists argue, our ancestors who tended to fall in love were
+more likely to make babies and raise them successfully than
+those who didn’t. Other desires arise because someone has skillfully planted the seeds of desire within us. Why does a consumer
+suddenly find himself wanting an SUV? In most cases, advertising plays a role. Advertisers are experts in transforming an
+
+
