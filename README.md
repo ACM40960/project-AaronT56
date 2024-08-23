@@ -1,5 +1,23 @@
 # Exploring Predictive Insights of Philosophical Sentiment Analysis
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-available-yellow)
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Methodology](#methodology)
+- [Getting Started](#getting-started)
+- [Challenges](#challenges)
+- [Results](#results)
+- [Conclusion](#conclusion)
+- [Future Work](#future-work)
+- [Project Structure](#project-structure)
+- [Support](#support)
+- [Maintainers](#maintainers)
+- [Acknowledgments](#acknowledgments)
+
 ## Project Overview
 
 The intersection of sentiment analysis and philosophy presents a unique challenge due to the abstract and nuanced nature of philosophical texts. Traditional sentiment analysis models are typically designed to assess the emotional tone of simpler textual media, but their effectiveness in classifying texts that convey complex philosophical ideas remains unclear. This project explores whether existing sentiment analysis models can meaningfully classify philosophical texts and, if not, seeks to develop a specialized classification model tailored for this purpose.
@@ -25,8 +43,7 @@ The intersection of sentiment analysis and philosophy presents a unique challeng
 
 3. **Accuracy Metric Meaning**: In order to obtain some meaningful accuracies such that this model can be compared to the BERT binary classification model which was fine tuned, some accuracy metric was required. To obtain this accuracy, the number of 'correctly' classified points was had to be defined. To do this, each philosophical aspect was described as 'positive' or 'negative'. For example, nihilism was considered negative as you may expect the types of narratives in nihilistic texts to have an overall lower sentiment than non-nihilistic texts/philosophers. So, in the nihilism graph, find the lowest sentiment score texts, and check what portion of them have been categorised as nihilistic. For the non-nihilistic texts do the reverse. Using both of these scores, you can obtain the overall number of accuractely classified texts and hence, the overall accuracy. The same process is applied to romanticism and stoicism, where a romantic text is expected to have a higher sentiment score and a stoic text is expected to have lower sentiment scores compared to non-stoic. This permits accuracy measurements to be obtained for each model.
 
-4. **Fine-Tuning BERT**: To address data limitations and enhance model performance, I generalized the three philosophical themes into a binary classification (positive vs. negative). A fine-tuning layer was applied to BERT using this binary classification approach, which permitted the generation of an accuracy score.
-
+4. **Fine-Tuning BERT**: To address data limitations and enhance model performance, I generalized the three philosophical themes into a binary classification (positive vs. negative). A fine-tuning layer was applied to BERT using this binary classification approach, which permitted the generation of an accuracy score. The data was split with a 70-15-15 ratio, retaining sufficient data for validation and testing.
 ## Getting Started
 
 To get started with this project:
@@ -65,6 +82,18 @@ To get started with this project:
 ### Stoicism
 ![Flair Sentiment Analysis for Stoicism](https://github.com/ACM40960/project-AaronT56/blob/main/plots_stoicism/mean_sentiment_score_flair_stoicism_plot.png)
 
+Here are the obtained accuracy values for the rest of the models:
+
+| Model       | Nihilism | Romanticism | Stoicism |
+|-------------|----------|-------------|----------|
+| TextBlob    | 0.58     | 0.55        | 0.30     |
+| VADER       | 0.50     | 0.36        | 0.40     |
+| Flair       | 0.67     | 0.73        | 0.60     |
+| Afinn       | 0.42     | 0.36        | 0.40     |
+| SenticNet   | 0.58     | 0.27        | 0.40     |
+| Transformer | 0.58     | 0.64        | 0.50     |
+| Pattern     | 0.58     | 0.55        | 0.30     |
+
 - **BERT Fine-Tuning**: The BERT model, fine-tuned for binary classification, achieved an accuracy of 64%. This result suggests that sentiment analysis can be effectively applied to philosophical texts when tailored to the specific challenges of abstract and nuanced content with some degree of accuracy. As the data was balanced, this result is meaningful as a meaningless model would produce an accuracy of 50% by just arbitrarily guessing.
 
 ## Conclusion
@@ -73,10 +102,11 @@ This project developed a fine-tuned BERT classification model that achieved a 64
 
 ## Future Work
 
-- **Expand Data Collection**: Improve data acquisition to include a broader range of philosophical texts.
+- **Expand Data Collection**: Gather more texts across additional philosophical themes to improve model diversity and accuracy.
 - **Refine Models**: Further develop and fine-tune models to better handle the unique challenges posed by philosophical texts.
 - **Explore Other Media**: Apply techniques to less complex media like books or TV shows to evaluate the consistency of the findings and perhaps achieve higher accuracies.
-
+- **Incremental Improvements**: Experiment with small data augmentations or preprocessing techniques to enhance model performance on existing tasks. Encourage small, focused contributions to incrementally refine the model and dataset.
+- **Sentiment Analysis and Mental State**: This project has created an understanding that sentiment can be attached to the underlying philosophies a given text has spoken about, and hence the philosophical beliefs a person might hold. Perhaps, if one could explore further ways in which a person's psychological state could be determined solely through the way they speak. If data were available, perhaps with a well-trained model, one could infer the psychological or philosophical prespectives of a person entirely through monitoring their word choices.
 ## Project Structure
 
 - `Sentiment_Analysis_Model_Testing.ipynb`: Jupyter Notebook that contains the implementation of various sentiment analysis models, including TextBlob, VADER, Flair, Afinn, SenticNet, Transformer-based model, and Pattern. This notebook is used to test and compare the performance of these models on different philosophical texts.
