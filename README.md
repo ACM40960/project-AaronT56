@@ -83,13 +83,13 @@ This project developed a fine-tuned BERT classification model that achieved a 64
 
 - `BERT_Fine_Tuned_Model.ipynb`: Jupyter Notebook that implements the fine-tuning of the BERT model for binary classification on the philosophical text data. This notebook generalizes philosophical themes into a binary classification (positive vs. negative) and trains the model accordingly.
 
-- `Abbreviations.ipynb`: Jupyter Notebook used to create the .py file that will be used to create the naming abbreviations of the texts for the x-axis of the graph..
+- `Abbreviations.ipynb`: Jupyter Notebook used to create the .py file that will be used to create the naming abbreviations of the texts for the x-axis of the graph.
 
-- `belief_maps.ipynb`: Jupyter Notebook that deals with creating and visualizing belief maps based on the philosophical texts.
+- `belief_maps.ipynb`: This notebook creates the .py file which is used to map each of the texts in the data set to the belief which they have been categorised into. It is simply a long dictionary.
 
 - `abbreviations.py`: Python script that contains functions and data for handling abbreviations related to the philosophical texts (Nihilism, Romanticism, Stoicism).
 
-- `belief_maps.py`: Python script that includes functions and utilities for generating belief maps from the philosophical texts.
+- `belief_maps.py`: This is the file which is used to map the underlying philosophical beliefs of a text with the texts in the data set.
 
 - `All_Texts/`: Directory containing all of the collected philosophical texts used in the analysis, organized by philosophical theme (Nihilism, Romanticism, Stoicism).
 
@@ -98,8 +98,6 @@ This project developed a fine-tuned BERT classification model that achieved a 64
 - `plots_romanticism/`: Directory containing plots generated from the analysis of Romanticism texts, including sentiment analysis scores.
 
 - `plots_stoicism/`: Directory containing plots generated from the analysis of Stoicism texts, including sentiment analysis scores.
-
-- `All_Texts/`: Directory containing all collected texts used in the project, grouped by philosophical theme.
 
 - `Nihilism/`: Directory containing texts specifically related to Nihilism that were analyzed in the project.
 
